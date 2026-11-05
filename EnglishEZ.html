@@ -244,7 +244,7 @@ nav button .dot{position:absolute;top:5px;left:50%;margin-left:9px;width:10px;he
 .qhero h1{margin:0 0 12px;font-size:36px;font-weight:800;color:#5a2b00}
 .qhero .bubble{display:inline-block;max-width:60%;background:rgba(255,255,255,.35);border-radius:18px;padding:10px 14px;font-size:15px;font-weight:600;line-height:1.45}
 .qhero .art{position:absolute;right:18px;bottom:18px;width:150px;height:150px}
-.qhero .hg{position:absolute;right:16px;top:calc(16px + env(safe-area-inset-top))}
+.qhero .hg{position:absolute;right:16px;top:calc(16px + env(safe-area-inset-top));z-index:3}
 .qsec{font-size:17px;font-weight:700;letter-spacing:.04em;color:var(--muted);text-transform:uppercase;margin:6px 2px 2px}
 .qsub{color:var(--muted);margin:0 2px 12px;font-size:15px}
 .qcard{position:relative;display:flex;align-items:center;gap:14px;background:var(--card);border-radius:18px;padding:16px;margin-bottom:14px;box-shadow:0 4px 0 var(--line);border:2px solid var(--line);width:100%;font:inherit;text-align:left;color:var(--ink);cursor:pointer}
@@ -417,7 +417,12 @@ html[data-theme="dark"] .modpick .nm{text-shadow:none}
 .modpick:active .chev{transform:translateY(3px);box-shadow:0 1px 0 #b02a6c}
 @keyframes chevbob{0%,100%{translate:0 0}50%{translate:0 4px}}
 @media (prefers-reduced-motion:reduce){.modpick .chev{animation:none}}
-.hgear{position:relative;flex:none;width:50px;height:50px;border-radius:50%;border:3px solid #fff;background:#fff0f7;padding:0;cursor:pointer;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:22px;box-shadow:0 0 0 3px #ff9cc4,0 4px 10px rgba(214,51,132,.25)}
+.hgear{position:relative;flex:none;display:flex;flex-direction:column;align-items:center;gap:3px;border:0;background:none;padding:0;cursor:pointer;font:inherit}
+.hgear .hface{position:relative;width:52px;height:52px;border-radius:50%;border:3px solid #fff;background:#fff0f7;overflow:hidden;display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 3px #ff9cc4,0 4px 10px rgba(214,51,132,.25)}
+.hgear .avemo{font-size:30px;line-height:1}
+.hgear .gbadge{position:absolute;right:-6px;top:30px;width:26px;height:26px;border-radius:50%;background:#fff;border:2px solid #ff9cc4;display:flex;align-items:center;justify-content:center;font-size:15px;box-shadow:0 2px 4px rgba(0,0,0,.15)}
+.hgear .glabel{font-size:12px;font-weight:800;color:#d63384;background:#fff;border-radius:99px;padding:1px 8px;line-height:1.4;white-space:nowrap;box-shadow:0 1px 3px rgba(214,51,132,.2)}
+.hgear:active .hface{transform:scale(.94)}
 .hgear .av{width:100%;height:100%;object-fit:cover;display:flex;align-items:center;justify-content:center}
 @media (max-width:600px){.mhead h1{font-size:25px}.modpick .nm{font-size:20px}.hbadge{width:44px;height:44px;font-size:24px}}
 .avpick{background:var(--card);border-radius:18px;padding:14px 16px;margin:-8px 0 18px;box-shadow:0 2px 6px var(--shadow)}
@@ -919,7 +924,11 @@ function renderNav(){
     `<button class="${S.tab===k?'on':''}" onclick="go('${k}')" aria-label="${esc(t('tab_'+k))}">${TAB_ICONS[k]}${k==='quest' && pend ? '<span class="dot"></span>' : ''}<span>${esc(t('tab_'+k))}</span></button>`).join('');
 }
 function focusMode(on){ document.body.classList.toggle('focus', !!on); }
-function gearBtn(){ return `<button class="hgear" onclick="openSettings()" aria-label="${esc(t('settings'))}">${PROF.avatar ? `<img class="av" src="${PROF.avatar}" alt="">` : PROF.emoji ? `<span style="font-size:30px;line-height:1">${esc(PROF.emoji)}</span>` : '⚙️'}</button>`; }
+// Nút Cài đặt: ảnh đại diện + huy hiệu bánh răng + chữ "Cài đặt" cho dễ nhận ra.
+function gearBtn(){
+  const face = PROF.avatar ? `<img class="av" src="${PROF.avatar}" alt="">` : `<span class="avemo">${esc(PROF.emoji || '🙂')}</span>`;
+  return `<button class="hgear" onclick="openSettings()" aria-label="${esc(t('settings'))}"><span class="hface">${face}</span><span class="gbadge" aria-hidden="true">⚙️</span><span class="glabel">${esc(t('settings'))}</span></button>`;
+}
 const HEAD_ICON = {lookup:'🔍', new:'🌷', review:'🧁', book:'📒', quest:'⭐'};
 function greet(){
   const h = new Date().getHours(), name = PROF.nick.trim() || KID;
@@ -2277,7 +2286,7 @@ document.documentElement.lang = SET.lang;
     }
   }catch(e){}
   rebuildGrammar();
-  go('new');
+  go('review');   // mở app luôn vào tab Ôn tập
 })();
 </script>
 </body>
