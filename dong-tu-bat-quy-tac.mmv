@@ -3,8 +3,8 @@
  "version": 1,
  "id": "dong-tu-bqt",
  "name": {
-  "vi": "600 động từ bất quy tắc",
-  "en": "600 Irregular Verbs"
+  "vi": "Động từ bất quy tắc",
+  "en": "Irregular Verbs"
  },
  "icon": "🔁",
  "levels": [
@@ -2436,6 +2436,7275 @@
       "Hãy tha lỗi cho tớ.",
       "Cô ấy đã tha thứ cho em trai.",
       "Tớ đã tha thứ cho cậu rồi."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 15: Ba dạng giống nhau (3)",
+   "level": 2,
+   "icon": "🟰",
+   "note": "V1 = V2 = V3. Thêm 8 động từ không đổi dạng: burst, cast, shed, split, thrust, rid, slit, bid.",
+   "verbs": [
+    {
+     "v1": "burst",
+     "v2": "burst",
+     "v3": "burst",
+     "ipa": [
+      "/bɜːst/",
+      "/bɜːst/",
+      "/bɜːst/"
+     ],
+     "meaning": "nổ, vỡ tung",
+     "icon": "🎈",
+     "examples": [
+      "Balloons burst if you blow too hard.",
+      "The balloon burst with a loud bang.",
+      "Oh no, the water pipe has burst!"
+     ],
+     "examples_vi": [
+      "Bóng bay sẽ nổ nếu cậu thổi quá mạnh.",
+      "Quả bóng bay nổ đánh bụp.",
+      "Ôi không, ống nước bị vỡ rồi!"
+     ]
+    },
+    {
+     "v1": "cast",
+     "v2": "cast",
+     "v3": "cast",
+     "ipa": [
+      "/kɑːst/",
+      "/kɑːst/",
+      "/kɑːst/"
+     ],
+     "meaning": "ném, quăng; chọn vai diễn",
+     "icon": "🎣",
+     "examples": [
+      "Fishermen cast their nets at dawn.",
+      "The wizard cast a magic spell.",
+      "They have cast her as the princess."
+     ],
+     "examples_vi": [
+      "Ngư dân quăng lưới lúc bình minh.",
+      "Phù thủy đã niệm một câu thần chú.",
+      "Họ đã chọn cô ấy đóng vai công chúa."
+     ]
+    },
+    {
+     "v1": "shed",
+     "v2": "shed",
+     "v3": "shed",
+     "ipa": [
+      "/ʃed/",
+      "/ʃed/",
+      "/ʃed/"
+     ],
+     "meaning": "rụng, lột (da)",
+     "icon": "🐍",
+     "examples": [
+      "Snakes shed their skin.",
+      "The trees shed their leaves last month.",
+      "Our dog has shed hair all over the sofa."
+     ],
+     "examples_vi": [
+      "Rắn lột da.",
+      "Tháng trước cây rụng lá.",
+      "Chó nhà tớ rụng lông khắp ghế sofa."
+     ]
+    },
+    {
+     "v1": "split",
+     "v2": "split",
+     "v3": "split",
+     "ipa": [
+      "/splɪt/",
+      "/splɪt/",
+      "/splɪt/"
+     ],
+     "meaning": "chia, tách, bổ",
+     "icon": "🪓",
+     "examples": [
+      "Let's split the cake into four pieces.",
+      "We split the bill yesterday.",
+      "The class has split into two teams."
+     ],
+     "examples_vi": [
+      "Mình chia bánh thành bốn phần nhé.",
+      "Hôm qua chúng tớ chia nhau trả tiền.",
+      "Cả lớp đã chia thành hai đội."
+     ]
+    },
+    {
+     "v1": "thrust",
+     "v2": "thrust",
+     "v3": "thrust",
+     "ipa": [
+      "/θrʌst/",
+      "/θrʌst/",
+      "/θrʌst/"
+     ],
+     "meaning": "đẩy mạnh, dúi, cắm",
+     "icon": "🗡️",
+     "examples": [
+      "Don't thrust your hand into the bag.",
+      "He thrust the letter into my hand.",
+      "The hero has thrust his sword into the stone."
+     ],
+     "examples_vi": [
+      "Đừng thọc tay vào túi.",
+      "Cậu ấy dúi lá thư vào tay tớ.",
+      "Người anh hùng đã cắm thanh kiếm vào tảng đá."
+     ]
+    },
+    {
+     "v1": "rid",
+     "v2": "rid",
+     "v3": "rid",
+     "ipa": [
+      "/rɪd/",
+      "/rɪd/",
+      "/rɪd/"
+     ],
+     "meaning": "loại bỏ, dọn sạch",
+     "icon": "🧹",
+     "note": "Hay gặp: get rid of (vứt bỏ, tống khứ).",
+     "examples": [
+      "We must rid the house of mice.",
+      "The cat rid the kitchen of mice.",
+      "Have you rid your room of old toys?"
+     ],
+     "examples_vi": [
+      "Chúng ta phải đuổi hết chuột khỏi nhà.",
+      "Con mèo đã đuổi sạch chuột khỏi bếp.",
+      "Con đã dọn bỏ đồ chơi cũ khỏi phòng chưa?"
+     ]
+    },
+    {
+     "v1": "slit",
+     "v2": "slit",
+     "v3": "slit",
+     "ipa": [
+      "/slɪt/",
+      "/slɪt/",
+      "/slɪt/"
+     ],
+     "meaning": "rạch, xẻ",
+     "icon": "✂️",
+     "examples": [
+      "Slit the envelope with a knife.",
+      "She slit the bag open carefully.",
+      "Someone has slit the tyre of my bike!"
+     ],
+     "examples_vi": [
+      "Rạch phong bì bằng dao.",
+      "Cô ấy cẩn thận rạch túi ra.",
+      "Ai đó đã rạch lốp xe đạp của tớ!"
+     ]
+    },
+    {
+     "v1": "bid",
+     "v2": "bid",
+     "v3": "bid",
+     "ipa": [
+      "/bɪd/",
+      "/bɪd/",
+      "/bɪd/"
+     ],
+     "meaning": "trả giá (đấu giá)",
+     "icon": "🔨",
+     "note": "Nghĩa cổ \"chào, bảo\" chia: bid – bade – bidden.",
+     "also": {
+      "v2": [
+       "bade"
+      ],
+      "v3": [
+       "bidden"
+      ]
+     },
+     "examples": [
+      "How much will you bid for this painting?",
+      "My uncle bid a lot of money for the old car.",
+      "Nobody has bid for the vase yet."
+     ],
+     "examples_vi": [
+      "Cậu sẽ trả giá bao nhiêu cho bức tranh này?",
+      "Chú tớ trả giá rất cao cho chiếc xe cổ.",
+      "Chưa ai trả giá cho chiếc bình."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 16: Âm dài thành âm ngắn (3)",
+   "level": 2,
+   "icon": "🔉",
+   "note": "V2 = V3. Âm /iː/ đổi thành /e/: bleed → bled, creep → crept, deal → dealt. Riêng light → lit.",
+   "verbs": [
+    {
+     "v1": "bleed",
+     "v2": "bled",
+     "v3": "bled",
+     "ipa": [
+      "/bliːd/",
+      "/bled/",
+      "/bled/"
+     ],
+     "meaning": "chảy máu",
+     "icon": "🩸",
+     "examples": [
+      "Does your knee bleed?",
+      "My finger bled after I cut it.",
+      "The cut has bled a lot."
+     ],
+     "examples_vi": [
+      "Đầu gối cậu có chảy máu không?",
+      "Ngón tay tớ chảy máu sau khi bị đứt.",
+      "Vết đứt đã chảy nhiều máu."
+     ]
+    },
+    {
+     "v1": "breed",
+     "v2": "bred",
+     "v3": "bred",
+     "ipa": [
+      "/briːd/",
+      "/bred/",
+      "/bred/"
+     ],
+     "meaning": "nuôi, lai tạo; sinh sản",
+     "icon": "🐣",
+     "examples": [
+      "Rabbits breed very quickly.",
+      "Grandpa bred chickens on his farm.",
+      "They have bred a new kind of rose."
+     ],
+     "examples_vi": [
+      "Thỏ sinh sản rất nhanh.",
+      "Ông nuôi gà ở trang trại.",
+      "Họ đã lai tạo ra một loại hoa hồng mới."
+     ]
+    },
+    {
+     "v1": "flee",
+     "v2": "fled",
+     "v3": "fled",
+     "ipa": [
+      "/fliː/",
+      "/fled/",
+      "/fled/"
+     ],
+     "meaning": "chạy trốn",
+     "icon": "🏃‍♂️",
+     "examples": [
+      "Animals flee when there is a fire.",
+      "The thief fled when he saw the police.",
+      "The birds have fled from the storm."
+     ],
+     "examples_vi": [
+      "Động vật bỏ chạy khi có cháy.",
+      "Tên trộm bỏ chạy khi thấy cảnh sát.",
+      "Đàn chim đã bay đi tránh bão."
+     ]
+    },
+    {
+     "v1": "creep",
+     "v2": "crept",
+     "v3": "crept",
+     "ipa": [
+      "/kriːp/",
+      "/krept/",
+      "/krept/"
+     ],
+     "meaning": "bò, rón rén",
+     "icon": "🐛",
+     "examples": [
+      "Let's creep up and surprise Mum!",
+      "The cat crept towards the bird.",
+      "A spider has crept into my shoe!"
+     ],
+     "examples_vi": [
+      "Mình rón rén lại gần làm mẹ bất ngờ đi!",
+      "Con mèo rón rén tiến về phía con chim.",
+      "Một con nhện đã bò vào giày tớ!"
+     ]
+    },
+    {
+     "v1": "weep",
+     "v2": "wept",
+     "v3": "wept",
+     "ipa": [
+      "/wiːp/",
+      "/wept/",
+      "/wept/"
+     ],
+     "meaning": "khóc",
+     "icon": "😭",
+     "examples": [
+      "Don't weep, everything will be fine.",
+      "She wept when her puppy was lost.",
+      "The little boy has wept all morning."
+     ],
+     "examples_vi": [
+      "Đừng khóc, mọi chuyện sẽ ổn thôi.",
+      "Cô ấy khóc khi chú cún bị lạc.",
+      "Cậu bé đã khóc cả buổi sáng."
+     ]
+    },
+    {
+     "v1": "deal",
+     "v2": "dealt",
+     "v3": "dealt",
+     "ipa": [
+      "/diːl/",
+      "/delt/",
+      "/delt/"
+     ],
+     "meaning": "chia (bài); giải quyết",
+     "icon": "🃏",
+     "note": "dealt đọc là /delt/.",
+     "examples": [
+      "It's your turn to deal the cards.",
+      "Grandma dealt five cards to each of us.",
+      "The teacher has dealt with the problem."
+     ],
+     "examples_vi": [
+      "Đến lượt cậu chia bài.",
+      "Bà chia cho mỗi đứa năm lá bài.",
+      "Cô giáo đã giải quyết vấn đề."
+     ]
+    },
+    {
+     "v1": "light",
+     "v2": "lit",
+     "v3": "lit",
+     "ipa": [
+      "/laɪt/",
+      "/lɪt/",
+      "/lɪt/"
+     ],
+     "meaning": "thắp, châm (lửa)",
+     "icon": "🕯️",
+     "note": "Cũng có dạng lighted.",
+     "also": {
+      "v2": [
+       "lighted"
+      ],
+      "v3": [
+       "lighted"
+      ]
+     },
+     "examples": [
+      "Let's light the candles on the cake.",
+      "Dad lit a fire to keep us warm.",
+      "Have you lit the lanterns?"
+     ],
+     "examples_vi": [
+      "Thắp nến trên bánh nào.",
+      "Bố nhóm lửa sưởi ấm cho chúng tớ.",
+      "Cậu thắp đèn lồng chưa?"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 17: -ind thành -ound & nguyên âm thành u (2)",
+   "level": 2,
+   "icon": "🌀",
+   "note": "bind, grind, wind: -ind đổi thành -ound /aʊnd/. cling, fling, sling, string, wring, slink, strike: nguyên âm đổi thành u /ʌ/ (V2 = V3).",
+   "verbs": [
+    {
+     "v1": "bind",
+     "v2": "bound",
+     "v3": "bound",
+     "ipa": [
+      "/baɪnd/",
+      "/baʊnd/",
+      "/baʊnd/"
+     ],
+     "meaning": "buộc, đóng (sách)",
+     "icon": "📚",
+     "examples": [
+      "Use a rope to bind the sticks together.",
+      "They bound the old books with new covers.",
+      "The workers have bound the papers into a book."
+     ],
+     "examples_vi": [
+      "Dùng dây để buộc các que lại với nhau.",
+      "Họ đóng lại những cuốn sách cũ bằng bìa mới.",
+      "Các chú công nhân đã đóng xấp giấy thành sách."
+     ]
+    },
+    {
+     "v1": "grind",
+     "v2": "ground",
+     "v3": "ground",
+     "ipa": [
+      "/ɡraɪnd/",
+      "/ɡraʊnd/",
+      "/ɡraʊnd/"
+     ],
+     "meaning": "xay, nghiền",
+     "icon": "☕",
+     "examples": [
+      "Grandma likes to grind her own coffee.",
+      "We ground the rice into flour.",
+      "Mum has ground some pepper for the soup."
+     ],
+     "examples_vi": [
+      "Bà thích tự xay cà phê.",
+      "Chúng tớ xay gạo thành bột.",
+      "Mẹ đã xay ít tiêu cho món canh."
+     ]
+    },
+    {
+     "v1": "wind",
+     "v2": "wound",
+     "v3": "wound",
+     "ipa": [
+      "/waɪnd/",
+      "/waʊnd/",
+      "/waʊnd/"
+     ],
+     "meaning": "quấn, lên dây cót",
+     "icon": "🧶",
+     "note": "Động từ wind đọc /waɪnd/, khác danh từ wind /wɪnd/ (gió).",
+     "examples": [
+      "Wind the string around the stick.",
+      "Grandpa wound the old clock.",
+      "Have you wound up the toy car?"
+     ],
+     "examples_vi": [
+      "Quấn sợi dây quanh que.",
+      "Ông lên dây cót chiếc đồng hồ cũ.",
+      "Cậu lên dây cót xe đồ chơi chưa?"
+     ]
+    },
+    {
+     "v1": "cling",
+     "v2": "clung",
+     "v3": "clung",
+     "ipa": [
+      "/klɪŋ/",
+      "/klʌŋ/",
+      "/klʌŋ/"
+     ],
+     "meaning": "bám chặt",
+     "icon": "🐨",
+     "examples": [
+      "Baby koalas cling to their mothers.",
+      "The little girl clung to her dad's hand.",
+      "The wet shirt has clung to his back."
+     ],
+     "examples_vi": [
+      "Gấu túi con bám chặt lấy mẹ.",
+      "Cô bé bám chặt tay bố.",
+      "Chiếc áo ướt dính chặt vào lưng cậu ấy."
+     ]
+    },
+    {
+     "v1": "fling",
+     "v2": "flung",
+     "v3": "flung",
+     "ipa": [
+      "/flɪŋ/",
+      "/flʌŋ/",
+      "/flʌŋ/"
+     ],
+     "meaning": "ném mạnh, quăng",
+     "icon": "🤾",
+     "examples": [
+      "Don't fling your clothes on the floor!",
+      "He flung the ball across the field.",
+      "Someone has flung a shoe onto the roof."
+     ],
+     "examples_vi": [
+      "Đừng quăng quần áo xuống sàn!",
+      "Cậu ấy ném mạnh quả bóng qua sân.",
+      "Ai đó đã quăng chiếc giày lên mái nhà."
+     ]
+    },
+    {
+     "v1": "sling",
+     "v2": "slung",
+     "v3": "slung",
+     "ipa": [
+      "/slɪŋ/",
+      "/slʌŋ/",
+      "/slʌŋ/"
+     ],
+     "meaning": "đeo, quàng, vắt",
+     "icon": "🎒",
+     "examples": [
+      "Sling your bag over your shoulder.",
+      "She slung her coat over the chair.",
+      "He has slung the hammock between two trees."
+     ],
+     "examples_vi": [
+      "Đeo cặp lên vai đi.",
+      "Cô ấy vắt áo khoác lên ghế.",
+      "Anh ấy đã mắc võng giữa hai cái cây."
+     ]
+    },
+    {
+     "v1": "string",
+     "v2": "strung",
+     "v3": "strung",
+     "ipa": [
+      "/strɪŋ/",
+      "/strʌŋ/",
+      "/strʌŋ/"
+     ],
+     "meaning": "xâu, giăng dây",
+     "icon": "📿",
+     "examples": [
+      "Let's string these beads into a necklace.",
+      "We strung lights around the Christmas tree.",
+      "Dad has strung my guitar with new strings."
+     ],
+     "examples_vi": [
+      "Mình xâu những hạt này thành vòng cổ nhé.",
+      "Chúng tớ giăng đèn quanh cây thông Noel.",
+      "Bố đã thay dây mới cho đàn ghi-ta của tớ."
+     ]
+    },
+    {
+     "v1": "wring",
+     "v2": "wrung",
+     "v3": "wrung",
+     "ipa": [
+      "/rɪŋ/",
+      "/rʌŋ/",
+      "/rʌŋ/"
+     ],
+     "meaning": "vắt (khăn, quần áo)",
+     "icon": "🧺",
+     "note": "Chữ w đầu không đọc.",
+     "examples": [
+      "Wring the towel before you hang it up.",
+      "She wrung the water out of her wet socks.",
+      "Have you wrung out the cloth?"
+     ],
+     "examples_vi": [
+      "Vắt khăn trước khi phơi.",
+      "Cô ấy vắt nước khỏi đôi tất ướt.",
+      "Con vắt khăn lau chưa?"
+     ]
+    },
+    {
+     "v1": "slink",
+     "v2": "slunk",
+     "v3": "slunk",
+     "ipa": [
+      "/slɪŋk/",
+      "/slʌŋk/",
+      "/slʌŋk/"
+     ],
+     "meaning": "lẩn đi, lén đi",
+     "icon": "🐈",
+     "examples": [
+      "Cats slink away when they are scared.",
+      "The dog slunk under the table after it broke the vase.",
+      "The fox has slunk back into the forest."
+     ],
+     "examples_vi": [
+      "Mèo lẩn đi khi chúng sợ.",
+      "Chú chó lẩn xuống gầm bàn sau khi làm vỡ bình.",
+      "Con cáo đã lẩn vào rừng."
+     ]
+    },
+    {
+     "v1": "strike",
+     "v2": "struck",
+     "v3": "struck",
+     "ipa": [
+      "/straɪk/",
+      "/strʌk/",
+      "/strʌk/"
+     ],
+     "meaning": "đánh, đập; (sét) đánh",
+     "icon": "⚡",
+     "note": "Dạng stricken dùng như tính từ (bị tác động nặng).",
+     "also": {
+      "v3": [
+       "stricken"
+      ]
+     },
+     "examples": [
+      "Lightning can strike tall trees.",
+      "The clock struck twelve.",
+      "Lightning has struck the old tower."
+     ],
+     "examples_vi": [
+      "Sét có thể đánh vào cây cao.",
+      "Đồng hồ điểm mười hai giờ.",
+      "Sét đã đánh vào tòa tháp cũ."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 18: Nhóm i – a – u (2)",
+   "level": 2,
+   "icon": "🎵",
+   "note": "spring, shrink, stink: i → a → u. spit: i → a (spat). forbid: forbid – forbade – forbidden.",
+   "verbs": [
+    {
+     "v1": "spring",
+     "v2": "sprang",
+     "v3": "sprung",
+     "ipa": [
+      "/sprɪŋ/",
+      "/spræŋ/",
+      "/sprʌŋ/"
+     ],
+     "meaning": "nhảy bật lên",
+     "icon": "🦘",
+     "also": {
+      "v2": [
+       "sprung"
+      ]
+     },
+     "examples": [
+      "Frogs spring into the water.",
+      "The cat sprang onto the table.",
+      "The jack-in-the-box has sprung out!"
+     ],
+     "examples_vi": [
+      "Ếch nhảy bật xuống nước.",
+      "Con mèo bật lên bàn.",
+      "Con rối lò xo đã bật ra!"
+     ]
+    },
+    {
+     "v1": "shrink",
+     "v2": "shrank",
+     "v3": "shrunk",
+     "ipa": [
+      "/ʃrɪŋk/",
+      "/ʃræŋk/",
+      "/ʃrʌŋk/"
+     ],
+     "meaning": "co lại",
+     "icon": "👕",
+     "also": {
+      "v2": [
+       "shrunk"
+      ]
+     },
+     "examples": [
+      "Wool sweaters shrink in hot water.",
+      "My T-shirt shrank in the wash.",
+      "Oh no, my jeans have shrunk!"
+     ],
+     "examples_vi": [
+      "Áo len co lại khi giặt nước nóng.",
+      "Áo phông của tớ bị co sau khi giặt.",
+      "Ôi không, quần bò của tớ bị co rồi!"
+     ]
+    },
+    {
+     "v1": "stink",
+     "v2": "stank",
+     "v3": "stunk",
+     "ipa": [
+      "/stɪŋk/",
+      "/stæŋk/",
+      "/stʌŋk/"
+     ],
+     "meaning": "bốc mùi hôi",
+     "icon": "🦨",
+     "also": {
+      "v2": [
+       "stunk"
+      ]
+     },
+     "examples": [
+      "Old socks stink!",
+      "The rubbish bin stank all day.",
+      "The fish has stunk up the whole fridge."
+     ],
+     "examples_vi": [
+      "Tất cũ bốc mùi lắm!",
+      "Thùng rác bốc mùi cả ngày.",
+      "Con cá làm cả tủ lạnh bốc mùi."
+     ]
+    },
+    {
+     "v1": "spit",
+     "v2": "spat",
+     "v3": "spat",
+     "ipa": [
+      "/spɪt/",
+      "/spæt/",
+      "/spæt/"
+     ],
+     "meaning": "nhổ, khạc",
+     "icon": "💦",
+     "note": "Tiếng Anh–Mỹ cũng dùng spit cho V2, V3.",
+     "also": {
+      "v2": [
+       "spit"
+      ],
+      "v3": [
+       "spit"
+      ]
+     },
+     "examples": [
+      "Don't spit on the street!",
+      "The baby spat out her medicine.",
+      "The llama has spat at the visitor!"
+     ],
+     "examples_vi": [
+      "Đừng khạc nhổ ra đường!",
+      "Em bé nhổ thuốc ra.",
+      "Con lạc đà không bướu đã nhổ nước bọt vào du khách!"
+     ]
+    },
+    {
+     "v1": "forbid",
+     "v2": "forbade",
+     "v3": "forbidden",
+     "ipa": [
+      "/fəˈbɪd/",
+      "/fəˈbæd/",
+      "/fəˈbɪdn/"
+     ],
+     "meaning": "cấm",
+     "icon": "🚫",
+     "note": "V2 đọc /fəˈbæd/ hoặc /fəˈbeɪd/.",
+     "also": {
+      "v2": [
+       "forbad"
+      ]
+     },
+     "examples": [
+      "Our school rules forbid running in the hallway.",
+      "Mum forbade us to eat sweets before dinner.",
+      "Swimming in this lake is forbidden."
+     ],
+     "examples_vi": [
+      "Nội quy trường cấm chạy ở hành lang.",
+      "Mẹ cấm chúng tớ ăn kẹo trước bữa tối.",
+      "Bơi ở hồ này bị cấm."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 19: V2 có o, V3 thêm -n (2)",
+   "level": 2,
+   "icon": "🅾️",
+   "note": "swear, bear: V2 -ore, V3 -orn. tread, weave, stride, arise, awake: V2 có o, V3 thêm -n/-en. lie (nằm): lie – lay – lain.",
+   "verbs": [
+    {
+     "v1": "swear",
+     "v2": "swore",
+     "v3": "sworn",
+     "ipa": [
+      "/sweə/",
+      "/swɔː/",
+      "/swɔːn/"
+     ],
+     "meaning": "thề",
+     "icon": "🤞",
+     "examples": [
+      "I swear I didn't eat your cake!",
+      "The knight swore to protect the king.",
+      "They have sworn to be best friends forever."
+     ],
+     "examples_vi": [
+      "Tớ thề là tớ không ăn bánh của cậu!",
+      "Hiệp sĩ thề bảo vệ nhà vua.",
+      "Họ đã thề làm bạn thân mãi mãi."
+     ]
+    },
+    {
+     "v1": "bear",
+     "v2": "bore",
+     "v3": "born/borne",
+     "ipa": [
+      "/beə/",
+      "/bɔː/",
+      "/bɔːn/"
+     ],
+     "meaning": "chịu đựng; sinh ra",
+     "icon": "🐻",
+     "note": "born dùng cho \"được sinh ra\" (I was born…); borne dùng cho \"chịu đựng, mang\".",
+     "examples": [
+      "I can't bear the noise!",
+      "She bore the pain bravely.",
+      "I was born in Hai Phong."
+     ],
+     "examples_vi": [
+      "Tớ không chịu nổi tiếng ồn!",
+      "Cô ấy chịu đau rất dũng cảm.",
+      "Tớ sinh ra ở Hải Phòng."
+     ]
+    },
+    {
+     "v1": "tread",
+     "v2": "trod",
+     "v3": "trodden",
+     "ipa": [
+      "/tred/",
+      "/trɒd/",
+      "/ˈtrɒdn/"
+     ],
+     "meaning": "giẫm, bước lên",
+     "icon": "👣",
+     "also": {
+      "v3": [
+       "trod"
+      ]
+     },
+     "examples": [
+      "Don't tread on the flowers!",
+      "Someone trod on my foot on the bus.",
+      "The grass has been trodden flat."
+     ],
+     "examples_vi": [
+      "Đừng giẫm lên hoa!",
+      "Ai đó giẫm lên chân tớ trên xe buýt.",
+      "Cỏ đã bị giẫm bẹp."
+     ]
+    },
+    {
+     "v1": "weave",
+     "v2": "wove",
+     "v3": "woven",
+     "ipa": [
+      "/wiːv/",
+      "/wəʊv/",
+      "/ˈwəʊvn/"
+     ],
+     "meaning": "dệt, đan",
+     "icon": "🧺",
+     "note": "Nghĩa \"đi lắt léo\" chia có quy tắc: weaved.",
+     "also": {
+      "v2": [
+       "weaved"
+      ],
+      "v3": [
+       "weaved"
+      ]
+     },
+     "examples": [
+      "Spiders weave webs.",
+      "Grandma wove a basket from bamboo.",
+      "This carpet was woven by hand."
+     ],
+     "examples_vi": [
+      "Nhện giăng tơ.",
+      "Bà đan một cái giỏ bằng tre.",
+      "Tấm thảm này được dệt bằng tay."
+     ]
+    },
+    {
+     "v1": "stride",
+     "v2": "strode",
+     "v3": "stridden",
+     "ipa": [
+      "/straɪd/",
+      "/strəʊd/",
+      "/ˈstrɪdn/"
+     ],
+     "meaning": "sải bước",
+     "icon": "🚶‍♂️",
+     "note": "V3 stridden rất ít gặp.",
+     "also": {
+      "v3": [
+       "strode"
+      ]
+     },
+     "examples": [
+      "Watch him stride across the stage.",
+      "The teacher strode into the classroom.",
+      "He has stridden across the field."
+     ],
+     "examples_vi": [
+      "Xem anh ấy sải bước trên sân khấu kìa.",
+      "Cô giáo sải bước vào lớp.",
+      "Anh ấy đã sải bước qua cánh đồng."
+     ]
+    },
+    {
+     "v1": "arise",
+     "v2": "arose",
+     "v3": "arisen",
+     "ipa": [
+      "/əˈraɪz/",
+      "/əˈrəʊz/",
+      "/əˈrɪzn/"
+     ],
+     "meaning": "nảy sinh, xuất hiện",
+     "icon": "💡",
+     "note": "Chia giống rise.",
+     "examples": [
+      "Call me if any problems arise.",
+      "A new idea arose during the game.",
+      "A big question has arisen."
+     ],
+     "examples_vi": [
+      "Gọi tớ nếu có vấn đề gì nảy sinh.",
+      "Một ý tưởng mới nảy ra trong lúc chơi.",
+      "Một câu hỏi lớn đã xuất hiện."
+     ]
+    },
+    {
+     "v1": "awake",
+     "v2": "awoke",
+     "v3": "awoken",
+     "ipa": [
+      "/əˈweɪk/",
+      "/əˈwəʊk/",
+      "/əˈwəʊkən/"
+     ],
+     "meaning": "thức dậy, tỉnh giấc",
+     "icon": "🌅",
+     "note": "Chia giống wake.",
+     "also": {
+      "v2": [
+       "awaked"
+      ],
+      "v3": [
+       "awaked"
+      ]
+     },
+     "examples": [
+      "Birds awake at sunrise.",
+      "I awoke to the sound of rain.",
+      "The baby has awoken from her nap."
+     ],
+     "examples_vi": [
+      "Chim thức dậy lúc mặt trời mọc.",
+      "Tớ tỉnh giấc vì tiếng mưa.",
+      "Em bé đã tỉnh giấc ngủ trưa."
+     ]
+    },
+    {
+     "v1": "lie",
+     "v2": "lay",
+     "v3": "lain",
+     "ipa": [
+      "/laɪ/",
+      "/leɪ/",
+      "/leɪn/"
+     ],
+     "meaning": "nằm",
+     "icon": "🛌",
+     "note": "lie (nằm) khác lie (nói dối, có quy tắc: lied). Đừng nhầm với lay (đặt): lay – laid – laid.",
+     "examples": [
+      "I like to lie on the grass.",
+      "The cat lay in the sun all afternoon.",
+      "The old boat has lain on the beach for years."
+     ],
+     "examples_vi": [
+      "Tớ thích nằm trên bãi cỏ.",
+      "Con mèo nằm phơi nắng cả buổi chiều.",
+      "Con thuyền cũ đã nằm trên bãi biển nhiều năm."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 20: V2 có quy tắc, V3 tận cùng -n",
+   "level": 2,
+   "icon": "🧵",
+   "note": "V2 thêm -ed như động từ thường, V3 tận cùng -n. Dạng V3 thêm -ed cũng được chấp nhận.",
+   "verbs": [
+    {
+     "v1": "sew",
+     "v2": "sewed",
+     "v3": "sewn",
+     "ipa": [
+      "/səʊ/",
+      "/səʊd/",
+      "/səʊn/"
+     ],
+     "meaning": "khâu, may",
+     "icon": "🪡",
+     "note": "sew đọc /səʊ/, giống so.",
+     "also": {
+      "v3": [
+       "sewed"
+      ]
+     },
+     "examples": [
+      "Can you sew a button on my shirt?",
+      "Grandma sewed me a pretty dress.",
+      "She has sewn a name tag on my bag."
+     ],
+     "examples_vi": [
+      "Mẹ khâu giúp con cái cúc áo được không?",
+      "Bà may cho tớ một chiếc váy xinh.",
+      "Cô ấy đã khâu thẻ tên lên cặp tớ."
+     ]
+    },
+    {
+     "v1": "sow",
+     "v2": "sowed",
+     "v3": "sown",
+     "ipa": [
+      "/səʊ/",
+      "/səʊd/",
+      "/səʊn/"
+     ],
+     "meaning": "gieo (hạt)",
+     "icon": "🌾",
+     "also": {
+      "v3": [
+       "sowed"
+      ]
+     },
+     "examples": [
+      "Farmers sow rice in spring.",
+      "We sowed sunflower seeds in the garden.",
+      "Grandpa has sown the seeds already."
+     ],
+     "examples_vi": [
+      "Nông dân gieo lúa vào mùa xuân.",
+      "Chúng tớ gieo hạt hướng dương trong vườn.",
+      "Ông đã gieo hạt xong rồi."
+     ]
+    },
+    {
+     "v1": "mow",
+     "v2": "mowed",
+     "v3": "mown",
+     "ipa": [
+      "/məʊ/",
+      "/məʊd/",
+      "/məʊn/"
+     ],
+     "meaning": "cắt (cỏ)",
+     "icon": "🌿",
+     "also": {
+      "v3": [
+       "mowed"
+      ]
+     },
+     "examples": [
+      "Dad will mow the lawn on Sunday.",
+      "Uncle Nam mowed the grass yesterday.",
+      "The field has been mown."
+     ],
+     "examples_vi": [
+      "Chủ nhật bố sẽ cắt cỏ.",
+      "Hôm qua chú Nam cắt cỏ.",
+      "Cánh đồng đã được cắt cỏ."
+     ]
+    },
+    {
+     "v1": "swell",
+     "v2": "swelled",
+     "v3": "swollen",
+     "ipa": [
+      "/swel/",
+      "/sweld/",
+      "/ˈswəʊlən/"
+     ],
+     "meaning": "sưng lên, dâng lên",
+     "icon": "🫧",
+     "also": {
+      "v3": [
+       "swelled"
+      ]
+     },
+     "examples": [
+      "Your ankle may swell after the fall.",
+      "The river swelled after the heavy rain.",
+      "My finger has swollen up."
+     ],
+     "examples_vi": [
+      "Mắt cá chân cậu có thể sưng lên sau cú ngã.",
+      "Nước sông dâng cao sau trận mưa lớn.",
+      "Ngón tay tớ sưng lên rồi."
+     ]
+    },
+    {
+     "v1": "prove",
+     "v2": "proved",
+     "v3": "proven",
+     "ipa": [
+      "/pruːv/",
+      "/pruːvd/",
+      "/ˈpruːvn/"
+     ],
+     "meaning": "chứng minh",
+     "icon": "🔬",
+     "also": {
+      "v3": [
+       "proved"
+      ]
+     },
+     "examples": [
+      "Can you prove it?",
+      "She proved that the answer was right.",
+      "Scientists have proven that the Earth is round."
+     ],
+     "examples_vi": [
+      "Cậu chứng minh được không?",
+      "Cô ấy đã chứng minh đáp án đúng.",
+      "Các nhà khoa học đã chứng minh Trái Đất hình cầu."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 21: Họ của come – go – run",
+   "level": 2,
+   "icon": "🏃",
+   "note": "Động từ có tiền tố chia giống động từ gốc: overcome giống come, undergo và forgo giống go, outrun – overrun – rerun giống run.",
+   "verbs": [
+    {
+     "v1": "overcome",
+     "v2": "overcame",
+     "v3": "overcome",
+     "ipa": [
+      "/ˌəʊvəˈkʌm/",
+      "/ˌəʊvəˈkeɪm/",
+      "/ˌəʊvəˈkʌm/"
+     ],
+     "meaning": "vượt qua",
+     "icon": "💪",
+     "note": "Chia giống come: come – came – come.",
+     "examples": [
+      "You can overcome your fear!",
+      "She overcame her fear of the dark.",
+      "He has overcome many problems."
+     ],
+     "examples_vi": [
+      "Cậu có thể vượt qua nỗi sợ!",
+      "Cô ấy đã vượt qua nỗi sợ bóng tối.",
+      "Anh ấy đã vượt qua nhiều khó khăn."
+     ]
+    },
+    {
+     "v1": "undergo",
+     "v2": "underwent",
+     "v3": "undergone",
+     "ipa": [
+      "/ˌʌndəˈɡəʊ/",
+      "/ˌʌndəˈwent/",
+      "/ˌʌndəˈɡɒn/"
+     ],
+     "meaning": "trải qua (phẫu thuật, thay đổi)",
+     "icon": "🏥",
+     "note": "Chia giống go: go – went – gone.",
+     "examples": [
+      "Caterpillars undergo a big change.",
+      "Grandpa underwent an operation last year.",
+      "Our town has undergone many changes."
+     ],
+     "examples_vi": [
+      "Sâu bướm trải qua một sự thay đổi lớn.",
+      "Năm ngoái ông đã trải qua một ca phẫu thuật.",
+      "Thị trấn của chúng tớ đã trải qua nhiều thay đổi."
+     ]
+    },
+    {
+     "v1": "forgo",
+     "v2": "forwent",
+     "v3": "forgone",
+     "ipa": [
+      "/fəˈɡəʊ/",
+      "/fəˈwent/",
+      "/fəˈɡɒn/"
+     ],
+     "meaning": "từ bỏ, nhịn",
+     "icon": "🙅",
+     "note": "Chia giống go: go – went – gone. Cũng viết forego.",
+     "examples": [
+      "I will forgo dessert today.",
+      "She forwent her holiday to help her mum.",
+      "He has forgone sweets for a month."
+     ],
+     "examples_vi": [
+      "Hôm nay tớ sẽ bỏ món tráng miệng.",
+      "Cô ấy bỏ kỳ nghỉ để giúp mẹ.",
+      "Cậu ấy đã nhịn đồ ngọt cả tháng."
+     ]
+    },
+    {
+     "v1": "outrun",
+     "v2": "outran",
+     "v3": "outrun",
+     "ipa": [
+      "/ˌaʊtˈrʌn/",
+      "/ˌaʊtˈræn/",
+      "/ˌaʊtˈrʌn/"
+     ],
+     "meaning": "chạy nhanh hơn",
+     "icon": "🐆",
+     "note": "Chia giống run: run – ran – run.",
+     "examples": [
+      "Nobody can outrun a cheetah.",
+      "The rabbit outran the fox.",
+      "Our team has outrun every other team."
+     ],
+     "examples_vi": [
+      "Không ai chạy nhanh hơn báo săn được.",
+      "Con thỏ chạy nhanh hơn con cáo.",
+      "Đội tớ đã chạy nhanh hơn mọi đội khác."
+     ]
+    },
+    {
+     "v1": "overrun",
+     "v2": "overran",
+     "v3": "overrun",
+     "ipa": [
+      "/ˌəʊvəˈrʌn/",
+      "/ˌəʊvəˈræn/",
+      "/ˌəʊvəˈrʌn/"
+     ],
+     "meaning": "tràn ngập; quá giờ",
+     "icon": "🐜",
+     "note": "Chia giống run: run – ran – run.",
+     "examples": [
+      "Ants will overrun the kitchen if you leave food out.",
+      "The meeting overran by half an hour.",
+      "Weeds have overrun the garden."
+     ],
+     "examples_vi": [
+      "Kiến sẽ tràn ngập bếp nếu cậu để thức ăn ra ngoài.",
+      "Cuộc họp kéo dài quá nửa tiếng.",
+      "Cỏ dại đã mọc tràn ngập khu vườn."
+     ]
+    },
+    {
+     "v1": "rerun",
+     "v2": "reran",
+     "v3": "rerun",
+     "ipa": [
+      "/ˌriːˈrʌn/",
+      "/ˌriːˈræn/",
+      "/ˌriːˈrʌn/"
+     ],
+     "meaning": "chiếu lại; chạy lại",
+     "icon": "📺",
+     "note": "Chia giống run: run – ran – run.",
+     "examples": [
+      "They will rerun the cartoon tomorrow.",
+      "We reran the race because of the rain.",
+      "This film has been rerun many times."
+     ],
+     "examples_vi": [
+      "Ngày mai họ sẽ chiếu lại phim hoạt hình.",
+      "Chúng tớ chạy lại cuộc đua vì trời mưa.",
+      "Bộ phim này đã được chiếu lại nhiều lần."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 22: Họ của take",
+   "level": 2,
+   "icon": "📸",
+   "note": "mistake, overtake, undertake, retake, partake: chia giống take – took – taken.",
+   "verbs": [
+    {
+     "v1": "mistake",
+     "v2": "mistook",
+     "v3": "mistaken",
+     "ipa": [
+      "/mɪˈsteɪk/",
+      "/mɪˈstʊk/",
+      "/mɪˈsteɪkən/"
+     ],
+     "meaning": "nhầm lẫn",
+     "icon": "🤦‍♀️",
+     "note": "Chia giống take: take – took – taken.",
+     "examples": [
+      "People often mistake me for my sister.",
+      "I mistook salt for sugar!",
+      "Sorry, I have mistaken your umbrella for mine."
+     ],
+     "examples_vi": [
+      "Mọi người hay nhầm tớ với chị gái.",
+      "Tớ nhầm muối thành đường!",
+      "Xin lỗi, tớ nhầm ô của cậu là của tớ."
+     ]
+    },
+    {
+     "v1": "overtake",
+     "v2": "overtook",
+     "v3": "overtaken",
+     "ipa": [
+      "/ˌəʊvəˈteɪk/",
+      "/ˌəʊvəˈtʊk/",
+      "/ˌəʊvəˈteɪkən/"
+     ],
+     "meaning": "vượt (xe)",
+     "icon": "🏎️",
+     "note": "Chia giống take: take – took – taken.",
+     "examples": [
+      "Don't overtake on a bend.",
+      "The red car overtook the bus.",
+      "A motorbike has overtaken us."
+     ],
+     "examples_vi": [
+      "Đừng vượt xe ở khúc cua.",
+      "Chiếc xe đỏ vượt qua xe buýt.",
+      "Một chiếc xe máy đã vượt qua chúng tớ."
+     ]
+    },
+    {
+     "v1": "undertake",
+     "v2": "undertook",
+     "v3": "undertaken",
+     "ipa": [
+      "/ˌʌndəˈteɪk/",
+      "/ˌʌndəˈtʊk/",
+      "/ˌʌndəˈteɪkən/"
+     ],
+     "meaning": "đảm nhận",
+     "icon": "📋",
+     "note": "Chia giống take: take – took – taken.",
+     "examples": [
+      "Who will undertake this job?",
+      "Our class undertook a big project.",
+      "She has undertaken to look after the plants."
+     ],
+     "examples_vi": [
+      "Ai sẽ đảm nhận công việc này?",
+      "Lớp tớ đã đảm nhận một dự án lớn.",
+      "Cô ấy đã nhận chăm sóc cây cối."
+     ]
+    },
+    {
+     "v1": "retake",
+     "v2": "retook",
+     "v3": "retaken",
+     "ipa": [
+      "/ˌriːˈteɪk/",
+      "/ˌriːˈtʊk/",
+      "/ˌriːˈteɪkən/"
+     ],
+     "meaning": "thi lại; chụp lại",
+     "icon": "🔁",
+     "note": "Chia giống take: take – took – taken.",
+     "examples": [
+      "You can retake the test next week.",
+      "We retook the photo because I blinked.",
+      "He has retaken the exam and passed."
+     ],
+     "examples_vi": [
+      "Cậu có thể thi lại tuần sau.",
+      "Chúng tớ chụp lại ảnh vì tớ chớp mắt.",
+      "Cậu ấy đã thi lại và đỗ."
+     ]
+    },
+    {
+     "v1": "partake",
+     "v2": "partook",
+     "v3": "partaken",
+     "ipa": [
+      "/pɑːˈteɪk/",
+      "/pɑːˈtʊk/",
+      "/pɑːˈteɪkən/"
+     ],
+     "meaning": "tham gia; dùng (đồ ăn)",
+     "icon": "🍽️",
+     "note": "Chia giống take: take – took – taken.",
+     "examples": [
+      "Everyone can partake in the festival.",
+      "The guests partook of the feast.",
+      "All the children have partaken in the game."
+     ],
+     "examples_vi": [
+      "Mọi người đều có thể tham gia lễ hội.",
+      "Các vị khách đã cùng dự bữa tiệc.",
+      "Tất cả các bạn nhỏ đã tham gia trò chơi."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 23: Họ của stand – hold – draw",
+   "level": 2,
+   "icon": "🏛️",
+   "note": "withstand, misunderstand giống stand; withhold, uphold, behold giống hold; withdraw, overdraw, redraw giống draw.",
+   "verbs": [
+    {
+     "v1": "withstand",
+     "v2": "withstood",
+     "v3": "withstood",
+     "ipa": [
+      "/wɪðˈstænd/",
+      "/wɪðˈstʊd/",
+      "/wɪðˈstʊd/"
+     ],
+     "meaning": "chịu được, trụ vững",
+     "icon": "🏰",
+     "note": "Chia giống stand: stand – stood – stood.",
+     "examples": [
+      "This house can withstand strong winds.",
+      "The old bridge withstood the storm.",
+      "These trees have withstood many winters."
+     ],
+     "examples_vi": [
+      "Ngôi nhà này chịu được gió mạnh.",
+      "Cây cầu cũ đã trụ vững qua cơn bão.",
+      "Những cái cây này đã trải qua nhiều mùa đông."
+     ]
+    },
+    {
+     "v1": "misunderstand",
+     "v2": "misunderstood",
+     "v3": "misunderstood",
+     "ipa": [
+      "/ˌmɪsˌʌndəˈstænd/",
+      "/ˌmɪsˌʌndəˈstʊd/",
+      "/ˌmɪsˌʌndəˈstʊd/"
+     ],
+     "meaning": "hiểu lầm",
+     "icon": "😕",
+     "note": "Chia giống understand: understand – understood – understood.",
+     "examples": [
+      "Please don't misunderstand me.",
+      "I misunderstood the question.",
+      "I think you have misunderstood her."
+     ],
+     "examples_vi": [
+      "Xin đừng hiểu lầm tớ.",
+      "Tớ đã hiểu nhầm câu hỏi.",
+      "Tớ nghĩ cậu đã hiểu lầm cô ấy."
+     ]
+    },
+    {
+     "v1": "withhold",
+     "v2": "withheld",
+     "v3": "withheld",
+     "ipa": [
+      "/wɪðˈhəʊld/",
+      "/wɪðˈheld/",
+      "/wɪðˈheld/"
+     ],
+     "meaning": "giữ lại, không đưa ra",
+     "icon": "🤐",
+     "note": "Chia giống hold: hold – held – held.",
+     "examples": [
+      "Don't withhold the truth from your parents.",
+      "The shop withheld my change by mistake.",
+      "They have withheld the results until Monday."
+     ],
+     "examples_vi": [
+      "Đừng giấu sự thật với bố mẹ.",
+      "Cửa hàng giữ nhầm tiền thừa của tớ.",
+      "Họ đã giữ kết quả lại đến thứ Hai."
+     ]
+    },
+    {
+     "v1": "uphold",
+     "v2": "upheld",
+     "v3": "upheld",
+     "ipa": [
+      "/ʌpˈhəʊld/",
+      "/ʌpˈheld/",
+      "/ʌpˈheld/"
+     ],
+     "meaning": "giữ vững, tuân giữ",
+     "icon": "⚖️",
+     "note": "Chia giống hold: hold – held – held.",
+     "examples": [
+      "We must uphold the school rules.",
+      "The judge upheld the decision.",
+      "Our team has upheld its good name."
+     ],
+     "examples_vi": [
+      "Chúng ta phải tuân giữ nội quy trường.",
+      "Thẩm phán giữ nguyên quyết định.",
+      "Đội chúng tớ đã giữ vững danh tiếng."
+     ]
+    },
+    {
+     "v1": "behold",
+     "v2": "beheld",
+     "v3": "beheld",
+     "ipa": [
+      "/bɪˈhəʊld/",
+      "/bɪˈheld/",
+      "/bɪˈheld/"
+     ],
+     "meaning": "nhìn, ngắm (văn chương)",
+     "icon": "🌄",
+     "note": "Chia giống hold: hold – held – held.",
+     "examples": [
+      "Behold the beautiful sunrise!",
+      "The travellers beheld a huge castle.",
+      "Few people have beheld such a sight."
+     ],
+     "examples_vi": [
+      "Hãy ngắm bình minh tuyệt đẹp kìa!",
+      "Những người lữ hành nhìn thấy một lâu đài khổng lồ.",
+      "Ít người được thấy cảnh tượng như vậy."
+     ]
+    },
+    {
+     "v1": "withdraw",
+     "v2": "withdrew",
+     "v3": "withdrawn",
+     "ipa": [
+      "/wɪðˈdrɔː/",
+      "/wɪðˈdruː/",
+      "/wɪðˈdrɔːn/"
+     ],
+     "meaning": "rút (tiền); rút lui",
+     "icon": "🏧",
+     "note": "Chia giống draw: draw – drew – drawn.",
+     "examples": [
+      "I need to withdraw some money.",
+      "Mum withdrew money from the ATM.",
+      "Two players have withdrawn from the race."
+     ],
+     "examples_vi": [
+      "Tớ cần rút ít tiền.",
+      "Mẹ rút tiền ở cây ATM.",
+      "Hai vận động viên đã rút khỏi cuộc đua."
+     ]
+    },
+    {
+     "v1": "overdraw",
+     "v2": "overdrew",
+     "v3": "overdrawn",
+     "ipa": [
+      "/ˌəʊvəˈdrɔː/",
+      "/ˌəʊvəˈdruː/",
+      "/ˌəʊvəˈdrɔːn/"
+     ],
+     "meaning": "rút quá số dư",
+     "icon": "💳",
+     "note": "Chia giống draw: draw – drew – drawn.",
+     "examples": [
+      "Be careful not to overdraw your account.",
+      "He overdrew his account last month.",
+      "Oh no, I have overdrawn my account!"
+     ],
+     "examples_vi": [
+      "Cẩn thận đừng rút quá số tiền trong tài khoản.",
+      "Tháng trước anh ấy rút quá số dư tài khoản.",
+      "Ôi không, tớ rút quá số dư rồi!"
+     ]
+    },
+    {
+     "v1": "redraw",
+     "v2": "redrew",
+     "v3": "redrawn",
+     "ipa": [
+      "/ˌriːˈdrɔː/",
+      "/ˌriːˈdruː/",
+      "/ˌriːˈdrɔːn/"
+     ],
+     "meaning": "vẽ lại",
+     "icon": "✏️",
+     "note": "Chia giống draw: draw – drew – drawn.",
+     "examples": [
+      "Please redraw this picture neatly.",
+      "I redrew the map because it was wrong.",
+      "She has redrawn the cat three times."
+     ],
+     "examples_vi": [
+      "Hãy vẽ lại bức tranh này cho gọn gàng.",
+      "Tớ vẽ lại bản đồ vì nó bị sai.",
+      "Cô ấy đã vẽ lại con mèo ba lần."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 24: Họ của do – make – set",
+   "level": 2,
+   "icon": "🛠️",
+   "note": "undo, redo, overdo, outdo giống do; remake giống make; upset, reset, beset, offset giống set (3 dạng giống nhau).",
+   "verbs": [
+    {
+     "v1": "undo",
+     "v2": "undid",
+     "v3": "undone",
+     "ipa": [
+      "/ʌnˈduː/",
+      "/ʌnˈdɪd/",
+      "/ʌnˈdʌn/"
+     ],
+     "meaning": "tháo, hoàn tác",
+     "icon": "↩️",
+     "note": "Chia giống do: do – did – done.",
+     "examples": [
+      "Can you undo this knot?",
+      "I undid my shoelaces.",
+      "Someone has undone all my work!"
+     ],
+     "examples_vi": [
+      "Cậu tháo được nút này không?",
+      "Tớ tháo dây giày ra.",
+      "Ai đó đã làm hỏng hết công sức của tớ!"
+     ]
+    },
+    {
+     "v1": "redo",
+     "v2": "redid",
+     "v3": "redone",
+     "ipa": [
+      "/ˌriːˈduː/",
+      "/ˌriːˈdɪd/",
+      "/ˌriːˈdʌn/"
+     ],
+     "meaning": "làm lại",
+     "icon": "🔄",
+     "note": "Chia giống do: do – did – done.",
+     "examples": [
+      "Please redo this exercise.",
+      "I redid my homework because it was messy.",
+      "Have you redone your drawing?"
+     ],
+     "examples_vi": [
+      "Hãy làm lại bài tập này.",
+      "Tớ làm lại bài tập vì nó bẩn.",
+      "Cậu vẽ lại tranh chưa?"
+     ]
+    },
+    {
+     "v1": "overdo",
+     "v2": "overdid",
+     "v3": "overdone",
+     "ipa": [
+      "/ˌəʊvəˈduː/",
+      "/ˌəʊvəˈdɪd/",
+      "/ˌəʊvəˈdʌn/"
+     ],
+     "meaning": "làm quá mức",
+     "icon": "🥵",
+     "note": "Chia giống do: do – did – done.",
+     "examples": [
+      "Don't overdo it at the gym.",
+      "I overdid the salt in the soup.",
+      "He has overdone the exercise and feels tired."
+     ],
+     "examples_vi": [
+      "Đừng tập quá sức ở phòng gym.",
+      "Tớ cho quá nhiều muối vào canh.",
+      "Cậu ấy tập quá sức và thấy mệt."
+     ]
+    },
+    {
+     "v1": "outdo",
+     "v2": "outdid",
+     "v3": "outdone",
+     "ipa": [
+      "/ˌaʊtˈduː/",
+      "/ˌaʊtˈdɪd/",
+      "/ˌaʊtˈdʌn/"
+     ],
+     "meaning": "làm giỏi hơn",
+     "icon": "🥇",
+     "note": "Chia giống do: do – did – done.",
+     "examples": [
+      "She always tries to outdo her brother.",
+      "Our class outdid all the others in the contest.",
+      "You have outdone yourself this time!"
+     ],
+     "examples_vi": [
+      "Cô ấy luôn cố làm giỏi hơn anh trai.",
+      "Lớp tớ vượt mọi lớp khác trong cuộc thi.",
+      "Lần này cậu đã vượt qua chính mình!"
+     ]
+    },
+    {
+     "v1": "remake",
+     "v2": "remade",
+     "v3": "remade",
+     "ipa": [
+      "/ˌriːˈmeɪk/",
+      "/ˌriːˈmeɪd/",
+      "/ˌriːˈmeɪd/"
+     ],
+     "meaning": "làm lại, dựng lại",
+     "icon": "🎬",
+     "note": "Chia giống make: make – made – made.",
+     "examples": [
+      "They want to remake the old film.",
+      "We remade the cake because it burnt.",
+      "The film has been remade three times."
+     ],
+     "examples_vi": [
+      "Họ muốn làm lại bộ phim cũ.",
+      "Chúng tớ làm lại bánh vì nó bị cháy.",
+      "Bộ phim đã được làm lại ba lần."
+     ]
+    },
+    {
+     "v1": "upset",
+     "v2": "upset",
+     "v3": "upset",
+     "ipa": [
+      "/ʌpˈset/",
+      "/ʌpˈset/",
+      "/ʌpˈset/"
+     ],
+     "meaning": "làm buồn; làm đổ",
+     "icon": "😢",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "Don't upset your little sister.",
+      "The bad news upset everyone yesterday.",
+      "The cat has upset the vase."
+     ],
+     "examples_vi": [
+      "Đừng làm em gái buồn.",
+      "Tin xấu hôm qua làm mọi người buồn.",
+      "Con mèo đã làm đổ bình hoa."
+     ]
+    },
+    {
+     "v1": "reset",
+     "v2": "reset",
+     "v3": "reset",
+     "ipa": [
+      "/ˌriːˈset/",
+      "/ˌriːˈset/",
+      "/ˌriːˈset/"
+     ],
+     "meaning": "cài đặt lại",
+     "icon": "🔃",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "Reset the clock to seven.",
+      "Dad reset the Wi-Fi last night.",
+      "I have reset my password."
+     ],
+     "examples_vi": [
+      "Chỉnh lại đồng hồ về bảy giờ.",
+      "Tối qua bố khởi động lại Wi-Fi.",
+      "Tớ đã đặt lại mật khẩu."
+     ]
+    },
+    {
+     "v1": "beset",
+     "v2": "beset",
+     "v3": "beset",
+     "ipa": [
+      "/bɪˈset/",
+      "/bɪˈset/",
+      "/bɪˈset/"
+     ],
+     "meaning": "bủa vây, gây khó khăn",
+     "icon": "🌪️",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "Many problems beset the little village.",
+      "Storms beset the ship last week.",
+      "The team has been beset by injuries."
+     ],
+     "examples_vi": [
+      "Nhiều khó khăn bủa vây ngôi làng nhỏ.",
+      "Tuần trước bão tố vây hãm con tàu.",
+      "Đội bóng gặp nhiều chấn thương."
+     ]
+    },
+    {
+     "v1": "offset",
+     "v2": "offset",
+     "v3": "offset",
+     "ipa": [
+      "/ˌɒfˈset/",
+      "/ˌɒfˈset/",
+      "/ˌɒfˈset/"
+     ],
+     "meaning": "bù lại",
+     "icon": "⚖️",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "Planting trees can offset pollution.",
+      "The sunny afternoon offset the rainy morning.",
+      "His kindness has offset his mistakes."
+     ],
+     "examples_vi": [
+      "Trồng cây có thể bù lại ô nhiễm.",
+      "Buổi chiều nắng đã bù lại buổi sáng mưa.",
+      "Lòng tốt của anh ấy đã bù lại những sai lầm."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 25: Họ của see – tell – cast",
+   "level": 2,
+   "icon": "🔮",
+   "note": "foresee, oversee giống see; foretell, retell giống tell; forecast, broadcast giống cast (3 dạng giống nhau, dạng thêm -ed cũng được dùng).",
+   "verbs": [
+    {
+     "v1": "foresee",
+     "v2": "foresaw",
+     "v3": "foreseen",
+     "ipa": [
+      "/fɔːˈsiː/",
+      "/fɔːˈsɔː/",
+      "/fɔːˈsiːn/"
+     ],
+     "meaning": "thấy trước, đoán trước",
+     "icon": "🔭",
+     "note": "Chia giống see: see – saw – seen.",
+     "examples": [
+      "Nobody can foresee the future.",
+      "We foresaw the problem and planned ahead.",
+      "No one had foreseen the storm."
+     ],
+     "examples_vi": [
+      "Không ai đoán trước được tương lai.",
+      "Chúng tớ đã thấy trước vấn đề và chuẩn bị sẵn.",
+      "Không ai lường trước được cơn bão."
+     ]
+    },
+    {
+     "v1": "oversee",
+     "v2": "oversaw",
+     "v3": "overseen",
+     "ipa": [
+      "/ˌəʊvəˈsiː/",
+      "/ˌəʊvəˈsɔː/",
+      "/ˌəʊvəˈsiːn/"
+     ],
+     "meaning": "giám sát",
+     "icon": "🧐",
+     "note": "Chia giống see: see – saw – seen.",
+     "examples": [
+      "Teachers oversee the students during lunch.",
+      "Mr Long oversaw the building of the new library.",
+      "She has overseen the project for a year."
+     ],
+     "examples_vi": [
+      "Thầy cô giám sát học sinh trong giờ ăn trưa.",
+      "Thầy Long giám sát việc xây thư viện mới.",
+      "Cô ấy đã giám sát dự án một năm."
+     ]
+    },
+    {
+     "v1": "foretell",
+     "v2": "foretold",
+     "v3": "foretold",
+     "ipa": [
+      "/fɔːˈtel/",
+      "/fɔːˈtəʊld/",
+      "/fɔːˈtəʊld/"
+     ],
+     "meaning": "tiên đoán",
+     "icon": "🧙",
+     "note": "Chia giống tell: tell – told – told.",
+     "examples": [
+      "The old woman says she can foretell the future.",
+      "The wizard foretold a great adventure.",
+      "The story had been foretold long ago."
+     ],
+     "examples_vi": [
+      "Bà lão nói bà có thể tiên đoán tương lai.",
+      "Phù thủy tiên đoán một cuộc phiêu lưu lớn.",
+      "Câu chuyện đã được tiên đoán từ lâu."
+     ]
+    },
+    {
+     "v1": "retell",
+     "v2": "retold",
+     "v3": "retold",
+     "ipa": [
+      "/ˌriːˈtel/",
+      "/ˌriːˈtəʊld/",
+      "/ˌriːˈtəʊld/"
+     ],
+     "meaning": "kể lại",
+     "icon": "📖",
+     "note": "Chia giống tell: tell – told – told.",
+     "examples": [
+      "Can you retell the story in your own words?",
+      "Lan retold the fairy tale to her little brother.",
+      "Grandma has retold this story a hundred times."
+     ],
+     "examples_vi": [
+      "Con kể lại câu chuyện bằng lời của mình được không?",
+      "Lan kể lại truyện cổ tích cho em trai.",
+      "Bà đã kể lại câu chuyện này cả trăm lần."
+     ]
+    },
+    {
+     "v1": "forecast",
+     "v2": "forecast",
+     "v3": "forecast",
+     "ipa": [
+      "/ˈfɔːkɑːst/",
+      "/ˈfɔːkɑːst/",
+      "/ˈfɔːkɑːst/"
+     ],
+     "meaning": "dự báo",
+     "icon": "🌦️",
+     "note": "Chia giống cast: cast – cast – cast. Cũng dùng forecasted.",
+     "also": {
+      "v2": [
+       "forecasted"
+      ],
+      "v3": [
+       "forecasted"
+      ]
+     },
+     "examples": [
+      "They forecast rain for tomorrow.",
+      "The TV forecast a storm last night.",
+      "Experts have forecast a hot summer."
+     ],
+     "examples_vi": [
+      "Họ dự báo ngày mai có mưa.",
+      "Tối qua tivi dự báo có bão.",
+      "Các chuyên gia đã dự báo một mùa hè nóng."
+     ]
+    },
+    {
+     "v1": "broadcast",
+     "v2": "broadcast",
+     "v3": "broadcast",
+     "ipa": [
+      "/ˈbrɔːdkɑːst/",
+      "/ˈbrɔːdkɑːst/",
+      "/ˈbrɔːdkɑːst/"
+     ],
+     "meaning": "phát sóng",
+     "icon": "📡",
+     "note": "Chia giống cast: cast – cast – cast. Cũng dùng broadcasted.",
+     "also": {
+      "v2": [
+       "broadcasted"
+      ],
+      "v3": [
+       "broadcasted"
+      ]
+     },
+     "examples": [
+      "VTV will broadcast the match tonight.",
+      "They broadcast the concert live last week.",
+      "The news has been broadcast all over the world."
+     ],
+     "examples_vi": [
+      "Tối nay VTV sẽ phát sóng trận đấu.",
+      "Tuần trước họ phát trực tiếp buổi hòa nhạc.",
+      "Tin tức đã được phát đi khắp thế giới."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 26: Họ của write – read",
+   "level": 2,
+   "icon": "📝",
+   "note": "Các từ có -write chia giống write (wrote – written). Các từ có -read chia giống read: viết giống nhau, nhưng V2, V3 đọc /red/.",
+   "verbs": [
+    {
+     "v1": "rewrite",
+     "v2": "rewrote",
+     "v3": "rewritten",
+     "ipa": [
+      "/ˌriːˈraɪt/",
+      "/ˌriːˈrəʊt/",
+      "/ˌriːˈrɪtn/"
+     ],
+     "meaning": "viết lại",
+     "icon": "✍️",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Please rewrite this sentence.",
+      "I rewrote my essay last night.",
+      "She has rewritten the ending of the story."
+     ],
+     "examples_vi": [
+      "Hãy viết lại câu này.",
+      "Tối qua tớ viết lại bài luận.",
+      "Cô ấy đã viết lại đoạn kết câu chuyện."
+     ]
+    },
+    {
+     "v1": "overwrite",
+     "v2": "overwrote",
+     "v3": "overwritten",
+     "ipa": [
+      "/ˌəʊvəˈraɪt/",
+      "/ˌəʊvəˈrəʊt/",
+      "/ˌəʊvəˈrɪtn/"
+     ],
+     "meaning": "ghi đè",
+     "icon": "💾",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Don't overwrite my file!",
+      "I overwrote the old picture by mistake.",
+      "The new game has overwritten my saved game."
+     ],
+     "examples_vi": [
+      "Đừng ghi đè lên tệp của tớ!",
+      "Tớ lỡ ghi đè lên bức ảnh cũ.",
+      "Trò chơi mới đã ghi đè lên bản lưu của tớ."
+     ]
+    },
+    {
+     "v1": "underwrite",
+     "v2": "underwrote",
+     "v3": "underwritten",
+     "ipa": [
+      "/ˌʌndəˈraɪt/",
+      "/ˌʌndəˈrəʊt/",
+      "/ˌʌndəˈrɪtn/"
+     ],
+     "meaning": "bảo lãnh, chi trả",
+     "icon": "🛡️",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Banks underwrite big projects.",
+      "The company underwrote the cost of the trip.",
+      "A big bank has underwritten the new bridge."
+     ],
+     "examples_vi": [
+      "Ngân hàng bảo lãnh các dự án lớn.",
+      "Công ty đã chi trả chi phí chuyến đi.",
+      "Một ngân hàng lớn đã bảo lãnh cây cầu mới."
+     ]
+    },
+    {
+     "v1": "handwrite",
+     "v2": "handwrote",
+     "v3": "handwritten",
+     "ipa": [
+      "/ˌhændˈraɪt/",
+      "/ˌhændˈrəʊt/",
+      "/ˌhændˈrɪtn/"
+     ],
+     "meaning": "viết tay",
+     "icon": "🖊️",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Please handwrite your answers.",
+      "I handwrote a card for my teacher.",
+      "This letter was handwritten by my grandpa."
+     ],
+     "examples_vi": [
+      "Hãy viết tay câu trả lời.",
+      "Tớ viết tay một tấm thiệp tặng cô giáo.",
+      "Lá thư này do ông tớ viết tay."
+     ]
+    },
+    {
+     "v1": "ghostwrite",
+     "v2": "ghostwrote",
+     "v3": "ghostwritten",
+     "ipa": [
+      "/ˈɡəʊstraɪt/",
+      "/ˈɡəʊstrəʊt/",
+      "/ˈɡəʊstrɪtn/"
+     ],
+     "meaning": "viết thuê (người khác đứng tên)",
+     "icon": "👻",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Some writers ghostwrite books for famous people.",
+      "She ghostwrote the singer's life story.",
+      "He has ghostwritten three books."
+     ],
+     "examples_vi": [
+      "Một số nhà văn viết thuê sách cho người nổi tiếng.",
+      "Cô ấy viết thuê tự truyện cho ca sĩ.",
+      "Ông ấy đã viết thuê ba cuốn sách."
+     ]
+    },
+    {
+     "v1": "reread",
+     "v2": "reread",
+     "v3": "reread",
+     "ipa": [
+      "/ˌriːˈriːd/",
+      "/ˌriːˈred/",
+      "/ˌriːˈred/"
+     ],
+     "meaning": "đọc lại",
+     "icon": "📚",
+     "note": "Chia giống read: read – read – read.",
+     "examples": [
+      "I love to reread my favourite books.",
+      "I reread the question before I answered.",
+      "Have you reread your work?"
+     ],
+     "examples_vi": [
+      "Tớ thích đọc lại những cuốn sách yêu thích.",
+      "Tớ đọc lại câu hỏi trước khi trả lời.",
+      "Con đọc lại bài chưa?"
+     ]
+    },
+    {
+     "v1": "proofread",
+     "v2": "proofread",
+     "v3": "proofread",
+     "ipa": [
+      "/ˈpruːfriːd/",
+      "/ˈpruːfred/",
+      "/ˈpruːfred/"
+     ],
+     "meaning": "đọc soát lỗi",
+     "icon": "🔍",
+     "note": "Chia giống read: read – read – read.",
+     "examples": [
+      "Always proofread your writing.",
+      "The teacher proofread my story yesterday.",
+      "Have you proofread your essay?"
+     ],
+     "examples_vi": [
+      "Luôn đọc soát bài viết của mình.",
+      "Hôm qua cô giáo soát lỗi truyện của tớ.",
+      "Cậu soát lỗi bài luận chưa?"
+     ]
+    },
+    {
+     "v1": "lip-read",
+     "v2": "lip-read",
+     "v3": "lip-read",
+     "ipa": [
+      "/ˈlɪpriːd/",
+      "/ˈlɪpred/",
+      "/ˈlɪpred/"
+     ],
+     "meaning": "đọc khẩu hình",
+     "icon": "👄",
+     "note": "Chia giống read: read – read – read.",
+     "examples": [
+      "Some deaf people can lip-read.",
+      "She lip-read what he said through the window.",
+      "I have never lip-read before."
+     ],
+     "examples_vi": [
+      "Một số người khiếm thính có thể đọc khẩu hình.",
+      "Cô ấy đọc khẩu hình những gì anh ấy nói qua cửa sổ.",
+      "Tớ chưa bao giờ đọc khẩu hình."
+     ]
+    },
+    {
+     "v1": "misread",
+     "v2": "misread",
+     "v3": "misread",
+     "ipa": [
+      "/ˌmɪsˈriːd/",
+      "/ˌmɪsˈred/",
+      "/ˌmɪsˈred/"
+     ],
+     "meaning": "đọc nhầm",
+     "icon": "😵",
+     "note": "Chia giống read: read – read – read.",
+     "examples": [
+      "It is easy to misread this word.",
+      "I misread the time and was late.",
+      "You have misread the instructions."
+     ],
+     "examples_vi": [
+      "Rất dễ đọc nhầm từ này.",
+      "Tớ đọc nhầm giờ nên bị muộn.",
+      "Cậu đã đọc nhầm hướng dẫn rồi."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 27: Họ của build – pay – lead – hear – lay",
+   "level": 2,
+   "icon": "🏗️",
+   "note": "rebuild giống build; repay, overpay, underpay giống pay; mislead giống lead; overhear, mishear giống hear; mislay, waylay giống lay (laid – laid).",
+   "verbs": [
+    {
+     "v1": "rebuild",
+     "v2": "rebuilt",
+     "v3": "rebuilt",
+     "ipa": [
+      "/ˌriːˈbɪld/",
+      "/ˌriːˈbɪlt/",
+      "/ˌriːˈbɪlt/"
+     ],
+     "meaning": "xây lại",
+     "icon": "🧱",
+     "note": "Chia giống build: build – built – built.",
+     "examples": [
+      "They will rebuild the old bridge.",
+      "The village rebuilt its school after the flood.",
+      "The temple has been rebuilt."
+     ],
+     "examples_vi": [
+      "Họ sẽ xây lại cây cầu cũ.",
+      "Ngôi làng đã xây lại trường sau trận lụt.",
+      "Ngôi chùa đã được xây lại."
+     ]
+    },
+    {
+     "v1": "repay",
+     "v2": "repaid",
+     "v3": "repaid",
+     "ipa": [
+      "/ˌriːˈpeɪ/",
+      "/ˌriːˈpeɪd/",
+      "/ˌriːˈpeɪd/"
+     ],
+     "meaning": "trả lại (tiền); đền đáp",
+     "icon": "💵",
+     "note": "Chia giống pay: pay – paid – paid.",
+     "examples": [
+      "I will repay you tomorrow.",
+      "Nam repaid the money he borrowed.",
+      "Have you repaid your sister?"
+     ],
+     "examples_vi": [
+      "Mai tớ sẽ trả lại cậu.",
+      "Nam đã trả lại số tiền đã mượn.",
+      "Cậu đã trả tiền chị chưa?"
+     ]
+    },
+    {
+     "v1": "overpay",
+     "v2": "overpaid",
+     "v3": "overpaid",
+     "ipa": [
+      "/ˌəʊvəˈpeɪ/",
+      "/ˌəʊvəˈpeɪd/",
+      "/ˌəʊvəˈpeɪd/"
+     ],
+     "meaning": "trả quá nhiều",
+     "icon": "💸",
+     "note": "Chia giống pay: pay – paid – paid.",
+     "examples": [
+      "Check the bill so you don't overpay.",
+      "We overpaid for the tickets.",
+      "I think you have overpaid."
+     ],
+     "examples_vi": [
+      "Kiểm tra hóa đơn để không trả thừa.",
+      "Chúng tớ đã trả quá nhiều tiền vé.",
+      "Tớ nghĩ cậu đã trả thừa."
+     ]
+    },
+    {
+     "v1": "underpay",
+     "v2": "underpaid",
+     "v3": "underpaid",
+     "ipa": [
+      "/ˌʌndəˈpeɪ/",
+      "/ˌʌndəˈpeɪd/",
+      "/ˌʌndəˈpeɪd/"
+     ],
+     "meaning": "trả thiếu, trả lương thấp",
+     "icon": "🪙",
+     "note": "Chia giống pay: pay – paid – paid.",
+     "examples": [
+      "It is unfair to underpay workers.",
+      "The customer underpaid by ten thousand dong.",
+      "They have underpaid us this month."
+     ],
+     "examples_vi": [
+      "Trả lương thấp cho công nhân là không công bằng.",
+      "Vị khách trả thiếu mười nghìn đồng.",
+      "Tháng này họ trả thiếu lương cho chúng tôi."
+     ]
+    },
+    {
+     "v1": "mislead",
+     "v2": "misled",
+     "v3": "misled",
+     "ipa": [
+      "/ˌmɪsˈliːd/",
+      "/ˌmɪsˈled/",
+      "/ˌmɪsˈled/"
+     ],
+     "meaning": "đánh lừa, làm hiểu sai",
+     "icon": "🧭",
+     "note": "Chia giống lead: lead – led – led.",
+     "examples": [
+      "Don't let ads mislead you.",
+      "The wrong sign misled the tourists.",
+      "I'm sorry if I have misled you."
+     ],
+     "examples_vi": [
+      "Đừng để quảng cáo đánh lừa cậu.",
+      "Biển báo sai đã khiến du khách đi nhầm.",
+      "Xin lỗi nếu tớ đã làm cậu hiểu sai."
+     ]
+    },
+    {
+     "v1": "overhear",
+     "v2": "overheard",
+     "v3": "overheard",
+     "ipa": [
+      "/ˌəʊvəˈhɪə/",
+      "/ˌəʊvəˈhɜːd/",
+      "/ˌəʊvəˈhɜːd/"
+     ],
+     "meaning": "tình cờ nghe thấy",
+     "icon": "👂",
+     "note": "Chia giống hear: hear – heard – heard.",
+     "examples": [
+      "I didn't mean to overhear you.",
+      "I overheard Mum talking about my birthday surprise.",
+      "Have you overheard any good news?"
+     ],
+     "examples_vi": [
+      "Tớ không cố ý nghe lỏm đâu.",
+      "Tớ tình cờ nghe mẹ nói về bất ngờ sinh nhật.",
+      "Cậu có nghe được tin vui nào không?"
+     ]
+    },
+    {
+     "v1": "mishear",
+     "v2": "misheard",
+     "v3": "misheard",
+     "ipa": [
+      "/ˌmɪsˈhɪə/",
+      "/ˌmɪsˈhɜːd/",
+      "/ˌmɪsˈhɜːd/"
+     ],
+     "meaning": "nghe nhầm",
+     "icon": "🙉",
+     "note": "Chia giống hear: hear – heard – heard.",
+     "examples": [
+      "It is easy to mishear numbers on the phone.",
+      "I misheard \"thirteen\" as \"thirty\".",
+      "You must have misheard me."
+     ],
+     "examples_vi": [
+      "Rất dễ nghe nhầm số qua điện thoại.",
+      "Tớ nghe nhầm \"thirteen\" thành \"thirty\".",
+      "Chắc cậu đã nghe nhầm tớ rồi."
+     ]
+    },
+    {
+     "v1": "mislay",
+     "v2": "mislaid",
+     "v3": "mislaid",
+     "ipa": [
+      "/ˌmɪsˈleɪ/",
+      "/ˌmɪsˈleɪd/",
+      "/ˌmɪsˈleɪd/"
+     ],
+     "meaning": "để thất lạc",
+     "icon": "🔑",
+     "note": "Chia giống lay: lay – laid – laid.",
+     "examples": [
+      "I often mislay my glasses.",
+      "Grandpa mislaid his keys again.",
+      "I have mislaid my homework book."
+     ],
+     "examples_vi": [
+      "Tớ hay để lạc kính.",
+      "Ông lại để lạc chìa khóa.",
+      "Tớ để lạc vở bài tập rồi."
+     ]
+    },
+    {
+     "v1": "waylay",
+     "v2": "waylaid",
+     "v3": "waylaid",
+     "ipa": [
+      "/ˌweɪˈleɪ/",
+      "/ˌweɪˈleɪd/",
+      "/ˌweɪˈleɪd/"
+     ],
+     "meaning": "chặn đường",
+     "icon": "🛑",
+     "note": "Chia giống lay: lay – laid – laid.",
+     "examples": [
+      "Reporters waited to waylay the singer.",
+      "My friends waylaid me after school.",
+      "Fans have waylaid the footballer at the gate."
+     ],
+     "examples_vi": [
+      "Phóng viên chờ để chặn đường ca sĩ.",
+      "Các bạn chặn tớ lại sau giờ học.",
+      "Người hâm mộ đã chặn cầu thủ ở cổng."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 28: Họ của sleep – sit – eat – feed",
+   "level": 2,
+   "icon": "🍼",
+   "note": "oversleep giống sleep; babysit giống sit; overeat giống eat; overfeed, spoon-feed, breastfeed, hand-feed giống feed (fed – fed).",
+   "verbs": [
+    {
+     "v1": "oversleep",
+     "v2": "overslept",
+     "v3": "overslept",
+     "ipa": [
+      "/ˌəʊvəˈsliːp/",
+      "/ˌəʊvəˈslept/",
+      "/ˌəʊvəˈslept/"
+     ],
+     "meaning": "ngủ quên",
+     "icon": "⏰",
+     "note": "Chia giống sleep: sleep – slept – slept.",
+     "examples": [
+      "Set an alarm so you don't oversleep.",
+      "I overslept and missed the bus.",
+      "Oh no, I have overslept again!"
+     ],
+     "examples_vi": [
+      "Đặt báo thức để khỏi ngủ quên.",
+      "Tớ ngủ quên và lỡ xe buýt.",
+      "Ôi không, tớ lại ngủ quên rồi!"
+     ]
+    },
+    {
+     "v1": "babysit",
+     "v2": "babysat",
+     "v3": "babysat",
+     "ipa": [
+      "/ˈbeɪbisɪt/",
+      "/ˈbeɪbisæt/",
+      "/ˈbeɪbisæt/"
+     ],
+     "meaning": "trông trẻ",
+     "icon": "👶",
+     "note": "Chia giống sit: sit – sat – sat.",
+     "examples": [
+      "My cousin likes to babysit on weekends.",
+      "Lan babysat her little brother yesterday.",
+      "Have you ever babysat a baby?"
+     ],
+     "examples_vi": [
+      "Chị họ tớ thích trông trẻ vào cuối tuần.",
+      "Hôm qua Lan trông em trai.",
+      "Cậu đã bao giờ trông em bé chưa?"
+     ]
+    },
+    {
+     "v1": "overeat",
+     "v2": "overate",
+     "v3": "overeaten",
+     "ipa": [
+      "/ˌəʊvəˈiːt/",
+      "/ˌəʊvəˈet/",
+      "/ˌəʊvəˈiːtn/"
+     ],
+     "meaning": "ăn quá nhiều",
+     "icon": "🍰",
+     "note": "Chia giống eat: eat – ate – eaten.",
+     "examples": [
+      "Try not to overeat at the party.",
+      "I overate at Tet and felt sick.",
+      "I think I have overeaten."
+     ],
+     "examples_vi": [
+      "Cố đừng ăn quá nhiều ở bữa tiệc.",
+      "Tớ ăn quá nhiều dịp Tết và thấy khó chịu.",
+      "Tớ nghĩ tớ ăn quá no rồi."
+     ]
+    },
+    {
+     "v1": "overfeed",
+     "v2": "overfed",
+     "v3": "overfed",
+     "ipa": [
+      "/ˌəʊvəˈfiːd/",
+      "/ˌəʊvəˈfed/",
+      "/ˌəʊvəˈfed/"
+     ],
+     "meaning": "cho ăn quá nhiều",
+     "icon": "🐠",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "Don't overfeed the goldfish.",
+      "My brother overfed the cat.",
+      "Someone has overfed the fish again!"
+     ],
+     "examples_vi": [
+      "Đừng cho cá vàng ăn quá nhiều.",
+      "Em tớ cho mèo ăn quá nhiều.",
+      "Lại có ai cho cá ăn quá nhiều rồi!"
+     ]
+    },
+    {
+     "v1": "spoon-feed",
+     "v2": "spoon-fed",
+     "v3": "spoon-fed",
+     "ipa": [
+      "/ˈspuːnfiːd/",
+      "/ˈspuːnfed/",
+      "/ˈspuːnfed/"
+     ],
+     "meaning": "đút ăn bằng thìa",
+     "icon": "🥄",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "Parents spoon-feed their babies.",
+      "Mum spoon-fed my baby sister.",
+      "The baby has been spoon-fed all morning."
+     ],
+     "examples_vi": [
+      "Bố mẹ đút cho em bé ăn bằng thìa.",
+      "Mẹ đút cho em gái tớ ăn.",
+      "Em bé được đút ăn cả buổi sáng."
+     ]
+    },
+    {
+     "v1": "breastfeed",
+     "v2": "breastfed",
+     "v3": "breastfed",
+     "ipa": [
+      "/ˈbrestfiːd/",
+      "/ˈbrestfed/",
+      "/ˈbrestfed/"
+     ],
+     "meaning": "cho con bú",
+     "icon": "🤱",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "Many mothers breastfeed their babies.",
+      "My aunt breastfed her baby for a year.",
+      "She has breastfed the baby and put him to bed."
+     ],
+     "examples_vi": [
+      "Nhiều bà mẹ cho con bú.",
+      "Dì tớ cho em bé bú một năm.",
+      "Cô ấy đã cho bé bú và đặt bé ngủ."
+     ]
+    },
+    {
+     "v1": "hand-feed",
+     "v2": "hand-fed",
+     "v3": "hand-fed",
+     "ipa": [
+      "/ˈhændfiːd/",
+      "/ˈhændfed/",
+      "/ˈhændfed/"
+     ],
+     "meaning": "cho ăn bằng tay",
+     "icon": "✋",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "You can hand-feed the deer at the zoo.",
+      "I hand-fed a baby goat at the farm.",
+      "The keeper has hand-fed the baby panda."
+     ],
+     "examples_vi": [
+      "Cậu có thể cho hươu ăn bằng tay ở sở thú.",
+      "Tớ cho dê con ăn bằng tay ở trang trại.",
+      "Người chăm sóc đã cho gấu trúc con ăn bằng tay."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 29: Họ của grow – throw – fly – know – shine",
+   "level": 3,
+   "icon": "🌱",
+   "note": "outgrow, overgrow, regrow giống grow; overthrow giống throw; overfly giống fly; foreknow giống know; outshine giống shine.",
+   "verbs": [
+    {
+     "v1": "outgrow",
+     "v2": "outgrew",
+     "v3": "outgrown",
+     "ipa": [
+      "/ˌaʊtˈɡrəʊ/",
+      "/ˌaʊtˈɡruː/",
+      "/ˌaʊtˈɡrəʊn/"
+     ],
+     "meaning": "lớn vượt (quần áo, giày chật)",
+     "icon": "👖",
+     "note": "Chia giống grow: grow – grew – grown.",
+     "examples": [
+      "Kids outgrow their shoes quickly.",
+      "I outgrew my bike last year.",
+      "My brother has outgrown his old clothes."
+     ],
+     "examples_vi": [
+      "Trẻ con nhanh chóng chật giày.",
+      "Năm ngoái tớ lớn quá chiếc xe đạp.",
+      "Em trai tớ mặc chật hết quần áo cũ."
+     ]
+    },
+    {
+     "v1": "overgrow",
+     "v2": "overgrew",
+     "v3": "overgrown",
+     "ipa": [
+      "/ˌəʊvəˈɡrəʊ/",
+      "/ˌəʊvəˈɡruː/",
+      "/ˌəʊvəˈɡrəʊn/"
+     ],
+     "meaning": "mọc um tùm",
+     "icon": "🌿",
+     "note": "Chia giống grow: grow – grew – grown.",
+     "examples": [
+      "Weeds can overgrow a garden quickly.",
+      "Ivy overgrew the old wall.",
+      "The path has become overgrown with grass."
+     ],
+     "examples_vi": [
+      "Cỏ dại có thể mọc um tùm vườn rất nhanh.",
+      "Dây thường xuân mọc phủ kín bức tường cũ.",
+      "Lối đi đã bị cỏ mọc um tùm."
+     ]
+    },
+    {
+     "v1": "regrow",
+     "v2": "regrew",
+     "v3": "regrown",
+     "ipa": [
+      "/ˌriːˈɡrəʊ/",
+      "/ˌriːˈɡruː/",
+      "/ˌriːˈɡrəʊn/"
+     ],
+     "meaning": "mọc lại",
+     "icon": "🦎",
+     "note": "Chia giống grow: grow – grew – grown.",
+     "examples": [
+      "Lizards can regrow their tails.",
+      "The grass regrew after the rain.",
+      "My hair has regrown."
+     ],
+     "examples_vi": [
+      "Thằn lằn có thể mọc lại đuôi.",
+      "Cỏ mọc lại sau cơn mưa.",
+      "Tóc tớ đã mọc lại."
+     ]
+    },
+    {
+     "v1": "overthrow",
+     "v2": "overthrew",
+     "v3": "overthrown",
+     "ipa": [
+      "/ˌəʊvəˈθrəʊ/",
+      "/ˌəʊvəˈθruː/",
+      "/ˌəʊvəˈθrəʊn/"
+     ],
+     "meaning": "lật đổ",
+     "icon": "👑",
+     "note": "Chia giống throw: throw – threw – thrown.",
+     "examples": [
+      "The people wanted to overthrow the cruel king.",
+      "The rebels overthrew the king.",
+      "The old ruler has been overthrown."
+     ],
+     "examples_vi": [
+      "Người dân muốn lật đổ ông vua độc ác.",
+      "Quân nổi dậy lật đổ nhà vua.",
+      "Kẻ cai trị cũ đã bị lật đổ."
+     ]
+    },
+    {
+     "v1": "overfly",
+     "v2": "overflew",
+     "v3": "overflown",
+     "ipa": [
+      "/ˌəʊvəˈflaɪ/",
+      "/ˌəʊvəˈfluː/",
+      "/ˌəʊvəˈfləʊn/"
+     ],
+     "meaning": "bay qua",
+     "icon": "✈️",
+     "note": "Chia giống fly: fly – flew – flown.",
+     "examples": [
+      "Planes overfly our town every day.",
+      "A helicopter overflew the stadium.",
+      "The plane has overflown three countries."
+     ],
+     "examples_vi": [
+      "Máy bay bay qua thị trấn tớ mỗi ngày.",
+      "Một chiếc trực thăng bay qua sân vận động.",
+      "Máy bay đã bay qua ba nước."
+     ]
+    },
+    {
+     "v1": "foreknow",
+     "v2": "foreknew",
+     "v3": "foreknown",
+     "ipa": [
+      "/fɔːˈnəʊ/",
+      "/fɔːˈnjuː/",
+      "/fɔːˈnəʊn/"
+     ],
+     "meaning": "biết trước",
+     "icon": "🧠",
+     "note": "Chia giống know: know – knew – known.",
+     "examples": [
+      "No one can foreknow the result.",
+      "She foreknew that it would rain.",
+      "The ending was foreknown by everyone."
+     ],
+     "examples_vi": [
+      "Không ai biết trước kết quả.",
+      "Cô ấy biết trước trời sẽ mưa.",
+      "Ai cũng biết trước cái kết."
+     ]
+    },
+    {
+     "v1": "outshine",
+     "v2": "outshone",
+     "v3": "outshone",
+     "ipa": [
+      "/ˌaʊtˈʃaɪn/",
+      "/ˌaʊtˈʃɒn/",
+      "/ˌaʊtˈʃɒn/"
+     ],
+     "meaning": "sáng hơn, giỏi hơn",
+     "icon": "🌟",
+     "note": "Chia giống shine: shine – shone – shone.",
+     "also": {
+      "v2": [
+       "outshined"
+      ],
+      "v3": [
+       "outshined"
+      ]
+     },
+     "examples": [
+      "The moon cannot outshine the sun.",
+      "Mai outshone everyone in the singing contest.",
+      "The new student has outshone the rest of the class."
+     ],
+     "examples_vi": [
+      "Mặt trăng không thể sáng hơn mặt trời.",
+      "Mai tỏa sáng hơn mọi người trong cuộc thi hát.",
+      "Bạn học sinh mới đã giỏi hơn cả lớp."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 30: Họ của sell – spend",
+   "level": 3,
+   "icon": "💸",
+   "note": "resell, oversell, outsell, undersell giống sell (sold – sold); overspend, outspend, underspend, misspend giống spend (spent – spent).",
+   "verbs": [
+    {
+     "v1": "resell",
+     "v2": "resold",
+     "v3": "resold",
+     "ipa": [
+      "/ˌriːˈsel/",
+      "/ˌriːˈsəʊld/",
+      "/ˌriːˈsəʊld/"
+     ],
+     "meaning": "bán lại",
+     "icon": "🏷️",
+     "note": "Chia giống sell: sell – sold – sold.",
+     "examples": [
+      "You can resell your old books.",
+      "He resold his phone to a friend.",
+      "The tickets have been resold."
+     ],
+     "examples_vi": [
+      "Cậu có thể bán lại sách cũ.",
+      "Anh ấy bán lại điện thoại cho bạn.",
+      "Vé đã được bán lại."
+     ]
+    },
+    {
+     "v1": "oversell",
+     "v2": "oversold",
+     "v3": "oversold",
+     "ipa": [
+      "/ˌəʊvəˈsel/",
+      "/ˌəʊvəˈsəʊld/",
+      "/ˌəʊvəˈsəʊld/"
+     ],
+     "meaning": "bán quá số lượng; khen quá lời",
+     "icon": "📢",
+     "note": "Chia giống sell: sell – sold – sold.",
+     "examples": [
+      "Airlines sometimes oversell seats.",
+      "The shop oversold the concert tickets.",
+      "They have oversold this toy on TV."
+     ],
+     "examples_vi": [
+      "Hãng bay đôi khi bán quá số ghế.",
+      "Cửa hàng bán quá số vé hòa nhạc.",
+      "Họ quảng cáo món đồ chơi này quá lời trên TV."
+     ]
+    },
+    {
+     "v1": "outsell",
+     "v2": "outsold",
+     "v3": "outsold",
+     "ipa": [
+      "/ˌaʊtˈsel/",
+      "/ˌaʊtˈsəʊld/",
+      "/ˌaʊtˈsəʊld/"
+     ],
+     "meaning": "bán chạy hơn",
+     "icon": "📈",
+     "note": "Chia giống sell: sell – sold – sold.",
+     "examples": [
+      "In summer, ice cream can outsell hot drinks.",
+      "Her book outsold all the others.",
+      "This game has outsold every other game."
+     ],
+     "examples_vi": [
+      "Mùa hè kem có thể bán chạy hơn đồ uống nóng.",
+      "Sách của cô ấy bán chạy hơn mọi cuốn khác.",
+      "Trò chơi này bán chạy hơn mọi trò khác."
+     ]
+    },
+    {
+     "v1": "undersell",
+     "v2": "undersold",
+     "v3": "undersold",
+     "ipa": [
+      "/ˌʌndəˈsel/",
+      "/ˌʌndəˈsəʊld/",
+      "/ˌʌndəˈsəʊld/"
+     ],
+     "meaning": "bán rẻ hơn; đánh giá thấp",
+     "icon": "🏪",
+     "note": "Chia giống sell: sell – sold – sold.",
+     "examples": [
+      "Big shops can undersell small ones.",
+      "He undersold his old bike.",
+      "You have undersold your talent!"
+     ],
+     "examples_vi": [
+      "Cửa hàng lớn có thể bán rẻ hơn cửa hàng nhỏ.",
+      "Anh ấy bán rẻ chiếc xe đạp cũ.",
+      "Cậu đã đánh giá thấp tài năng của mình!"
+     ]
+    },
+    {
+     "v1": "overspend",
+     "v2": "overspent",
+     "v3": "overspent",
+     "ipa": [
+      "/ˌəʊvəˈspend/",
+      "/ˌəʊvəˈspent/",
+      "/ˌəʊvəˈspent/"
+     ],
+     "meaning": "tiêu quá nhiều",
+     "icon": "🛍️",
+     "note": "Chia giống spend: spend – spent – spent.",
+     "examples": [
+      "Make a list so you don't overspend.",
+      "We overspent on toys this month.",
+      "I have overspent my pocket money."
+     ],
+     "examples_vi": [
+      "Hãy lên danh sách để không tiêu quá tay.",
+      "Tháng này nhà tớ tiêu quá nhiều cho đồ chơi.",
+      "Tớ đã tiêu lố tiền tiêu vặt."
+     ]
+    },
+    {
+     "v1": "outspend",
+     "v2": "outspent",
+     "v3": "outspent",
+     "ipa": [
+      "/ˌaʊtˈspend/",
+      "/ˌaʊtˈspent/",
+      "/ˌaʊtˈspent/"
+     ],
+     "meaning": "chi tiêu nhiều hơn",
+     "icon": "💰",
+     "note": "Chia giống spend: spend – spent – spent.",
+     "examples": [
+      "Big teams outspend small teams.",
+      "Our neighbours outspent us at Tet.",
+      "They have outspent everyone on the party."
+     ],
+     "examples_vi": [
+      "Đội lớn chi nhiều tiền hơn đội nhỏ.",
+      "Hàng xóm chi tiêu Tết nhiều hơn nhà tớ.",
+      "Họ đã chi cho bữa tiệc nhiều hơn mọi người."
+     ]
+    },
+    {
+     "v1": "underspend",
+     "v2": "underspent",
+     "v3": "underspent",
+     "ipa": [
+      "/ˌʌndəˈspend/",
+      "/ˌʌndəˈspent/",
+      "/ˌʌndəˈspent/"
+     ],
+     "meaning": "tiêu ít hơn dự tính",
+     "icon": "🐷",
+     "note": "Chia giống spend: spend – spent – spent.",
+     "examples": [
+      "It's good to underspend your budget.",
+      "We underspent on the trip and saved money.",
+      "The school has underspent this year."
+     ],
+     "examples_vi": [
+      "Tiêu ít hơn ngân sách là tốt.",
+      "Chuyến đi tiêu ít hơn dự tính nên tiết kiệm được tiền.",
+      "Năm nay trường đã chi tiêu ít hơn dự tính."
+     ]
+    },
+    {
+     "v1": "misspend",
+     "v2": "misspent",
+     "v3": "misspent",
+     "ipa": [
+      "/ˌmɪsˈspend/",
+      "/ˌmɪsˈspent/",
+      "/ˌmɪsˈspent/"
+     ],
+     "meaning": "phung phí",
+     "icon": "🗑️",
+     "note": "Chia giống spend: spend – spent – spent.",
+     "examples": [
+      "Don't misspend your time on games.",
+      "He misspent his money on junk food.",
+      "I have misspent the whole afternoon."
+     ],
+     "examples_vi": [
+      "Đừng phí thời gian vào trò chơi.",
+      "Cậu ấy phung phí tiền vào đồ ăn vặt.",
+      "Tớ đã phí cả buổi chiều."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 31: Họ của bid – fight – shoot – win",
+   "level": 3,
+   "icon": "🎯",
+   "note": "outbid, overbid, underbid, rebid giống bid (3 dạng giống nhau); outfight giống fight; overshoot, undershoot, outshoot giống shoot; rewin giống win.",
+   "verbs": [
+    {
+     "v1": "outbid",
+     "v2": "outbid",
+     "v3": "outbid",
+     "ipa": [
+      "/ˌaʊtˈbɪd/",
+      "/ˌaʊtˈbɪd/",
+      "/ˌaʊtˈbɪd/"
+     ],
+     "meaning": "trả giá cao hơn",
+     "icon": "🔨",
+     "note": "Chia giống bid: bid – bid – bid.",
+     "also": {
+      "v2": [
+       "outbade"
+      ],
+      "v3": [
+       "outbidden"
+      ]
+     },
+     "examples": [
+      "Can you outbid the other buyers?",
+      "A rich man outbid everyone for the painting.",
+      "Someone has outbid me!"
+     ],
+     "examples_vi": [
+      "Cậu có trả giá cao hơn những người mua khác được không?",
+      "Một người giàu đã trả giá cao hơn mọi người để mua bức tranh.",
+      "Ai đó đã trả giá cao hơn tớ!"
+     ]
+    },
+    {
+     "v1": "overbid",
+     "v2": "overbid",
+     "v3": "overbid",
+     "ipa": [
+      "/ˌəʊvəˈbɪd/",
+      "/ˌəʊvəˈbɪd/",
+      "/ˌəʊvəˈbɪd/"
+     ],
+     "meaning": "trả giá quá cao",
+     "icon": "🏷️",
+     "note": "Chia giống bid: bid – bid – bid.",
+     "also": {
+      "v2": [
+       "overbade"
+      ],
+      "v3": [
+       "overbidden"
+      ]
+     },
+     "examples": [
+      "Don't overbid at the auction.",
+      "He overbid and paid too much.",
+      "I think we have overbid."
+     ],
+     "examples_vi": [
+      "Đừng trả giá quá cao ở buổi đấu giá.",
+      "Anh ấy trả giá quá cao và mất quá nhiều tiền.",
+      "Tớ nghĩ chúng ta đã trả giá quá cao."
+     ]
+    },
+    {
+     "v1": "underbid",
+     "v2": "underbid",
+     "v3": "underbid",
+     "ipa": [
+      "/ˌʌndəˈbɪd/",
+      "/ˌʌndəˈbɪd/",
+      "/ˌʌndəˈbɪd/"
+     ],
+     "meaning": "bỏ giá thấp hơn",
+     "icon": "📉",
+     "note": "Chia giống bid: bid – bid – bid.",
+     "also": {
+      "v2": [
+       "underbade"
+      ],
+      "v3": [
+       "underbidden"
+      ]
+     },
+     "examples": [
+      "Small companies underbid big ones to win jobs.",
+      "They underbid us by a million dong.",
+      "Another builder has underbid us."
+     ],
+     "examples_vi": [
+      "Công ty nhỏ bỏ giá thấp hơn công ty lớn để giành việc.",
+      "Họ bỏ giá thấp hơn chúng tôi một triệu đồng.",
+      "Một nhà thầu khác đã bỏ giá thấp hơn chúng tôi."
+     ]
+    },
+    {
+     "v1": "rebid",
+     "v2": "rebid",
+     "v3": "rebid",
+     "ipa": [
+      "/ˌriːˈbɪd/",
+      "/ˌriːˈbɪd/",
+      "/ˌriːˈbɪd/"
+     ],
+     "meaning": "trả giá lại",
+     "icon": "🔁",
+     "note": "Chia giống bid: bid – bid – bid.",
+     "also": {
+      "v2": [
+       "rebade"
+      ],
+      "v3": [
+       "rebidden"
+      ]
+     },
+     "examples": [
+      "You can rebid if you lose.",
+      "She rebid for the old doll.",
+      "He has rebid three times."
+     ],
+     "examples_vi": [
+      "Cậu có thể trả giá lại nếu thua.",
+      "Cô ấy trả giá lại cho con búp bê cổ.",
+      "Ông ấy đã trả giá lại ba lần."
+     ]
+    },
+    {
+     "v1": "outfight",
+     "v2": "outfought",
+     "v3": "outfought",
+     "ipa": [
+      "/ˌaʊtˈfaɪt/",
+      "/ˌaʊtˈfɔːt/",
+      "/ˌaʊtˈfɔːt/"
+     ],
+     "meaning": "đánh giỏi hơn",
+     "icon": "🥋",
+     "note": "Chia giống fight: fight – fought – fought.",
+     "examples": [
+      "The small cat can outfight the big dog.",
+      "Our boxer outfought his rival.",
+      "The hero has outfought all his enemies."
+     ],
+     "examples_vi": [
+      "Chú mèo nhỏ có thể đánh thắng con chó to.",
+      "Võ sĩ của chúng ta đánh giỏi hơn đối thủ.",
+      "Người anh hùng đã đánh bại mọi kẻ thù."
+     ]
+    },
+    {
+     "v1": "overshoot",
+     "v2": "overshot",
+     "v3": "overshot",
+     "ipa": [
+      "/ˌəʊvəˈʃuːt/",
+      "/ˌəʊvəˈʃɒt/",
+      "/ˌəʊvəˈʃɒt/"
+     ],
+     "meaning": "vượt quá (điểm đích)",
+     "icon": "🎯",
+     "note": "Chia giống shoot: shoot – shot – shot.",
+     "examples": [
+      "Don't overshoot the turning.",
+      "The plane overshot the runway.",
+      "We have overshot our stop!"
+     ],
+     "examples_vi": [
+      "Đừng đi quá chỗ rẽ.",
+      "Máy bay trượt quá đường băng.",
+      "Chúng ta đi quá điểm dừng rồi!"
+     ]
+    },
+    {
+     "v1": "undershoot",
+     "v2": "undershot",
+     "v3": "undershot",
+     "ipa": [
+      "/ˌʌndəˈʃuːt/",
+      "/ˌʌndəˈʃɒt/",
+      "/ˌʌndəˈʃɒt/"
+     ],
+     "meaning": "không tới (điểm đích)",
+     "icon": "🏹",
+     "note": "Chia giống shoot: shoot – shot – shot.",
+     "examples": [
+      "Aim higher or you will undershoot.",
+      "The arrow undershot the target.",
+      "The plane has undershot the runway."
+     ],
+     "examples_vi": [
+      "Ngắm cao hơn kẻo bắn không tới.",
+      "Mũi tên bắn không tới bia.",
+      "Máy bay đã hạ cánh trước đường băng."
+     ]
+    },
+    {
+     "v1": "outshoot",
+     "v2": "outshot",
+     "v3": "outshot",
+     "ipa": [
+      "/ˌaʊtˈʃuːt/",
+      "/ˌaʊtˈʃɒt/",
+      "/ˌaʊtˈʃɒt/"
+     ],
+     "meaning": "ném (sút) giỏi hơn",
+     "icon": "🏀",
+     "note": "Chia giống shoot: shoot – shot – shot.",
+     "examples": [
+      "Can you outshoot me in basketball?",
+      "Our team outshot theirs in the second half.",
+      "She has outshot every player today."
+     ],
+     "examples_vi": [
+      "Cậu ném rổ giỏi hơn tớ không?",
+      "Hiệp hai đội tớ sút nhiều hơn đội bạn.",
+      "Hôm nay cô ấy ném giỏi hơn mọi cầu thủ."
+     ]
+    },
+    {
+     "v1": "rewin",
+     "v2": "rewon",
+     "v3": "rewon",
+     "ipa": [
+      "/ˌriːˈwɪn/",
+      "/ˌriːˈwʌn/",
+      "/ˌriːˈwʌn/"
+     ],
+     "meaning": "giành lại",
+     "icon": "🏆",
+     "note": "Chia giống win: win – won – won.",
+     "examples": [
+      "We want to rewin the cup.",
+      "The team rewon the title last year.",
+      "They have rewon the trust of their fans."
+     ],
+     "examples_vi": [
+      "Chúng tớ muốn giành lại cúp.",
+      "Năm ngoái đội đã giành lại danh hiệu.",
+      "Họ đã giành lại niềm tin của người hâm mộ."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 32: Họ của cut – hit – let – lay",
+   "level": 3,
+   "icon": "🔨",
+   "note": "undercut, mishit, sublet: 3 dạng giống nhau như cut, hit, let. relay, inlay, overlay, underlay, interlay chia giống lay (laid – laid).",
+   "verbs": [
+    {
+     "v1": "undercut",
+     "v2": "undercut",
+     "v3": "undercut",
+     "ipa": [
+      "/ˌʌndəˈkʌt/",
+      "/ˌʌndəˈkʌt/",
+      "/ˌʌndəˈkʌt/"
+     ],
+     "meaning": "bán rẻ hơn; xói chân",
+     "icon": "✂️",
+     "note": "Chia giống cut: cut – cut – cut.",
+     "examples": [
+      "Online shops undercut local shops.",
+      "The new shop undercut our prices last month.",
+      "The river has undercut the bank."
+     ],
+     "examples_vi": [
+      "Cửa hàng trên mạng bán rẻ hơn cửa hàng địa phương.",
+      "Tháng trước cửa hàng mới bán rẻ hơn giá chúng tôi.",
+      "Dòng sông đã xói mòn chân bờ."
+     ]
+    },
+    {
+     "v1": "mishit",
+     "v2": "mishit",
+     "v3": "mishit",
+     "ipa": [
+      "/ˌmɪsˈhɪt/",
+      "/ˌmɪsˈhɪt/",
+      "/ˌmɪsˈhɪt/"
+     ],
+     "meaning": "đánh hỏng (bóng)",
+     "icon": "🏸",
+     "note": "Chia giống hit: hit – hit – hit.",
+     "examples": [
+      "Don't mishit the shuttlecock!",
+      "I mishit the ball into the net.",
+      "He has mishit the ball again."
+     ],
+     "examples_vi": [
+      "Đừng đánh hỏng quả cầu!",
+      "Tớ đánh hỏng bóng vào lưới.",
+      "Cậu ấy lại đánh hỏng bóng rồi."
+     ]
+    },
+    {
+     "v1": "relay",
+     "v2": "relaid",
+     "v3": "relaid",
+     "ipa": [
+      "/ˌriːˈleɪ/",
+      "/ˌriːˈleɪd/",
+      "/ˌriːˈleɪd/"
+     ],
+     "meaning": "đặt lại, lát lại",
+     "icon": "🧱",
+     "note": "Chia giống lay: lay – laid – laid. Nghĩa \"chuyển tiếp\" (relay – relayed) là động từ có quy tắc.",
+     "examples": [
+      "The workers will relay the floor.",
+      "They relaid the pipes last week.",
+      "The carpet has been relaid."
+     ],
+     "examples_vi": [
+      "Thợ sẽ lát lại sàn nhà.",
+      "Tuần trước họ đặt lại đường ống.",
+      "Thảm đã được trải lại."
+     ]
+    },
+    {
+     "v1": "inlay",
+     "v2": "inlaid",
+     "v3": "inlaid",
+     "ipa": [
+      "/ˌɪnˈleɪ/",
+      "/ˌɪnˈleɪd/",
+      "/ˌɪnˈleɪd/"
+     ],
+     "meaning": "khảm, dát",
+     "icon": "💎",
+     "note": "Chia giống lay: lay – laid – laid.",
+     "examples": [
+      "Craftsmen inlay pearl into wood.",
+      "He inlaid the box with shells.",
+      "The table has been inlaid with gold."
+     ],
+     "examples_vi": [
+      "Thợ khảm xà cừ vào gỗ.",
+      "Ông ấy khảm vỏ sò lên chiếc hộp.",
+      "Chiếc bàn được dát vàng."
+     ]
+    },
+    {
+     "v1": "overlay",
+     "v2": "overlaid",
+     "v3": "overlaid",
+     "ipa": [
+      "/ˌəʊvəˈleɪ/",
+      "/ˌəʊvəˈleɪd/",
+      "/ˌəʊvəˈleɪd/"
+     ],
+     "meaning": "phủ lên",
+     "icon": "⬜",
+     "note": "Chia giống lay: lay – laid – laid.",
+     "examples": [
+      "Overlay the cake with cream.",
+      "She overlaid the picture with gold paint.",
+      "The box has been overlaid with silver."
+     ],
+     "examples_vi": [
+      "Phủ kem lên bánh.",
+      "Cô ấy phủ sơn vàng lên bức tranh.",
+      "Chiếc hộp đã được phủ bạc."
+     ]
+    },
+    {
+     "v1": "underlay",
+     "v2": "underlaid",
+     "v3": "underlaid",
+     "ipa": [
+      "/ˌʌndəˈleɪ/",
+      "/ˌʌndəˈleɪd/",
+      "/ˌʌndəˈleɪd/"
+     ],
+     "meaning": "lót bên dưới",
+     "icon": "🛏️",
+     "note": "Chia giống lay: lay – laid – laid.",
+     "examples": [
+      "Underlay the carpet with foam.",
+      "They underlaid the floor with plastic.",
+      "The road has been underlaid with stones."
+     ],
+     "examples_vi": [
+      "Lót xốp bên dưới thảm.",
+      "Họ lót ni lông dưới sàn.",
+      "Con đường đã được lót đá bên dưới."
+     ]
+    },
+    {
+     "v1": "interlay",
+     "v2": "interlaid",
+     "v3": "interlaid",
+     "ipa": [
+      "/ˌɪntəˈleɪ/",
+      "/ˌɪntəˈleɪd/",
+      "/ˌɪntəˈleɪd/"
+     ],
+     "meaning": "xếp xen kẽ",
+     "icon": "🥪",
+     "note": "Chia giống lay: lay – laid – laid.",
+     "examples": [
+      "Interlay the bread with cheese.",
+      "She interlaid the cake layers with jam.",
+      "The pages have been interlaid with photos."
+     ],
+     "examples_vi": [
+      "Xếp xen kẽ bánh mì với phô mai.",
+      "Cô ấy xếp mứt xen giữa các lớp bánh.",
+      "Các trang được xen kẽ ảnh."
+     ]
+    },
+    {
+     "v1": "sublet",
+     "v2": "sublet",
+     "v3": "sublet",
+     "ipa": [
+      "/ˌsʌbˈlet/",
+      "/ˌsʌbˈlet/",
+      "/ˌsʌbˈlet/"
+     ],
+     "meaning": "cho thuê lại",
+     "icon": "🏠",
+     "note": "Chia giống let: let – let – let.",
+     "examples": [
+      "Can I sublet my room?",
+      "He sublet his flat for the summer.",
+      "They have sublet the shop to a friend."
+     ],
+     "examples_vi": [
+      "Tôi có thể cho thuê lại phòng không?",
+      "Anh ấy cho thuê lại căn hộ trong mùa hè.",
+      "Họ đã cho bạn thuê lại cửa hàng."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 33: Họ của lie – hang – ride – fall",
+   "level": 3,
+   "icon": "🛏️",
+   "note": "underlie, overlie giống lie (lay – lain); overhang, rehang giống hang (hung – hung); override, outride giống ride; befall giống fall.",
+   "verbs": [
+    {
+     "v1": "underlie",
+     "v2": "underlay",
+     "v3": "underlain",
+     "ipa": [
+      "/ˌʌndəˈlaɪ/",
+      "/ˌʌndəˈleɪ/",
+      "/ˌʌndəˈleɪn/"
+     ],
+     "meaning": "nằm bên dưới; là nền tảng",
+     "icon": "🪨",
+     "note": "Chia giống lie: lie – lay – lain.",
+     "examples": [
+      "Rocks underlie the soil.",
+      "Hard work underlay her success.",
+      "Coal has underlain this land for millions of years."
+     ],
+     "examples_vi": [
+      "Đá nằm bên dưới lớp đất.",
+      "Sự chăm chỉ là nền tảng thành công của cô ấy.",
+      "Than đá nằm dưới vùng đất này hàng triệu năm."
+     ]
+    },
+    {
+     "v1": "overlie",
+     "v2": "overlay",
+     "v3": "overlain",
+     "ipa": [
+      "/ˌəʊvəˈlaɪ/",
+      "/ˌəʊvəˈleɪ/",
+      "/ˌəʊvəˈleɪn/"
+     ],
+     "meaning": "nằm phủ lên",
+     "icon": "🧱",
+     "note": "Chia giống lie: lie – lay – lain.",
+     "examples": [
+      "A thick layer of snow can overlie the grass.",
+      "Sand overlay the old road.",
+      "Mud has overlain the village after the flood."
+     ],
+     "examples_vi": [
+      "Một lớp tuyết dày có thể phủ lên cỏ.",
+      "Cát phủ lên con đường cũ.",
+      "Bùn đã phủ kín ngôi làng sau lũ."
+     ]
+    },
+    {
+     "v1": "overhang",
+     "v2": "overhung",
+     "v3": "overhung",
+     "ipa": [
+      "/ˌəʊvəˈhæŋ/",
+      "/ˌəʊvəˈhʌŋ/",
+      "/ˌəʊvəˈhʌŋ/"
+     ],
+     "meaning": "chìa ra, nhô ra phía trên",
+     "icon": "🏠",
+     "note": "Chia giống hang: hang – hung – hung.",
+     "also": {
+      "v2": [
+       "overhanged"
+      ],
+      "v3": [
+       "overhanged"
+      ]
+     },
+     "examples": [
+      "Big trees overhang the path.",
+      "A rock overhung the river.",
+      "Branches have overhung the fence for years."
+     ],
+     "examples_vi": [
+      "Những cây lớn chìa ra phía trên lối đi.",
+      "Một tảng đá nhô ra phía trên dòng sông.",
+      "Cành cây đã chìa qua hàng rào nhiều năm."
+     ]
+    },
+    {
+     "v1": "rehang",
+     "v2": "rehung",
+     "v3": "rehung",
+     "ipa": [
+      "/ˌriːˈhæŋ/",
+      "/ˌriːˈhʌŋ/",
+      "/ˌriːˈhʌŋ/"
+     ],
+     "meaning": "treo lại",
+     "icon": "🖼️",
+     "note": "Chia giống hang: hang – hung – hung.",
+     "also": {
+      "v2": [
+       "rehanged"
+      ],
+      "v3": [
+       "rehanged"
+      ]
+     },
+     "examples": [
+      "Help me rehang the curtains.",
+      "We rehung the pictures in the hall.",
+      "Mum has rehung the clock."
+     ],
+     "examples_vi": [
+      "Giúp tớ treo lại rèm.",
+      "Chúng tớ treo lại tranh ở hành lang.",
+      "Mẹ đã treo lại đồng hồ."
+     ]
+    },
+    {
+     "v1": "override",
+     "v2": "overrode",
+     "v3": "overridden",
+     "ipa": [
+      "/ˌəʊvəˈraɪd/",
+      "/ˌəʊvəˈrəʊd/",
+      "/ˌəʊvəˈrɪdn/"
+     ],
+     "meaning": "gạt bỏ, ghi đè",
+     "icon": "🛑",
+     "note": "Chia giống ride: ride – rode – ridden.",
+     "examples": [
+      "Parents can override the child's settings.",
+      "The teacher overrode our decision.",
+      "Safety has overridden everything else."
+     ],
+     "examples_vi": [
+      "Bố mẹ có thể ghi đè cài đặt của con.",
+      "Cô giáo đã gạt bỏ quyết định của chúng tớ.",
+      "An toàn đã được đặt lên trên hết."
+     ]
+    },
+    {
+     "v1": "outride",
+     "v2": "outrode",
+     "v3": "outridden",
+     "ipa": [
+      "/ˌaʊtˈraɪd/",
+      "/ˌaʊtˈrəʊd/",
+      "/ˌaʊtˈrɪdn/"
+     ],
+     "meaning": "phi (đạp) nhanh hơn",
+     "icon": "🐎",
+     "note": "Chia giống ride: ride – rode – ridden.",
+     "examples": [
+      "Can your horse outride mine?",
+      "The cowboy outrode the robbers.",
+      "She has outridden all the other cyclists."
+     ],
+     "examples_vi": [
+      "Ngựa cậu có chạy nhanh hơn ngựa tớ không?",
+      "Chàng cao bồi phi ngựa nhanh hơn bọn cướp.",
+      "Cô ấy đã đạp nhanh hơn mọi tay đua khác."
+     ]
+    },
+    {
+     "v1": "befall",
+     "v2": "befell",
+     "v3": "befallen",
+     "ipa": [
+      "/bɪˈfɔːl/",
+      "/bɪˈfel/",
+      "/bɪˈfɔːlən/"
+     ],
+     "meaning": "xảy đến (điều không may)",
+     "icon": "⚠️",
+     "note": "Chia giống fall: fall – fell – fallen.",
+     "examples": [
+      "We hope no harm will befall you.",
+      "A sad thing befell the little prince.",
+      "Bad luck has befallen the team."
+     ],
+     "examples_vi": [
+      "Chúng tớ mong không điều xấu nào xảy đến với cậu.",
+      "Một chuyện buồn đã xảy đến với hoàng tử nhỏ.",
+      "Vận rủi đã ập đến với đội bóng."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 34: Họ của wind – bind – bend – string",
+   "level": 3,
+   "icon": "🧶",
+   "note": "rewind, unwind, overwind giống wind (wound /waʊnd/); unbind, rebind giống bind; unbend giống bend; unstring, hamstring giống string.",
+   "verbs": [
+    {
+     "v1": "rewind",
+     "v2": "rewound",
+     "v3": "rewound",
+     "ipa": [
+      "/ˌriːˈwaɪnd/",
+      "/ˌriːˈwaʊnd/",
+      "/ˌriːˈwaʊnd/"
+     ],
+     "meaning": "tua lại; quấn lại",
+     "icon": "⏪",
+     "note": "Chia giống wind: wind – wound – wound.",
+     "examples": [
+      "Rewind the video, please.",
+      "I rewound the song to hear it again.",
+      "Have you rewound the tape?"
+     ],
+     "examples_vi": [
+      "Tua lại video đi.",
+      "Tớ tua lại bài hát để nghe lần nữa.",
+      "Cậu tua lại băng chưa?"
+     ]
+    },
+    {
+     "v1": "unwind",
+     "v2": "unwound",
+     "v3": "unwound",
+     "ipa": [
+      "/ʌnˈwaɪnd/",
+      "/ʌnˈwaʊnd/",
+      "/ʌnˈwaʊnd/"
+     ],
+     "meaning": "thư giãn; tháo (cuộn)",
+     "icon": "🛋️",
+     "note": "Chia giống wind: wind – wound – wound.",
+     "examples": [
+      "I like to unwind with a book.",
+      "Dad unwound after a long day.",
+      "The thread has unwound from the spool."
+     ],
+     "examples_vi": [
+      "Tớ thích thư giãn với một cuốn sách.",
+      "Bố thư giãn sau một ngày dài.",
+      "Sợi chỉ đã tuột khỏi ống."
+     ]
+    },
+    {
+     "v1": "overwind",
+     "v2": "overwound",
+     "v3": "overwound",
+     "ipa": [
+      "/ˌəʊvəˈwaɪnd/",
+      "/ˌəʊvəˈwaʊnd/",
+      "/ˌəʊvəˈwaʊnd/"
+     ],
+     "meaning": "lên dây cót quá chặt",
+     "icon": "⏱️",
+     "note": "Chia giống wind: wind – wound – wound.",
+     "examples": [
+      "Don't overwind the music box.",
+      "My brother overwound the toy and broke it.",
+      "You have overwound the clock."
+     ],
+     "examples_vi": [
+      "Đừng lên dây cót hộp nhạc quá chặt.",
+      "Em tớ lên dây cót quá chặt làm hỏng đồ chơi.",
+      "Cậu lên dây cót đồng hồ quá chặt rồi."
+     ]
+    },
+    {
+     "v1": "unbind",
+     "v2": "unbound",
+     "v3": "unbound",
+     "ipa": [
+      "/ʌnˈbaɪnd/",
+      "/ʌnˈbaʊnd/",
+      "/ʌnˈbaʊnd/"
+     ],
+     "meaning": "cởi trói, tháo",
+     "icon": "🪢",
+     "note": "Chia giống bind: bind – bound – bound.",
+     "examples": [
+      "Please unbind the prisoner.",
+      "The hero unbound the princess.",
+      "The ropes have been unbound."
+     ],
+     "examples_vi": [
+      "Hãy cởi trói cho tù nhân.",
+      "Người anh hùng cởi trói cho công chúa.",
+      "Dây thừng đã được tháo ra."
+     ]
+    },
+    {
+     "v1": "rebind",
+     "v2": "rebound",
+     "v3": "rebound",
+     "ipa": [
+      "/ˌriːˈbaɪnd/",
+      "/ˌriːˈbaʊnd/",
+      "/ˌriːˈbaʊnd/"
+     ],
+     "meaning": "đóng lại (sách)",
+     "icon": "📕",
+     "note": "Chia giống bind: bind – bound – bound.",
+     "examples": [
+      "We need to rebind this old dictionary.",
+      "The library rebound the torn books.",
+      "My notebook has been rebound."
+     ],
+     "examples_vi": [
+      "Chúng ta cần đóng lại cuốn từ điển cũ này.",
+      "Thư viện đóng lại những cuốn sách rách.",
+      "Cuốn sổ của tớ đã được đóng lại."
+     ]
+    },
+    {
+     "v1": "unbend",
+     "v2": "unbent",
+     "v3": "unbent",
+     "ipa": [
+      "/ʌnˈbend/",
+      "/ʌnˈbent/",
+      "/ʌnˈbent/"
+     ],
+     "meaning": "duỗi thẳng; bớt nghiêm",
+     "icon": "🧘",
+     "note": "Chia giống bend: bend – bent – bent.",
+     "examples": [
+      "Unbend your arms slowly.",
+      "She unbent the wire.",
+      "The old man has finally unbent and smiled."
+     ],
+     "examples_vi": [
+      "Duỗi thẳng tay từ từ.",
+      "Cô ấy uốn thẳng sợi dây thép.",
+      "Ông lão cuối cùng đã bớt nghiêm và mỉm cười."
+     ]
+    },
+    {
+     "v1": "unstring",
+     "v2": "unstrung",
+     "v3": "unstrung",
+     "ipa": [
+      "/ʌnˈstrɪŋ/",
+      "/ʌnˈstrʌŋ/",
+      "/ʌnˈstrʌŋ/"
+     ],
+     "meaning": "tháo dây (đàn, cung, chuỗi)",
+     "icon": "🎻",
+     "note": "Chia giống string: string – strung – strung.",
+     "examples": [
+      "Unstring the bow after practice.",
+      "He unstrung his old guitar.",
+      "The beads have been unstrung."
+     ],
+     "examples_vi": [
+      "Tháo dây cung sau khi tập.",
+      "Anh ấy tháo dây cây đàn ghi-ta cũ.",
+      "Những hạt cườm đã được tháo khỏi dây."
+     ]
+    },
+    {
+     "v1": "hamstring",
+     "v2": "hamstrung",
+     "v3": "hamstrung",
+     "ipa": [
+      "/ˈhæmstrɪŋ/",
+      "/ˈhæmstrʌŋ/",
+      "/ˈhæmstrʌŋ/"
+     ],
+     "meaning": "cản trở, làm tê liệt",
+     "icon": "🦵",
+     "note": "Chia giống string: string – strung – strung.",
+     "examples": [
+      "Bad weather can hamstring our plans.",
+      "The injury hamstrung the team.",
+      "Lack of money has hamstrung the project."
+     ],
+     "examples_vi": [
+      "Thời tiết xấu có thể cản trở kế hoạch.",
+      "Chấn thương làm đội bóng tê liệt.",
+      "Thiếu tiền đã cản trở dự án."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 35: Họ của think – teach – send – speak",
+   "level": 3,
+   "icon": "💭",
+   "note": "rethink, outthink, overthink, bethink giống think (thought); reteach, misteach giống teach (taught); resend giống send; misspeak giống speak.",
+   "verbs": [
+    {
+     "v1": "rethink",
+     "v2": "rethought",
+     "v3": "rethought",
+     "ipa": [
+      "/ˌriːˈθɪŋk/",
+      "/ˌriːˈθɔːt/",
+      "/ˌriːˈθɔːt/"
+     ],
+     "meaning": "suy nghĩ lại",
+     "icon": "🤔",
+     "note": "Chia giống think: think – thought – thought.",
+     "examples": [
+      "Let's rethink our plan.",
+      "I rethought my answer and changed it.",
+      "Have you rethought your idea?"
+     ],
+     "examples_vi": [
+      "Mình nghĩ lại kế hoạch đi.",
+      "Tớ nghĩ lại và đổi câu trả lời.",
+      "Cậu nghĩ lại ý tưởng chưa?"
+     ]
+    },
+    {
+     "v1": "outthink",
+     "v2": "outthought",
+     "v3": "outthought",
+     "ipa": [
+      "/ˌaʊtˈθɪŋk/",
+      "/ˌaʊtˈθɔːt/",
+      "/ˌaʊtˈθɔːt/"
+     ],
+     "meaning": "tính trước, khôn hơn",
+     "icon": "♟️",
+     "note": "Chia giống think: think – thought – thought.",
+     "examples": [
+      "You must outthink your opponent in chess.",
+      "The clever fox outthought the hunter.",
+      "She has outthought everyone in the quiz."
+     ],
+     "examples_vi": [
+      "Chơi cờ phải tính trước đối thủ.",
+      "Con cáo khôn ngoan đã lừa được người thợ săn.",
+      "Cô ấy suy nghĩ nhanh hơn mọi người trong cuộc thi đố."
+     ]
+    },
+    {
+     "v1": "overthink",
+     "v2": "overthought",
+     "v3": "overthought",
+     "ipa": [
+      "/ˌəʊvəˈθɪŋk/",
+      "/ˌəʊvəˈθɔːt/",
+      "/ˌəʊvəˈθɔːt/"
+     ],
+     "meaning": "nghĩ quá nhiều",
+     "icon": "😵‍💫",
+     "note": "Chia giống think: think – thought – thought.",
+     "examples": [
+      "Don't overthink the question.",
+      "I overthought the test and got confused.",
+      "Maybe you have overthought it."
+     ],
+     "examples_vi": [
+      "Đừng nghĩ quá nhiều về câu hỏi.",
+      "Tớ nghĩ quá nhiều khi làm bài nên bị rối.",
+      "Có lẽ cậu nghĩ quá nhiều rồi."
+     ]
+    },
+    {
+     "v1": "bethink",
+     "v2": "bethought",
+     "v3": "bethought",
+     "ipa": [
+      "/bɪˈθɪŋk/",
+      "/bɪˈθɔːt/",
+      "/bɪˈθɔːt/"
+     ],
+     "meaning": "sực nhớ, suy xét (văn chương)",
+     "icon": "💭",
+     "note": "Chia giống think: think – thought – thought.",
+     "examples": [
+      "Bethink yourself before you speak.",
+      "He bethought himself of his promise.",
+      "She has bethought herself of a plan."
+     ],
+     "examples_vi": [
+      "Hãy suy nghĩ kỹ trước khi nói.",
+      "Anh ấy sực nhớ ra lời hứa.",
+      "Cô ấy đã nghĩ ra một kế."
+     ]
+    },
+    {
+     "v1": "reteach",
+     "v2": "retaught",
+     "v3": "retaught",
+     "ipa": [
+      "/ˌriːˈtiːtʃ/",
+      "/ˌriːˈtɔːt/",
+      "/ˌriːˈtɔːt/"
+     ],
+     "meaning": "dạy lại",
+     "icon": "🧑‍🏫",
+     "note": "Chia giống teach: teach – taught – taught.",
+     "examples": [
+      "The teacher will reteach the lesson.",
+      "Mr Hai retaught us how to divide.",
+      "She has retaught this unit twice."
+     ],
+     "examples_vi": [
+      "Cô giáo sẽ dạy lại bài.",
+      "Thầy Hải dạy lại cho chúng tớ cách chia.",
+      "Cô ấy đã dạy lại bài này hai lần."
+     ]
+    },
+    {
+     "v1": "misteach",
+     "v2": "mistaught",
+     "v3": "mistaught",
+     "ipa": [
+      "/ˌmɪsˈtiːtʃ/",
+      "/ˌmɪsˈtɔːt/",
+      "/ˌmɪsˈtɔːt/"
+     ],
+     "meaning": "dạy sai",
+     "icon": "📕",
+     "note": "Chia giống teach: teach – taught – taught.",
+     "examples": [
+      "Old books can misteach history.",
+      "The video mistaught the rules of the game.",
+      "I think we have been mistaught."
+     ],
+     "examples_vi": [
+      "Sách cũ có thể dạy sai lịch sử.",
+      "Video đã dạy sai luật chơi.",
+      "Tớ nghĩ chúng ta đã bị dạy sai."
+     ]
+    },
+    {
+     "v1": "resend",
+     "v2": "resent",
+     "v3": "resent",
+     "ipa": [
+      "/ˌriːˈsend/",
+      "/ˌriːˈsent/",
+      "/ˌriːˈsent/"
+     ],
+     "meaning": "gửi lại",
+     "icon": "📤",
+     "note": "Chia giống send: send – sent – sent. Đừng nhầm với resent (phẫn nộ) – động từ có quy tắc.",
+     "examples": [
+      "Please resend the email.",
+      "I resent the photo because it didn't arrive.",
+      "Have you resent the message?"
+     ],
+     "examples_vi": [
+      "Hãy gửi lại email.",
+      "Tớ gửi lại ảnh vì nó không đến.",
+      "Cậu gửi lại tin nhắn chưa?"
+     ]
+    },
+    {
+     "v1": "misspeak",
+     "v2": "misspoke",
+     "v3": "misspoken",
+     "ipa": [
+      "/ˌmɪsˈspiːk/",
+      "/ˌmɪsˈspəʊk/",
+      "/ˌmɪsˈspəʊkən/"
+     ],
+     "meaning": "nói nhầm",
+     "icon": "🗣️",
+     "note": "Chia giống speak: speak – spoke – spoken.",
+     "examples": [
+      "Even teachers sometimes misspeak.",
+      "Sorry, I misspoke – I meant Tuesday.",
+      "The speaker has misspoken twice."
+     ],
+     "examples_vi": [
+      "Ngay cả thầy cô đôi khi cũng nói nhầm.",
+      "Xin lỗi, tớ nói nhầm – ý tớ là thứ Ba.",
+      "Diễn giả đã nói nhầm hai lần."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 36: Họ của say – deal – give – cast – set",
+   "level": 3,
+   "icon": "🎭",
+   "note": "gainsay, unsay giống say (said); misdeal giống deal (dealt); misgive giống give; miscast, recast, overcast giống cast; typeset giống set.",
+   "verbs": [
+    {
+     "v1": "gainsay",
+     "v2": "gainsaid",
+     "v3": "gainsaid",
+     "ipa": [
+      "/ˌɡeɪnˈseɪ/",
+      "/ˌɡeɪnˈsed/",
+      "/ˌɡeɪnˈsed/"
+     ],
+     "meaning": "phủ nhận, cãi lại",
+     "icon": "🙅",
+     "note": "Chia giống say: say – said – said.",
+     "examples": [
+      "Nobody can gainsay her talent.",
+      "No one gainsaid the old man.",
+      "His words have never been gainsaid."
+     ],
+     "examples_vi": [
+      "Không ai phủ nhận được tài năng của cô ấy.",
+      "Không ai cãi lại ông lão.",
+      "Lời ông ấy chưa bao giờ bị phản bác."
+     ]
+    },
+    {
+     "v1": "unsay",
+     "v2": "unsaid",
+     "v3": "unsaid",
+     "ipa": [
+      "/ʌnˈseɪ/",
+      "/ʌnˈsed/",
+      "/ʌnˈsed/"
+     ],
+     "meaning": "rút lại (lời nói)",
+     "icon": "🤐",
+     "note": "Chia giống say: say – said – said.",
+     "examples": [
+      "You can't unsay what you said.",
+      "She unsaid her angry words and said sorry.",
+      "What has been said cannot be unsaid."
+     ],
+     "examples_vi": [
+      "Lời đã nói ra thì không rút lại được.",
+      "Cô ấy rút lại lời giận dữ và xin lỗi.",
+      "Điều đã nói thì không thể rút lại."
+     ]
+    },
+    {
+     "v1": "misdeal",
+     "v2": "misdealt",
+     "v3": "misdealt",
+     "ipa": [
+      "/ˌmɪsˈdiːl/",
+      "/ˌmɪsˈdelt/",
+      "/ˌmɪsˈdelt/"
+     ],
+     "meaning": "chia bài nhầm",
+     "icon": "🃏",
+     "note": "Chia giống deal: deal – dealt – dealt.",
+     "examples": [
+      "Don't misdeal the cards!",
+      "Grandpa misdealt and we started again.",
+      "Oops, I have misdealt."
+     ],
+     "examples_vi": [
+      "Đừng chia bài nhầm!",
+      "Ông chia bài nhầm nên chúng tớ chơi lại.",
+      "Úi, tớ chia nhầm rồi."
+     ]
+    },
+    {
+     "v1": "misgive",
+     "v2": "misgave",
+     "v3": "misgiven",
+     "ipa": [
+      "/ˌmɪsˈɡɪv/",
+      "/ˌmɪsˈɡeɪv/",
+      "/ˌmɪsˈɡɪvn/"
+     ],
+     "meaning": "khiến bất an (cổ)",
+     "icon": "😟",
+     "note": "Chia giống give: give – gave – given.",
+     "examples": [
+      "Dark clouds can misgive a sailor's heart.",
+      "His heart misgave him when he saw the dark sky.",
+      "Her heart has misgiven her all day."
+     ],
+     "examples_vi": [
+      "Mây đen có thể khiến người thủy thủ thấy bất an.",
+      "Lòng anh ấy chợt bất an khi thấy bầu trời tối sầm.",
+      "Cả ngày lòng cô ấy thấy bất an."
+     ]
+    },
+    {
+     "v1": "miscast",
+     "v2": "miscast",
+     "v3": "miscast",
+     "ipa": [
+      "/ˌmɪsˈkɑːst/",
+      "/ˌmɪsˈkɑːst/",
+      "/ˌmɪsˈkɑːst/"
+     ],
+     "meaning": "chọn vai không hợp",
+     "icon": "🎭",
+     "note": "Chia giống cast: cast – cast – cast.",
+     "examples": [
+      "Directors sometimes miscast actors.",
+      "They miscast him as the hero.",
+      "I think she has been miscast."
+     ],
+     "examples_vi": [
+      "Đạo diễn đôi khi chọn diễn viên không hợp vai.",
+      "Họ chọn anh ấy đóng vai anh hùng không hợp.",
+      "Tớ nghĩ cô ấy bị chọn sai vai."
+     ]
+    },
+    {
+     "v1": "recast",
+     "v2": "recast",
+     "v3": "recast",
+     "ipa": [
+      "/ˌriːˈkɑːst/",
+      "/ˌriːˈkɑːst/",
+      "/ˌriːˈkɑːst/"
+     ],
+     "meaning": "chọn lại vai; đúc lại",
+     "icon": "🔁",
+     "note": "Chia giống cast: cast – cast – cast.",
+     "examples": [
+      "They had to recast the main role.",
+      "The director recast the princess last week.",
+      "The bell has been recast."
+     ],
+     "examples_vi": [
+      "Họ phải chọn lại diễn viên vai chính.",
+      "Tuần trước đạo diễn chọn lại người đóng công chúa.",
+      "Chiếc chuông đã được đúc lại."
+     ]
+    },
+    {
+     "v1": "overcast",
+     "v2": "overcast",
+     "v3": "overcast",
+     "ipa": [
+      "/ˌəʊvəˈkɑːst/",
+      "/ˌəʊvəˈkɑːst/",
+      "/ˌəʊvəˈkɑːst/"
+     ],
+     "meaning": "làm u ám",
+     "icon": "☁️",
+     "note": "Chia giống cast: cast – cast – cast.",
+     "examples": [
+      "Clouds often overcast the sky in winter.",
+      "Dark clouds overcast the sky all morning.",
+      "The sky has been overcast all day."
+     ],
+     "examples_vi": [
+      "Mùa đông mây thường làm bầu trời u ám.",
+      "Mây đen làm bầu trời u ám cả buổi sáng.",
+      "Trời u ám cả ngày."
+     ]
+    },
+    {
+     "v1": "typeset",
+     "v2": "typeset",
+     "v3": "typeset",
+     "ipa": [
+      "/ˈtaɪpset/",
+      "/ˈtaɪpset/",
+      "/ˈtaɪpset/"
+     ],
+     "meaning": "sắp chữ, dàn trang (in ấn)",
+     "icon": "🖨️",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "Printers typeset books before printing.",
+      "She typeset the school magazine.",
+      "The book has been typeset."
+     ],
+     "examples_vi": [
+      "Thợ in sắp chữ trước khi in sách.",
+      "Cô ấy dàn trang tạp chí của trường.",
+      "Cuốn sách đã được sắp chữ."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 37: Họ của breed – weave – freeze – stick",
+   "level": 3,
+   "icon": "🧵",
+   "note": "crossbreed, inbreed, interbreed giống breed (bred); interweave, reweave, unweave giống weave; unfreeze, refreeze giống freeze; unstick giống stick.",
+   "verbs": [
+    {
+     "v1": "crossbreed",
+     "v2": "crossbred",
+     "v3": "crossbred",
+     "ipa": [
+      "/ˈkrɒsbriːd/",
+      "/ˈkrɒsbred/",
+      "/ˈkrɒsbred/"
+     ],
+     "meaning": "lai giống",
+     "icon": "🐕",
+     "note": "Chia giống breed: breed – bred – bred.",
+     "examples": [
+      "Farmers crossbreed cows to get more milk.",
+      "They crossbred a poodle with a labrador.",
+      "These plants have been crossbred."
+     ],
+     "examples_vi": [
+      "Nông dân lai giống bò để có nhiều sữa hơn.",
+      "Họ lai chó poodle với chó labrador.",
+      "Những cây này đã được lai giống."
+     ]
+    },
+    {
+     "v1": "inbreed",
+     "v2": "inbred",
+     "v3": "inbred",
+     "ipa": [
+      "/ˌɪnˈbriːd/",
+      "/ˌɪnˈbred/",
+      "/ˌɪnˈbred/"
+     ],
+     "meaning": "giao phối cận huyết",
+     "icon": "🧬",
+     "note": "Chia giống breed: breed – bred – bred.",
+     "examples": [
+      "Zoos try not to inbreed animals.",
+      "The small group of wolves inbred for years.",
+      "These dogs have been inbred."
+     ],
+     "examples_vi": [
+      "Sở thú cố tránh cho động vật giao phối cận huyết.",
+      "Bầy sói nhỏ giao phối cận huyết nhiều năm.",
+      "Những con chó này là giống cận huyết."
+     ]
+    },
+    {
+     "v1": "interbreed",
+     "v2": "interbred",
+     "v3": "interbred",
+     "ipa": [
+      "/ˌɪntəˈbriːd/",
+      "/ˌɪntəˈbred/",
+      "/ˌɪntəˈbred/"
+     ],
+     "meaning": "lai với nhau",
+     "icon": "🐎",
+     "note": "Chia giống breed: breed – bred – bred.",
+     "examples": [
+      "Horses and donkeys can interbreed.",
+      "The two kinds of birds interbred on the island.",
+      "These plants have interbred naturally."
+     ],
+     "examples_vi": [
+      "Ngựa và lừa có thể lai với nhau.",
+      "Hai loài chim đã lai với nhau trên đảo.",
+      "Những cây này đã tự lai với nhau."
+     ]
+    },
+    {
+     "v1": "interweave",
+     "v2": "interwove",
+     "v3": "interwoven",
+     "ipa": [
+      "/ˌɪntəˈwiːv/",
+      "/ˌɪntəˈwəʊv/",
+      "/ˌɪntəˈwəʊvn/"
+     ],
+     "meaning": "đan xen",
+     "icon": "✨",
+     "note": "Chia giống weave: weave – wove – woven.",
+     "also": {
+      "v2": [
+       "interweaved"
+      ],
+      "v3": [
+       "interweaved"
+      ]
+     },
+     "examples": [
+      "Interweave the red and blue threads.",
+      "She interwove flowers into her hair.",
+      "The two stories are interwoven."
+     ],
+     "examples_vi": [
+      "Đan xen sợi chỉ đỏ và xanh.",
+      "Cô ấy kết hoa đan vào tóc.",
+      "Hai câu chuyện được đan xen với nhau."
+     ]
+    },
+    {
+     "v1": "reweave",
+     "v2": "rewove",
+     "v3": "rewoven",
+     "ipa": [
+      "/ˌriːˈwiːv/",
+      "/ˌriːˈwəʊv/",
+      "/ˌriːˈwəʊvn/"
+     ],
+     "meaning": "dệt lại, đan lại",
+     "icon": "🧺",
+     "note": "Chia giống weave: weave – wove – woven.",
+     "also": {
+      "v2": [
+       "reweaved"
+      ],
+      "v3": [
+       "reweaved"
+      ]
+     },
+     "examples": [
+      "Can you reweave this torn cloth?",
+      "Grandma rewove the old basket.",
+      "The carpet has been rewoven."
+     ],
+     "examples_vi": [
+      "Bà dệt lại mảnh vải rách này được không?",
+      "Bà đan lại chiếc giỏ cũ.",
+      "Tấm thảm đã được dệt lại."
+     ]
+    },
+    {
+     "v1": "unweave",
+     "v2": "unwove",
+     "v3": "unwoven",
+     "ipa": [
+      "/ʌnˈwiːv/",
+      "/ʌnˈwəʊv/",
+      "/ʌnˈwəʊvn/"
+     ],
+     "meaning": "tháo (sợi đã dệt)",
+     "icon": "🧶",
+     "note": "Chia giống weave: weave – wove – woven.",
+     "also": {
+      "v2": [
+       "unweaved"
+      ],
+      "v3": [
+       "unweaved"
+      ]
+     },
+     "examples": [
+      "Don't unweave the basket!",
+      "The kitten unwove the scarf.",
+      "The rope has been unwoven."
+     ],
+     "examples_vi": [
+      "Đừng tháo cái giỏ ra!",
+      "Mèo con làm tuột hết chiếc khăn len.",
+      "Sợi thừng đã bị tháo ra."
+     ]
+    },
+    {
+     "v1": "unfreeze",
+     "v2": "unfroze",
+     "v3": "unfrozen",
+     "ipa": [
+      "/ʌnˈfriːz/",
+      "/ʌnˈfrəʊz/",
+      "/ʌnˈfrəʊzn/"
+     ],
+     "meaning": "rã đông; hết treo",
+     "icon": "🌡️",
+     "note": "Chia giống freeze: freeze – froze – frozen.",
+     "examples": [
+      "Unfreeze the chicken before cooking.",
+      "The sun unfroze the lake.",
+      "The game has unfrozen at last."
+     ],
+     "examples_vi": [
+      "Rã đông thịt gà trước khi nấu.",
+      "Mặt trời làm tan băng mặt hồ.",
+      "Cuối cùng trò chơi đã hết treo."
+     ]
+    },
+    {
+     "v1": "refreeze",
+     "v2": "refroze",
+     "v3": "refrozen",
+     "ipa": [
+      "/ˌriːˈfriːz/",
+      "/ˌriːˈfrəʊz/",
+      "/ˌriːˈfrəʊzn/"
+     ],
+     "meaning": "làm đông lại",
+     "icon": "🧊",
+     "note": "Chia giống freeze: freeze – froze – frozen.",
+     "examples": [
+      "Don't refreeze melted ice cream.",
+      "The puddles refroze at night.",
+      "The lake has refrozen."
+     ],
+     "examples_vi": [
+      "Đừng làm đông lại kem đã tan.",
+      "Vũng nước đóng băng lại vào ban đêm.",
+      "Mặt hồ đã đóng băng trở lại."
+     ]
+    },
+    {
+     "v1": "unstick",
+     "v2": "unstuck",
+     "v3": "unstuck",
+     "ipa": [
+      "/ʌnˈstɪk/",
+      "/ʌnˈstʌk/",
+      "/ʌnˈstʌk/"
+     ],
+     "meaning": "gỡ ra",
+     "icon": "🩹",
+     "note": "Chia giống stick: stick – stuck – stuck.",
+     "examples": [
+      "Can you unstick this stamp?",
+      "I unstuck the sticker from my book.",
+      "The door has come unstuck."
+     ],
+     "examples_vi": [
+      "Cậu gỡ con tem này ra được không?",
+      "Tớ gỡ hình dán khỏi sách.",
+      "Cánh cửa đã hết kẹt."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 38: Họ của bite – slide – beat – make – swim – sing",
+   "level": 3,
+   "icon": "🦷",
+   "note": "backbite, frostbite giống bite; backslide giống slide; browbeat giống beat; unmake giống make; outswim giống swim; outsing giống sing.",
+   "verbs": [
+    {
+     "v1": "backbite",
+     "v2": "backbit",
+     "v3": "backbitten",
+     "ipa": [
+      "/ˈbækbaɪt/",
+      "/ˈbækbɪt/",
+      "/ˈbækbɪtn/"
+     ],
+     "meaning": "nói xấu sau lưng",
+     "icon": "🗣️",
+     "note": "Chia giống bite: bite – bit – bitten.",
+     "examples": [
+      "Good friends don't backbite.",
+      "She backbit her classmates.",
+      "He has backbitten everyone in the office."
+     ],
+     "examples_vi": [
+      "Bạn tốt không nói xấu sau lưng.",
+      "Cô ấy nói xấu bạn cùng lớp sau lưng.",
+      "Anh ta đã nói xấu mọi người trong văn phòng."
+     ]
+    },
+    {
+     "v1": "frostbite",
+     "v2": "frostbit",
+     "v3": "frostbitten",
+     "ipa": [
+      "/ˈfrɒstbaɪt/",
+      "/ˈfrɒstbɪt/",
+      "/ˈfrɒstbɪtn/"
+     ],
+     "meaning": "làm tê cóng",
+     "icon": "🥶",
+     "note": "Chia giống bite: bite – bit – bitten.",
+     "examples": [
+      "The cold can frostbite your fingers.",
+      "The icy wind frostbit his ears.",
+      "The climber's toes were frostbitten."
+     ],
+     "examples_vi": [
+      "Cái lạnh có thể làm cóng ngón tay.",
+      "Gió băng làm tai anh ấy tê cóng.",
+      "Ngón chân người leo núi bị tê cóng."
+     ]
+    },
+    {
+     "v1": "backslide",
+     "v2": "backslid",
+     "v3": "backslid",
+     "ipa": [
+      "/ˈbækslaɪd/",
+      "/ˈbækslɪd/",
+      "/ˈbækslɪd/"
+     ],
+     "meaning": "quay lại thói xấu",
+     "icon": "↩️",
+     "note": "Chia giống slide: slide – slid – slid.",
+     "examples": [
+      "Try not to backslide into bad habits.",
+      "He backslid and ate junk food again.",
+      "I have backslid and stayed up late again."
+     ],
+     "examples_vi": [
+      "Cố đừng quay lại thói quen xấu.",
+      "Cậu ấy lại quay về ăn đồ ăn vặt.",
+      "Tớ lại tái phạm thức khuya rồi."
+     ]
+    },
+    {
+     "v1": "browbeat",
+     "v2": "browbeat",
+     "v3": "browbeaten",
+     "ipa": [
+      "/ˈbraʊbiːt/",
+      "/ˈbraʊbiːt/",
+      "/ˈbraʊbiːtn/"
+     ],
+     "meaning": "bắt nạt, dọa dẫm",
+     "icon": "😠",
+     "note": "Chia giống beat: beat – beat – beaten.",
+     "also": {
+      "v3": [
+       "browbeat"
+      ]
+     },
+     "examples": [
+      "Don't let anyone browbeat you.",
+      "The bully browbeat the younger kids.",
+      "She was browbeaten into saying yes."
+     ],
+     "examples_vi": [
+      "Đừng để ai bắt nạt cậu.",
+      "Kẻ bắt nạt dọa dẫm các em nhỏ.",
+      "Cô ấy bị ép phải đồng ý."
+     ]
+    },
+    {
+     "v1": "unmake",
+     "v2": "unmade",
+     "v3": "unmade",
+     "ipa": [
+      "/ʌnˈmeɪk/",
+      "/ʌnˈmeɪd/",
+      "/ʌnˈmeɪd/"
+     ],
+     "meaning": "phá hỏng, hủy bỏ",
+     "icon": "💥",
+     "note": "Chia giống make: make – made – made.",
+     "examples": [
+      "Bad choices can unmake a good team.",
+      "One mistake unmade all his hard work.",
+      "The bed has been unmade."
+     ],
+     "examples_vi": [
+      "Những lựa chọn tồi có thể phá hỏng một đội giỏi.",
+      "Một sai lầm đã phá hỏng mọi nỗ lực của anh ấy.",
+      "Giường đã bị làm bừa ra."
+     ]
+    },
+    {
+     "v1": "outswim",
+     "v2": "outswam",
+     "v3": "outswum",
+     "ipa": [
+      "/ˌaʊtˈswɪm/",
+      "/ˌaʊtˈswæm/",
+      "/ˌaʊtˈswʌm/"
+     ],
+     "meaning": "bơi nhanh hơn",
+     "icon": "🏊‍♀️",
+     "note": "Chia giống swim: swim – swam – swum.",
+     "examples": [
+      "Can you outswim a dolphin?",
+      "Mai outswam all the boys.",
+      "She has outswum everyone in the pool."
+     ],
+     "examples_vi": [
+      "Cậu bơi nhanh hơn cá heo được không?",
+      "Mai bơi nhanh hơn tất cả các bạn nam.",
+      "Cô ấy đã bơi nhanh hơn mọi người trong bể."
+     ]
+    },
+    {
+     "v1": "outsing",
+     "v2": "outsang",
+     "v3": "outsung",
+     "ipa": [
+      "/ˌaʊtˈsɪŋ/",
+      "/ˌaʊtˈsæŋ/",
+      "/ˌaʊtˈsʌŋ/"
+     ],
+     "meaning": "hát hay hơn",
+     "icon": "🎤",
+     "note": "Chia giống sing: sing – sang – sung.",
+     "examples": [
+      "Can you outsing your sister?",
+      "The little girl outsang the adults.",
+      "He has outsung every singer on the show."
+     ],
+     "examples_vi": [
+      "Cậu hát hay hơn chị được không?",
+      "Cô bé hát hay hơn cả người lớn.",
+      "Anh ấy đã hát hay hơn mọi ca sĩ trong chương trình."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 39: Tiền tố over-",
+   "level": 4,
+   "icon": "🔝",
+   "note": "over- nghĩa là \"quá, vượt lên trên\". Chia giống động từ gốc: overbear giống bear, overblow giống blow, overbuild giống build…",
+   "verbs": [
+    {
+     "v1": "overbear",
+     "v2": "overbore",
+     "v3": "overborne",
+     "ipa": [
+      "/ˌəʊvəˈbeə/",
+      "/ˌəʊvəˈbɔː/",
+      "/ˌəʊvəˈbɔːn/"
+     ],
+     "meaning": "áp đảo, lấn át",
+     "icon": "🏋️",
+     "note": "Chia giống bear (V3 dùng borne).",
+     "examples": [
+      "Don't let your fear overbear your courage.",
+      "The strong team overbore the weak one.",
+      "She was overborne by her older sister."
+     ],
+     "examples_vi": [
+      "Đừng để nỗi sợ áp đảo lòng dũng cảm.",
+      "Đội mạnh đã áp đảo đội yếu.",
+      "Cô ấy bị chị gái lấn át."
+     ]
+    },
+    {
+     "v1": "overblow",
+     "v2": "overblew",
+     "v3": "overblown",
+     "ipa": [
+      "/ˌəʊvəˈbləʊ/",
+      "/ˌəʊvəˈbluː/",
+      "/ˌəʊvəˈbləʊn/"
+     ],
+     "meaning": "thổi phồng",
+     "icon": "🎈",
+     "note": "Chia giống blow: blow – blew – blown.",
+     "examples": [
+      "Don't overblow a small problem.",
+      "The newspapers overblew the story.",
+      "The problem has been overblown."
+     ],
+     "examples_vi": [
+      "Đừng thổi phồng một chuyện nhỏ.",
+      "Báo chí đã thổi phồng câu chuyện.",
+      "Vấn đề đã bị thổi phồng."
+     ]
+    },
+    {
+     "v1": "overbuild",
+     "v2": "overbuilt",
+     "v3": "overbuilt",
+     "ipa": [
+      "/ˌəʊvəˈbɪld/",
+      "/ˌəʊvəˈbɪlt/",
+      "/ˌəʊvəˈbɪlt/"
+     ],
+     "meaning": "xây quá dày",
+     "icon": "🏙️",
+     "note": "Chia giống build: build – built – built.",
+     "examples": [
+      "Cities should not overbuild near rivers.",
+      "They overbuilt the beach area.",
+      "This town has been overbuilt."
+     ],
+     "examples_vi": [
+      "Thành phố không nên xây dày đặc gần sông.",
+      "Họ xây quá nhiều ở khu bãi biển.",
+      "Thị trấn này đã bị xây quá dày."
+     ]
+    },
+    {
+     "v1": "overbuy",
+     "v2": "overbought",
+     "v3": "overbought",
+     "ipa": [
+      "/ˌəʊvəˈbaɪ/",
+      "/ˌəʊvəˈbɔːt/",
+      "/ˌəʊvəˈbɔːt/"
+     ],
+     "meaning": "mua quá nhiều",
+     "icon": "🛒",
+     "note": "Chia giống buy: buy – bought – bought.",
+     "examples": [
+      "Don't overbuy food for the party.",
+      "Mum overbought vegetables at the market.",
+      "We have overbought again!"
+     ],
+     "examples_vi": [
+      "Đừng mua quá nhiều đồ ăn cho bữa tiệc.",
+      "Mẹ mua quá nhiều rau ở chợ.",
+      "Chúng ta lại mua thừa rồi!"
+     ]
+    },
+    {
+     "v1": "overdrive",
+     "v2": "overdrove",
+     "v3": "overdriven",
+     "ipa": [
+      "/ˌəʊvəˈdraɪv/",
+      "/ˌəʊvəˈdrəʊv/",
+      "/ˌəʊvəˈdrɪvn/"
+     ],
+     "meaning": "bắt làm quá sức",
+     "icon": "🚗",
+     "note": "Chia giống drive: drive – drove – driven.",
+     "examples": [
+      "Don't overdrive your old car.",
+      "The boss overdrove his workers.",
+      "The engine has been overdriven."
+     ],
+     "examples_vi": [
+      "Đừng bắt chiếc xe cũ chạy quá sức.",
+      "Ông chủ bắt công nhân làm quá sức.",
+      "Động cơ đã bị chạy quá tải."
+     ]
+    },
+    {
+     "v1": "overset",
+     "v2": "overset",
+     "v3": "overset",
+     "ipa": [
+      "/ˌəʊvəˈset/",
+      "/ˌəʊvəˈset/",
+      "/ˌəʊvəˈset/"
+     ],
+     "meaning": "lật đổ, làm lật",
+     "icon": "🙃",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "A big wave can overset a small boat.",
+      "The wind overset the tent.",
+      "The boat has been overset by the storm."
+     ],
+     "examples_vi": [
+      "Một con sóng lớn có thể lật chiếc thuyền nhỏ.",
+      "Gió đã lật chiếc lều.",
+      "Con thuyền đã bị bão lật."
+     ]
+    },
+    {
+     "v1": "overspread",
+     "v2": "overspread",
+     "v3": "overspread",
+     "ipa": [
+      "/ˌəʊvəˈspred/",
+      "/ˌəʊvəˈspred/",
+      "/ˌəʊvəˈspred/"
+     ],
+     "meaning": "trải khắp, phủ khắp",
+     "icon": "🌫️",
+     "note": "Chia giống spread: spread – spread – spread.",
+     "examples": [
+      "Fog will overspread the valley.",
+      "A smile overspread her face.",
+      "Clouds have overspread the sky."
+     ],
+     "examples_vi": [
+      "Sương mù sẽ phủ khắp thung lũng.",
+      "Nụ cười lan khắp khuôn mặt cô ấy.",
+      "Mây đã phủ kín bầu trời."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 40: Tiền tố out-",
+   "level": 4,
+   "icon": "🏁",
+   "note": "out- nghĩa là \"hơn, vượt hơn ai đó\". Chia giống động từ gốc: outfly giống fly, outsit giống sit, outsleep giống sleep…",
+   "verbs": [
+    {
+     "v1": "outfly",
+     "v2": "outflew",
+     "v3": "outflown",
+     "ipa": [
+      "/ˌaʊtˈflaɪ/",
+      "/ˌaʊtˈfluː/",
+      "/ˌaʊtˈfləʊn/"
+     ],
+     "meaning": "bay nhanh (xa) hơn",
+     "icon": "🦅",
+     "note": "Chia giống fly: fly – flew – flown.",
+     "examples": [
+      "Eagles can outfly most birds.",
+      "The new plane outflew the old one.",
+      "The pigeon has outflown the hawk."
+     ],
+     "examples_vi": [
+      "Đại bàng bay nhanh hơn hầu hết các loài chim.",
+      "Máy bay mới bay nhanh hơn máy bay cũ.",
+      "Chim bồ câu đã bay nhanh hơn diều hâu."
+     ]
+    },
+    {
+     "v1": "outsit",
+     "v2": "outsat",
+     "v3": "outsat",
+     "ipa": [
+      "/ˌaʊtˈsɪt/",
+      "/ˌaʊtˈsæt/",
+      "/ˌaʊtˈsæt/"
+     ],
+     "meaning": "ngồi lâu hơn",
+     "icon": "🪑",
+     "note": "Chia giống sit: sit – sat – sat.",
+     "examples": [
+      "I can outsit you in this game of patience!",
+      "The guests outsat the other visitors.",
+      "He has outsat everyone at the meeting."
+     ],
+     "examples_vi": [
+      "Tớ có thể ngồi lâu hơn cậu trong trò kiên nhẫn này!",
+      "Những vị khách đó ngồi lại lâu hơn các khách khác.",
+      "Ông ấy ngồi lại lâu hơn mọi người trong cuộc họp."
+     ]
+    },
+    {
+     "v1": "outsleep",
+     "v2": "outslept",
+     "v3": "outslept",
+     "ipa": [
+      "/ˌaʊtˈsliːp/",
+      "/ˌaʊtˈslept/",
+      "/ˌaʊtˈslept/"
+     ],
+     "meaning": "ngủ lâu hơn",
+     "icon": "😴",
+     "note": "Chia giống sleep: sleep – slept – slept.",
+     "examples": [
+      "Cats can outsleep any animal.",
+      "My brother outslept me on Sunday.",
+      "The baby has outslept her parents."
+     ],
+     "examples_vi": [
+      "Mèo có thể ngủ lâu hơn mọi loài vật.",
+      "Chủ nhật em tớ ngủ lâu hơn tớ.",
+      "Em bé đã ngủ lâu hơn bố mẹ."
+     ]
+    },
+    {
+     "v1": "outthrow",
+     "v2": "outthrew",
+     "v3": "outthrown",
+     "ipa": [
+      "/ˌaʊtˈθrəʊ/",
+      "/ˌaʊtˈθruː/",
+      "/ˌaʊtˈθrəʊn/"
+     ],
+     "meaning": "ném xa hơn",
+     "icon": "🥎",
+     "note": "Chia giống throw: throw – threw – thrown.",
+     "examples": [
+      "Can you outthrow me?",
+      "Nam outthrew everyone in the class.",
+      "She has outthrown the boys again."
+     ],
+     "examples_vi": [
+      "Cậu ném xa hơn tớ được không?",
+      "Nam ném xa hơn cả lớp.",
+      "Cô ấy lại ném xa hơn các bạn nam."
+     ]
+    },
+    {
+     "v1": "outwear",
+     "v2": "outwore",
+     "v3": "outworn",
+     "ipa": [
+      "/ˌaʊtˈweə/",
+      "/ˌaʊtˈwɔː/",
+      "/ˌaʊtˈwɔːn/"
+     ],
+     "meaning": "bền hơn",
+     "icon": "👟",
+     "note": "Chia giống wear: wear – wore – worn.",
+     "examples": [
+      "Good shoes outwear cheap ones.",
+      "This old coat outwore all my new ones.",
+      "The jeans have outworn the shirt."
+     ],
+     "examples_vi": [
+      "Giày tốt bền hơn giày rẻ.",
+      "Chiếc áo cũ này bền hơn tất cả áo mới của tớ.",
+      "Chiếc quần bò bền hơn chiếc áo."
+     ]
+    },
+    {
+     "v1": "outwrite",
+     "v2": "outwrote",
+     "v3": "outwritten",
+     "ipa": [
+      "/ˌaʊtˈraɪt/",
+      "/ˌaʊtˈrəʊt/",
+      "/ˌaʊtˈrɪtn/"
+     ],
+     "meaning": "viết hay (nhiều) hơn",
+     "icon": "📝",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "She can outwrite anyone in the class.",
+      "The young author outwrote the old masters.",
+      "He has outwritten every other student."
+     ],
+     "examples_vi": [
+      "Cô ấy viết hay hơn bất kỳ ai trong lớp.",
+      "Nhà văn trẻ viết hay hơn các bậc thầy.",
+      "Cậu ấy đã viết hay hơn mọi học sinh khác."
+     ]
+    },
+    {
+     "v1": "outspread",
+     "v2": "outspread",
+     "v3": "outspread",
+     "ipa": [
+      "/ˌaʊtˈspred/",
+      "/ˌaʊtˈspred/",
+      "/ˌaʊtˈspred/"
+     ],
+     "meaning": "dang rộng, trải rộng",
+     "icon": "🕊️",
+     "note": "Chia giống spread: spread – spread – spread.",
+     "examples": [
+      "Eagles outspread their wings.",
+      "The bird outspread its wings and flew away.",
+      "The map has been outspread on the table."
+     ],
+     "examples_vi": [
+      "Đại bàng dang rộng đôi cánh.",
+      "Con chim dang rộng cánh rồi bay đi.",
+      "Tấm bản đồ đã được trải rộng trên bàn."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 41: Tiền tố re-",
+   "level": 4,
+   "icon": "🔁",
+   "note": "re- nghĩa là \"lại, làm lại lần nữa\". Chia giống động từ gốc: reawake giống awake, regrind giống grind, rewake giống wake…",
+   "verbs": [
+    {
+     "v1": "reawake",
+     "v2": "reawoke",
+     "v3": "reawoken",
+     "ipa": [
+      "/ˌriːəˈweɪk/",
+      "/ˌriːəˈwəʊk/",
+      "/ˌriːəˈwəʊkən/"
+     ],
+     "meaning": "thức tỉnh lại",
+     "icon": "🌄",
+     "note": "Chia giống awake: awake – awoke – awoken.",
+     "also": {
+      "v2": [
+       "reawaked"
+      ],
+      "v3": [
+       "reawaked"
+      ]
+     },
+     "examples": [
+      "Spring will reawake the forest.",
+      "The music reawoke happy memories.",
+      "Her love of drawing has reawoken."
+     ],
+     "examples_vi": [
+      "Mùa xuân sẽ đánh thức lại khu rừng.",
+      "Âm nhạc gợi lại những kỷ niệm vui.",
+      "Niềm yêu thích vẽ của cô ấy đã thức dậy trở lại."
+     ]
+    },
+    {
+     "v1": "rebroadcast",
+     "v2": "rebroadcast",
+     "v3": "rebroadcast",
+     "ipa": [
+      "/ˌriːˈbrɔːdkɑːst/",
+      "/ˌriːˈbrɔːdkɑːst/",
+      "/ˌriːˈbrɔːdkɑːst/"
+     ],
+     "meaning": "phát lại",
+     "icon": "📺",
+     "note": "Chia giống broadcast: broadcast – broadcast – broadcast. Cũng dùng rebroadcasted.",
+     "also": {
+      "v2": [
+       "rebroadcasted"
+      ],
+      "v3": [
+       "rebroadcasted"
+      ]
+     },
+     "examples": [
+      "They will rebroadcast the show tonight.",
+      "VTV rebroadcast the final last night.",
+      "The cartoon has been rebroadcast many times."
+     ],
+     "examples_vi": [
+      "Tối nay họ sẽ phát lại chương trình.",
+      "Tối qua VTV phát lại trận chung kết.",
+      "Phim hoạt hình đã được phát lại nhiều lần."
+     ]
+    },
+    {
+     "v1": "regrind",
+     "v2": "reground",
+     "v3": "reground",
+     "ipa": [
+      "/ˌriːˈɡraɪnd/",
+      "/ˌriːˈɡraʊnd/",
+      "/ˌriːˈɡraʊnd/"
+     ],
+     "meaning": "xay lại",
+     "icon": "☕",
+     "note": "Chia giống grind: grind – ground – ground.",
+     "examples": [
+      "Regrind the coffee if it is too coarse.",
+      "She reground the pepper finely.",
+      "The flour has been reground."
+     ],
+     "examples_vi": [
+      "Xay lại cà phê nếu nó quá thô.",
+      "Cô ấy xay lại tiêu thật mịn.",
+      "Bột đã được xay lại."
+     ]
+    },
+    {
+     "v1": "rehear",
+     "v2": "reheard",
+     "v3": "reheard",
+     "ipa": [
+      "/ˌriːˈhɪə/",
+      "/ˌriːˈhɜːd/",
+      "/ˌriːˈhɜːd/"
+     ],
+     "meaning": "xét xử lại; nghe lại",
+     "icon": "⚖️",
+     "note": "Chia giống hear: hear – heard – heard.",
+     "examples": [
+      "The court will rehear the case.",
+      "I reheard the song on the radio.",
+      "The case has been reheard."
+     ],
+     "examples_vi": [
+      "Tòa sẽ xét xử lại vụ án.",
+      "Tớ nghe lại bài hát trên đài.",
+      "Vụ án đã được xét xử lại."
+     ]
+    },
+    {
+     "v1": "retread",
+     "v2": "retrod",
+     "v3": "retrodden",
+     "ipa": [
+      "/ˌriːˈtred/",
+      "/ˌriːˈtrɒd/",
+      "/ˌriːˈtrɒdn/"
+     ],
+     "meaning": "đi lại (con đường cũ)",
+     "icon": "🛤️",
+     "note": "Chia giống tread: tread – trod – trodden. Nghĩa \"đắp lại lốp xe\" chia có quy tắc: retreaded.",
+     "also": {
+      "v3": [
+       "retrod"
+      ]
+     },
+     "examples": [
+      "Let's not retread the same old path.",
+      "We retrod the old path to the village.",
+      "We have retrodden this path many times."
+     ],
+     "examples_vi": [
+      "Đừng đi lại lối mòn cũ.",
+      "Chúng tớ đi lại con đường cũ về làng.",
+      "Chúng tớ đã đi lại con đường ấy nhiều lần."
+     ]
+    },
+    {
+     "v1": "rewake",
+     "v2": "rewoke",
+     "v3": "rewoken",
+     "ipa": [
+      "/ˌriːˈweɪk/",
+      "/ˌriːˈwəʊk/",
+      "/ˌriːˈwəʊkən/"
+     ],
+     "meaning": "đánh thức lại",
+     "icon": "⏰",
+     "note": "Chia giống wake: wake – woke – woken.",
+     "also": {
+      "v2": [
+       "rewaked"
+      ],
+      "v3": [
+       "rewaked"
+      ]
+     },
+     "examples": [
+      "Please rewake me at six.",
+      "The noise rewoke the baby.",
+      "The cat has rewoken me twice tonight."
+     ],
+     "examples_vi": [
+      "Sáu giờ đánh thức tớ lại nhé.",
+      "Tiếng ồn lại đánh thức em bé.",
+      "Đêm nay con mèo đánh thức tớ hai lần rồi."
+     ]
+    },
+    {
+     "v1": "rewear",
+     "v2": "rewore",
+     "v3": "reworn",
+     "ipa": [
+      "/ˌriːˈweə/",
+      "/ˌriːˈwɔː/",
+      "/ˌriːˈwɔːn/"
+     ],
+     "meaning": "mặc lại",
+     "icon": "👗",
+     "note": "Chia giống wear: wear – wore – worn.",
+     "examples": [
+      "You can rewear this dress many times.",
+      "She rewore her party dress for Tet.",
+      "I have reworn this shirt three times this week."
+     ],
+     "examples_vi": [
+      "Cậu có thể mặc lại chiếc váy này nhiều lần.",
+      "Cô ấy mặc lại váy dự tiệc vào dịp Tết.",
+      "Tuần này tớ đã mặc lại chiếc áo này ba lần."
+     ]
+    },
+    {
+     "v1": "resit",
+     "v2": "resat",
+     "v3": "resat",
+     "ipa": [
+      "/ˌriːˈsɪt/",
+      "/ˌriːˈsæt/",
+      "/ˌriːˈsæt/"
+     ],
+     "meaning": "thi lại",
+     "icon": "📝",
+     "note": "Chia giống sit: sit – sat – sat.",
+     "examples": [
+      "You can resit the exam in August.",
+      "He resat his maths test and passed.",
+      "She has resat the exam twice."
+     ],
+     "examples_vi": [
+      "Cậu có thể thi lại vào tháng Tám.",
+      "Cậu ấy thi lại môn toán và đỗ.",
+      "Cô ấy đã thi lại hai lần."
+     ]
+    },
+    {
+     "v1": "relight",
+     "v2": "relit",
+     "v3": "relit",
+     "ipa": [
+      "/ˌriːˈlaɪt/",
+      "/ˌriːˈlɪt/",
+      "/ˌriːˈlɪt/"
+     ],
+     "meaning": "thắp lại",
+     "icon": "🕯️",
+     "note": "Chia giống light: light – lit – lit.",
+     "also": {
+      "v2": [
+       "relighted"
+      ],
+      "v3": [
+       "relighted"
+      ]
+     },
+     "examples": [
+      "Relight the candle, please.",
+      "Dad relit the fire.",
+      "The lamp has been relit."
+     ],
+     "examples_vi": [
+      "Thắp lại nến giúp tớ.",
+      "Bố nhóm lại lửa.",
+      "Đèn đã được thắp lại."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 42: Tiền tố un-, mis-, under- & từ ghép",
+   "level": 4,
+   "icon": "🧩",
+   "note": "unsling giống sling; unteach, miswrite, underfeed, bottle-feed, force-feed, sight-read, co-write, typewrite chia giống teach, write, feed, read.",
+   "verbs": [
+    {
+     "v1": "unsling",
+     "v2": "unslung",
+     "v3": "unslung",
+     "ipa": [
+      "/ʌnˈslɪŋ/",
+      "/ʌnˈslʌŋ/",
+      "/ʌnˈslʌŋ/"
+     ],
+     "meaning": "tháo (vật đang đeo)",
+     "icon": "🎒",
+     "note": "Chia giống sling: sling – slung – slung.",
+     "examples": [
+      "Unsling your bag and sit down.",
+      "The hiker unslung her backpack.",
+      "He has unslung the hammock."
+     ],
+     "examples_vi": [
+      "Tháo cặp ra và ngồi xuống.",
+      "Người đi bộ tháo ba lô xuống.",
+      "Anh ấy đã tháo chiếc võng xuống."
+     ]
+    },
+    {
+     "v1": "unteach",
+     "v2": "untaught",
+     "v3": "untaught",
+     "ipa": [
+      "/ʌnˈtiːtʃ/",
+      "/ʌnˈtɔːt/",
+      "/ʌnˈtɔːt/"
+     ],
+     "meaning": "làm quên điều đã học",
+     "icon": "❌",
+     "note": "Chia giống teach: teach – taught – taught.",
+     "examples": [
+      "It is hard to unteach a bad habit.",
+      "The coach untaught his wrong way of swimming.",
+      "Some things can't be untaught."
+     ],
+     "examples_vi": [
+      "Rất khó sửa một thói quen xấu đã học.",
+      "Huấn luyện viên đã sửa cách bơi sai của cậu ấy.",
+      "Có những điều đã học thì không quên được."
+     ]
+    },
+    {
+     "v1": "miswrite",
+     "v2": "miswrote",
+     "v3": "miswritten",
+     "ipa": [
+      "/ˌmɪsˈraɪt/",
+      "/ˌmɪsˈrəʊt/",
+      "/ˌmɪsˈrɪtn/"
+     ],
+     "meaning": "viết sai",
+     "icon": "✍️",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Be careful not to miswrite the numbers.",
+      "I miswrote my friend's name.",
+      "The address has been miswritten."
+     ],
+     "examples_vi": [
+      "Cẩn thận đừng viết sai số.",
+      "Tớ viết sai tên bạn.",
+      "Địa chỉ đã bị viết sai."
+     ]
+    },
+    {
+     "v1": "underfeed",
+     "v2": "underfed",
+     "v3": "underfed",
+     "ipa": [
+      "/ˌʌndəˈfiːd/",
+      "/ˌʌndəˈfed/",
+      "/ˌʌndəˈfed/"
+     ],
+     "meaning": "cho ăn thiếu",
+     "icon": "🍽️",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "Don't underfeed your pets.",
+      "The farmer underfed his cows in winter.",
+      "These puppies have been underfed."
+     ],
+     "examples_vi": [
+      "Đừng cho thú cưng ăn thiếu.",
+      "Người nông dân cho bò ăn thiếu vào mùa đông.",
+      "Mấy chú cún này bị thiếu ăn."
+     ]
+    },
+    {
+     "v1": "bottle-feed",
+     "v2": "bottle-fed",
+     "v3": "bottle-fed",
+     "ipa": [
+      "/ˈbɒtlfiːd/",
+      "/ˈbɒtlfed/",
+      "/ˈbɒtlfed/"
+     ],
+     "meaning": "cho bú bình",
+     "icon": "🍼",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "We bottle-feed the baby at night.",
+      "The farmer bottle-fed the baby lamb.",
+      "The kitten has been bottle-fed."
+     ],
+     "examples_vi": [
+      "Ban đêm chúng tớ cho em bé bú bình.",
+      "Bác nông dân cho cừu con bú bình.",
+      "Mèo con được cho bú bình."
+     ]
+    },
+    {
+     "v1": "force-feed",
+     "v2": "force-fed",
+     "v3": "force-fed",
+     "ipa": [
+      "/ˌfɔːsˈfiːd/",
+      "/ˌfɔːsˈfed/",
+      "/ˌfɔːsˈfed/"
+     ],
+     "meaning": "ép ăn, bón ăn",
+     "icon": "😣",
+     "note": "Chia giống feed: feed – fed – fed.",
+     "examples": [
+      "Never force-feed a child.",
+      "The vet force-fed the sick bird with a dropper.",
+      "The sick puppy had to be force-fed."
+     ],
+     "examples_vi": [
+      "Đừng bao giờ ép trẻ ăn.",
+      "Bác sĩ thú y bón cho con chim ốm bằng ống nhỏ giọt.",
+      "Chú cún ốm phải được bón ăn."
+     ]
+    },
+    {
+     "v1": "sight-read",
+     "v2": "sight-read",
+     "v3": "sight-read",
+     "ipa": [
+      "/ˈsaɪtriːd/",
+      "/ˈsaɪtred/",
+      "/ˈsaɪtred/"
+     ],
+     "meaning": "đọc nhạc ngay lần đầu",
+     "icon": "🎼",
+     "note": "Chia giống read: read – read – read.",
+     "examples": [
+      "Can you sight-read music?",
+      "She sight-read the new song perfectly.",
+      "He has sight-read hundreds of songs."
+     ],
+     "examples_vi": [
+      "Cậu có đọc nhạc ngay được không?",
+      "Cô ấy đọc bản nhạc mới ngay lần đầu rất hoàn hảo.",
+      "Anh ấy đã đọc thị tấu hàng trăm bài hát."
+     ]
+    },
+    {
+     "v1": "co-write",
+     "v2": "co-wrote",
+     "v3": "co-written",
+     "ipa": [
+      "/ˌkəʊˈraɪt/",
+      "/ˌkəʊˈrəʊt/",
+      "/ˌkəʊˈrɪtn/"
+     ],
+     "meaning": "cùng viết",
+     "icon": "🤝",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Two friends co-write the comic.",
+      "The singers co-wrote the song.",
+      "They have co-written three books."
+     ],
+     "examples_vi": [
+      "Hai người bạn cùng viết truyện tranh.",
+      "Các ca sĩ đã cùng sáng tác bài hát.",
+      "Họ đã cùng viết ba cuốn sách."
+     ]
+    },
+    {
+     "v1": "typewrite",
+     "v2": "typewrote",
+     "v3": "typewritten",
+     "ipa": [
+      "/ˈtaɪpraɪt/",
+      "/ˈtaɪprəʊt/",
+      "/ˈtaɪprɪtn/"
+     ],
+     "meaning": "đánh máy",
+     "icon": "⌨️",
+     "note": "Chia giống write: write – wrote – written.",
+     "examples": [
+      "Few people typewrite letters today.",
+      "My grandpa typewrote his stories.",
+      "This letter was typewritten in 1980."
+     ],
+     "examples_vi": [
+      "Ngày nay ít người đánh máy thư.",
+      "Ông tớ đánh máy các câu chuyện của ông.",
+      "Lá thư này được đánh máy năm 1980."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 43: Tiền tố be-, fore-, up-, pre-, in-",
+   "level": 4,
+   "icon": "🧭",
+   "note": "be-, fore-, up-, pre-, in- ghép với động từ gốc, chia giống gốc: bestride giống stride, forerun giống run, prepay giống pay…",
+   "verbs": [
+    {
+     "v1": "bestride",
+     "v2": "bestrode",
+     "v3": "bestridden",
+     "ipa": [
+      "/bɪˈstraɪd/",
+      "/bɪˈstrəʊd/",
+      "/bɪˈstrɪdn/"
+     ],
+     "meaning": "cưỡi lên, đứng dạng chân",
+     "icon": "🐴",
+     "note": "Chia giống stride: stride – strode – stridden.",
+     "also": {
+      "v3": [
+       "bestrode"
+      ]
+     },
+     "examples": [
+      "The rider will bestride the horse.",
+      "The knight bestrode his white horse.",
+      "He has bestridden the horse."
+     ],
+     "examples_vi": [
+      "Kỵ sĩ sẽ cưỡi lên ngựa.",
+      "Hiệp sĩ cưỡi con ngựa trắng.",
+      "Anh ấy đã cưỡi lên ngựa."
+     ]
+    },
+    {
+     "v1": "betake",
+     "v2": "betook",
+     "v3": "betaken",
+     "ipa": [
+      "/bɪˈteɪk/",
+      "/bɪˈtʊk/",
+      "/bɪˈteɪkən/"
+     ],
+     "meaning": "đi tới (cổ)",
+     "icon": "🚶",
+     "note": "Chia giống take: take – took – taken.",
+     "examples": [
+      "Betake yourself to bed!",
+      "The travellers betook themselves to the inn.",
+      "He has betaken himself to the city."
+     ],
+     "examples_vi": [
+      "Đi ngủ ngay!",
+      "Những người lữ hành đi tới quán trọ.",
+      "Ông ấy đã lên thành phố."
+     ]
+    },
+    {
+     "v1": "forerun",
+     "v2": "foreran",
+     "v3": "forerun",
+     "ipa": [
+      "/fɔːˈrʌn/",
+      "/fɔːˈræn/",
+      "/fɔːˈrʌn/"
+     ],
+     "meaning": "đến trước, báo trước",
+     "icon": "🏃",
+     "note": "Chia giống run: run – ran – run.",
+     "examples": [
+      "Dark clouds forerun a storm.",
+      "A cold wind foreran the rain.",
+      "The spring flowers have forerun the warm days."
+     ],
+     "examples_vi": [
+      "Mây đen báo trước cơn bão.",
+      "Một cơn gió lạnh đến trước cơn mưa.",
+      "Hoa xuân đã nở trước những ngày ấm."
+     ]
+    },
+    {
+     "v1": "foreshow",
+     "v2": "foreshowed",
+     "v3": "foreshown",
+     "ipa": [
+      "/fɔːˈʃəʊ/",
+      "/fɔːˈʃəʊd/",
+      "/fɔːˈʃəʊn/"
+     ],
+     "meaning": "báo hiệu trước",
+     "icon": "🔔",
+     "note": "Chia giống show: show – showed – shown.",
+     "also": {
+      "v3": [
+       "foreshowed"
+      ]
+     },
+     "examples": [
+      "Red skies foreshow good weather.",
+      "The cold morning foreshowed winter.",
+      "Rain has been foreshown by the clouds."
+     ],
+     "examples_vi": [
+      "Trời đỏ báo hiệu thời tiết đẹp.",
+      "Buổi sáng lạnh báo hiệu mùa đông.",
+      "Những đám mây đã báo trước cơn mưa."
+     ]
+    },
+    {
+     "v1": "uprise",
+     "v2": "uprose",
+     "v3": "uprisen",
+     "ipa": [
+      "/ʌpˈraɪz/",
+      "/ʌpˈrəʊz/",
+      "/ʌpˈrɪzn/"
+     ],
+     "meaning": "nổi dậy; mọc lên",
+     "icon": "🌅",
+     "note": "Chia giống rise: rise – rose – risen.",
+     "examples": [
+      "The sun will uprise over the sea.",
+      "The people uprose against the cruel king.",
+      "The sun has uprisen."
+     ],
+     "examples_vi": [
+      "Mặt trời sẽ mọc lên trên biển.",
+      "Người dân nổi dậy chống ông vua độc ác.",
+      "Mặt trời đã mọc."
+     ]
+    },
+    {
+     "v1": "prepay",
+     "v2": "prepaid",
+     "v3": "prepaid",
+     "ipa": [
+      "/ˌpriːˈpeɪ/",
+      "/ˌpriːˈpeɪd/",
+      "/ˌpriːˈpeɪd/"
+     ],
+     "meaning": "trả trước",
+     "icon": "💳",
+     "note": "Chia giống pay: pay – paid – paid.",
+     "examples": [
+      "You must prepay for the ticket.",
+      "We prepaid for the hotel online.",
+      "The bill has been prepaid."
+     ],
+     "examples_vi": [
+      "Cậu phải trả trước tiền vé.",
+      "Chúng tớ đã trả trước tiền khách sạn trên mạng.",
+      "Hóa đơn đã được trả trước."
+     ]
+    },
+    {
+     "v1": "preset",
+     "v2": "preset",
+     "v3": "preset",
+     "ipa": [
+      "/ˌpriːˈset/",
+      "/ˌpriːˈset/",
+      "/ˌpriːˈset/"
+     ],
+     "meaning": "cài đặt sẵn",
+     "icon": "🎛️",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "You can preset the oven.",
+      "Dad preset the alarm for six.",
+      "The radio stations have been preset."
+     ],
+     "examples_vi": [
+      "Cậu có thể cài sẵn lò nướng.",
+      "Bố cài sẵn báo thức lúc sáu giờ.",
+      "Các kênh radio đã được cài sẵn."
+     ]
+    },
+    {
+     "v1": "precut",
+     "v2": "precut",
+     "v3": "precut",
+     "ipa": [
+      "/ˌpriːˈkʌt/",
+      "/ˌpriːˈkʌt/",
+      "/ˌpriːˈkʌt/"
+     ],
+     "meaning": "cắt sẵn",
+     "icon": "🥕",
+     "note": "Chia giống cut: cut – cut – cut.",
+     "examples": [
+      "Some shops precut the vegetables.",
+      "Mum precut the fruit for the picnic.",
+      "The paper has been precut into squares."
+     ],
+     "examples_vi": [
+      "Một số cửa hàng cắt sẵn rau.",
+      "Mẹ cắt sẵn hoa quả cho buổi dã ngoại.",
+      "Giấy đã được cắt sẵn thành hình vuông."
+     ]
+    },
+    {
+     "v1": "preshrink",
+     "v2": "preshrank",
+     "v3": "preshrunk",
+     "ipa": [
+      "/ˌpriːˈʃrɪŋk/",
+      "/ˌpriːˈʃræŋk/",
+      "/ˌpriːˈʃrʌŋk/"
+     ],
+     "meaning": "xử lý co trước (vải)",
+     "icon": "👚",
+     "note": "Chia giống shrink: shrink – shrank – shrunk.",
+     "also": {
+      "v2": [
+       "preshrunk"
+      ]
+     },
+     "examples": [
+      "Factories preshrink cotton.",
+      "They preshrank the fabric.",
+      "This T-shirt has been preshrunk."
+     ],
+     "examples_vi": [
+      "Nhà máy xử lý co trước vải bông.",
+      "Họ đã xử lý co vải trước.",
+      "Chiếc áo phông này đã được xử lý chống co."
+     ]
+    },
+    {
+     "v1": "inset",
+     "v2": "inset",
+     "v3": "inset",
+     "ipa": [
+      "/ˌɪnˈset/",
+      "/ˌɪnˈset/",
+      "/ˌɪnˈset/"
+     ],
+     "meaning": "chèn vào, gắn vào",
+     "icon": "🖼️",
+     "note": "Chia giống set: set – set – set.",
+     "examples": [
+      "Inset a small map in the corner.",
+      "They inset a photo into the page.",
+      "Jewels have been inset into the crown."
+     ],
+     "examples_vi": [
+      "Chèn một bản đồ nhỏ vào góc.",
+      "Họ chèn một tấm ảnh vào trang.",
+      "Đá quý đã được gắn vào vương miện."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 44: Từ ghép: phát sóng, đông lạnh & khác",
+   "level": 4,
+   "icon": "📡",
+   "note": "telecast, simulcast, webcast giống cast; deep-freeze, quick-freeze giống freeze; spellbind giống bind; countersink giống sink; presell giống sell; outbreed giống breed.",
+   "verbs": [
+    {
+     "v1": "telecast",
+     "v2": "telecast",
+     "v3": "telecast",
+     "ipa": [
+      "/ˈtelɪkɑːst/",
+      "/ˈtelɪkɑːst/",
+      "/ˈtelɪkɑːst/"
+     ],
+     "meaning": "truyền hình",
+     "icon": "📺",
+     "note": "Chia giống cast: cast – cast – cast. Cũng dùng telecasted.",
+     "also": {
+      "v2": [
+       "telecasted"
+      ],
+      "v3": [
+       "telecasted"
+      ]
+     },
+     "examples": [
+      "They telecast the game live every week.",
+      "VTV telecast the parade last year.",
+      "The concert has been telecast nationwide."
+     ],
+     "examples_vi": [
+      "Tuần nào họ cũng truyền hình trực tiếp trận đấu.",
+      "Năm ngoái VTV truyền hình cuộc diễu hành.",
+      "Buổi hòa nhạc đã được truyền hình toàn quốc."
+     ]
+    },
+    {
+     "v1": "simulcast",
+     "v2": "simulcast",
+     "v3": "simulcast",
+     "ipa": [
+      "/ˈsɪmlkɑːst/",
+      "/ˈsɪmlkɑːst/",
+      "/ˈsɪmlkɑːst/"
+     ],
+     "meaning": "phát đồng thời",
+     "icon": "📻",
+     "note": "Chia giống cast: cast – cast – cast. Cũng dùng simulcasted.",
+     "also": {
+      "v2": [
+       "simulcasted"
+      ],
+      "v3": [
+       "simulcasted"
+      ]
+     },
+     "examples": [
+      "Radio and TV simulcast the news.",
+      "They simulcast the concert last night.",
+      "The match has been simulcast online."
+     ],
+     "examples_vi": [
+      "Đài và truyền hình phát đồng thời bản tin.",
+      "Tối qua họ phát đồng thời buổi hòa nhạc.",
+      "Trận đấu đã được phát đồng thời trên mạng."
+     ]
+    },
+    {
+     "v1": "webcast",
+     "v2": "webcast",
+     "v3": "webcast",
+     "ipa": [
+      "/ˈwebkɑːst/",
+      "/ˈwebkɑːst/",
+      "/ˈwebkɑːst/"
+     ],
+     "meaning": "phát trực tuyến",
+     "icon": "💻",
+     "note": "Chia giống cast: cast – cast – cast. Cũng dùng webcasted.",
+     "also": {
+      "v2": [
+       "webcasted"
+      ],
+      "v3": [
+       "webcasted"
+      ]
+     },
+     "examples": [
+      "Our school will webcast the ceremony.",
+      "They webcast the show last week.",
+      "The lesson has been webcast to many classes."
+     ],
+     "examples_vi": [
+      "Trường tớ sẽ phát trực tuyến buổi lễ.",
+      "Tuần trước họ phát trực tuyến chương trình.",
+      "Bài học đã được phát trực tuyến tới nhiều lớp."
+     ]
+    },
+    {
+     "v1": "deep-freeze",
+     "v2": "deep-froze",
+     "v3": "deep-frozen",
+     "ipa": [
+      "/ˌdiːpˈfriːz/",
+      "/ˌdiːpˈfrəʊz/",
+      "/ˌdiːpˈfrəʊzn/"
+     ],
+     "meaning": "cấp đông",
+     "icon": "🧊",
+     "note": "Chia giống freeze: freeze – froze – frozen.",
+     "examples": [
+      "Deep-freeze the fish to keep it fresh.",
+      "We deep-froze the extra bread.",
+      "The meat has been deep-frozen."
+     ],
+     "examples_vi": [
+      "Cấp đông cá để giữ tươi.",
+      "Chúng tớ cấp đông chỗ bánh mì thừa.",
+      "Thịt đã được cấp đông."
+     ]
+    },
+    {
+     "v1": "quick-freeze",
+     "v2": "quick-froze",
+     "v3": "quick-frozen",
+     "ipa": [
+      "/ˌkwɪkˈfriːz/",
+      "/ˌkwɪkˈfrəʊz/",
+      "/ˌkwɪkˈfrəʊzn/"
+     ],
+     "meaning": "đông lạnh nhanh",
+     "icon": "❄️",
+     "note": "Chia giống freeze: freeze – froze – frozen.",
+     "examples": [
+      "Factories quick-freeze peas.",
+      "They quick-froze the strawberries.",
+      "The shrimp have been quick-frozen."
+     ],
+     "examples_vi": [
+      "Nhà máy đông lạnh nhanh đậu Hà Lan.",
+      "Họ đông lạnh nhanh dâu tây.",
+      "Tôm đã được đông lạnh nhanh."
+     ]
+    },
+    {
+     "v1": "spellbind",
+     "v2": "spellbound",
+     "v3": "spellbound",
+     "ipa": [
+      "/ˈspelbaɪnd/",
+      "/ˈspelbaʊnd/",
+      "/ˈspelbaʊnd/"
+     ],
+     "meaning": "mê hoặc",
+     "icon": "🪄",
+     "note": "Chia giống bind: bind – bound – bound.",
+     "examples": [
+      "Good stories spellbind children.",
+      "The magician spellbound the audience.",
+      "We were spellbound by the music."
+     ],
+     "examples_vi": [
+      "Truyện hay làm trẻ em say mê.",
+      "Ảo thuật gia mê hoặc khán giả.",
+      "Chúng tớ bị âm nhạc làm say mê."
+     ]
+    },
+    {
+     "v1": "countersink",
+     "v2": "countersank",
+     "v3": "countersunk",
+     "ipa": [
+      "/ˈkaʊntəsɪŋk/",
+      "/ˈkaʊntəsæŋk/",
+      "/ˈkaʊntəsʌŋk/"
+     ],
+     "meaning": "khoét loe (lỗ bắt vít chìm)",
+     "icon": "🔩",
+     "note": "Chia giống sink: sink – sank – sunk.",
+     "also": {
+      "v2": [
+       "countersunk"
+      ]
+     },
+     "examples": [
+      "Countersink the hole before you add the screw.",
+      "Dad countersank the screws in the shelf.",
+      "The screws have been countersunk."
+     ],
+     "examples_vi": [
+      "Khoét loe lỗ trước khi bắt vít.",
+      "Bố bắt chìm đầu vít trên kệ.",
+      "Các con vít đã được bắt chìm."
+     ]
+    },
+    {
+     "v1": "presell",
+     "v2": "presold",
+     "v3": "presold",
+     "ipa": [
+      "/ˌpriːˈsel/",
+      "/ˌpriːˈsəʊld/",
+      "/ˌpriːˈsəʊld/"
+     ],
+     "meaning": "bán trước",
+     "icon": "🎟️",
+     "note": "Chia giống sell: sell – sold – sold.",
+     "examples": [
+      "They presell tickets online.",
+      "The shop presold the new phone.",
+      "All the books have been presold."
+     ],
+     "examples_vi": [
+      "Họ bán vé trước trên mạng.",
+      "Cửa hàng đã bán trước điện thoại mới.",
+      "Tất cả sách đã được bán trước."
+     ]
+    },
+    {
+     "v1": "outbreed",
+     "v2": "outbred",
+     "v3": "outbred",
+     "ipa": [
+      "/ˌaʊtˈbriːd/",
+      "/ˌaʊtˈbred/",
+      "/ˌaʊtˈbred/"
+     ],
+     "meaning": "sinh sôi nhanh hơn",
+     "icon": "🐇",
+     "note": "Chia giống breed: breed – bred – bred.",
+     "examples": [
+      "Rabbits can outbreed foxes.",
+      "The new fish outbred the native fish.",
+      "Weeds have outbred the flowers."
+     ],
+     "examples_vi": [
+      "Thỏ có thể sinh sôi nhanh hơn cáo.",
+      "Loài cá mới sinh sôi nhanh hơn cá bản địa.",
+      "Cỏ dại đã sinh sôi nhanh hơn hoa."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 45: Hai dạng -t / -ed (1)",
+   "level": 5,
+   "icon": "🔥",
+   "note": "Tiếng Anh–Anh hay dùng đuôi -t (burnt, learnt), tiếng Anh–Mỹ hay dùng -ed (burned, learned). Cả hai đều đúng!",
+   "verbs": [
+    {
+     "v1": "burn",
+     "v2": "burnt/burned",
+     "v3": "burnt/burned",
+     "ipa": [
+      "/bɜːn/",
+      "/bɜːnt/, /bɜːnd/",
+      "/bɜːnt/, /bɜːnd/"
+     ],
+     "meaning": "đốt, làm cháy, bỏng",
+     "icon": "🔥",
+     "examples": [
+      "Be careful, the stove can burn you.",
+      "I burnt the toast this morning.",
+      "Have you ever burned your finger?"
+     ],
+     "examples_vi": [
+      "Cẩn thận, bếp có thể làm cậu bỏng.",
+      "Sáng nay tớ làm cháy bánh mì.",
+      "Cậu đã bao giờ bị bỏng ngón tay chưa?"
+     ]
+    },
+    {
+     "v1": "learn",
+     "v2": "learnt/learned",
+     "v3": "learnt/learned",
+     "ipa": [
+      "/lɜːn/",
+      "/lɜːnt/, /lɜːnd/",
+      "/lɜːnt/, /lɜːnd/"
+     ],
+     "meaning": "học",
+     "icon": "📘",
+     "examples": [
+      "I want to learn English.",
+      "I learned ten new words yesterday.",
+      "We have learnt a lot this year."
+     ],
+     "examples_vi": [
+      "Tớ muốn học tiếng Anh.",
+      "Hôm qua tớ học mười từ mới.",
+      "Năm nay chúng tớ đã học được rất nhiều."
+     ]
+    },
+    {
+     "v1": "dream",
+     "v2": "dreamt/dreamed",
+     "v3": "dreamt/dreamed",
+     "ipa": [
+      "/driːm/",
+      "/dremt/, /driːmd/",
+      "/dremt/, /driːmd/"
+     ],
+     "meaning": "mơ",
+     "icon": "💤",
+     "note": "dreamt đọc là /dremt/.",
+     "examples": [
+      "I often dream about flying.",
+      "Last night I dreamt about a dragon.",
+      "I have always dreamed of visiting Japan."
+     ],
+     "examples_vi": [
+      "Tớ hay mơ được bay.",
+      "Đêm qua tớ mơ thấy một con rồng.",
+      "Tớ luôn mơ được đến Nhật Bản."
+     ]
+    },
+    {
+     "v1": "smell",
+     "v2": "smelt/smelled",
+     "v3": "smelt/smelled",
+     "ipa": [
+      "/smel/",
+      "/smelt/, /smeld/",
+      "/smelt/, /smeld/"
+     ],
+     "meaning": "ngửi; có mùi",
+     "icon": "👃",
+     "examples": [
+      "I can smell cookies!",
+      "The kitchen smelled of fresh bread.",
+      "Have you ever smelt durian?"
+     ],
+     "examples_vi": [
+      "Tớ ngửi thấy mùi bánh quy!",
+      "Căn bếp thơm mùi bánh mì mới.",
+      "Cậu đã bao giờ ngửi mùi sầu riêng chưa?"
+     ]
+    },
+    {
+     "v1": "spell",
+     "v2": "spelt/spelled",
+     "v3": "spelt/spelled",
+     "ipa": [
+      "/spel/",
+      "/spelt/, /speld/",
+      "/spelt/, /speld/"
+     ],
+     "meaning": "đánh vần",
+     "icon": "🔤",
+     "examples": [
+      "Can you spell your name?",
+      "I spelled \"beautiful\" correctly!",
+      "You have spelt this word wrong."
+     ],
+     "examples_vi": [
+      "Cậu đánh vần tên mình được không?",
+      "Tớ đánh vần đúng từ \"beautiful\"!",
+      "Cậu viết sai chính tả từ này rồi."
+     ]
+    },
+    {
+     "v1": "spill",
+     "v2": "spilt/spilled",
+     "v3": "spilt/spilled",
+     "ipa": [
+      "/spɪl/",
+      "/spɪlt/, /spɪld/",
+      "/spɪlt/, /spɪld/"
+     ],
+     "meaning": "làm đổ (chất lỏng)",
+     "icon": "🥛",
+     "examples": [
+      "Be careful not to spill the milk.",
+      "I spilled juice on my shirt.",
+      "Someone has spilt water on the floor."
+     ],
+     "examples_vi": [
+      "Cẩn thận kẻo đổ sữa.",
+      "Tớ làm đổ nước quả lên áo.",
+      "Ai đó làm đổ nước ra sàn."
+     ]
+    },
+    {
+     "v1": "spoil",
+     "v2": "spoilt/spoiled",
+     "v3": "spoilt/spoiled",
+     "ipa": [
+      "/spɔɪl/",
+      "/spɔɪlt/, /spɔɪld/",
+      "/spɔɪlt/, /spɔɪld/"
+     ],
+     "meaning": "làm hỏng; chiều hư",
+     "icon": "🍎",
+     "examples": [
+      "Don't spoil the surprise!",
+      "The rain spoiled our picnic.",
+      "Grandma has spoilt us with sweets."
+     ],
+     "examples_vi": [
+      "Đừng làm lộ bất ngờ!",
+      "Cơn mưa làm hỏng buổi dã ngoại.",
+      "Bà đã chiều chúng tớ bằng kẹo."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 46: Hai dạng -t / -ed (2)",
+   "level": 5,
+   "icon": "🧎",
+   "note": "Thêm các động từ có hai dạng -t / -ed. relearn, unlearn, misspell, sunburn chia giống learn, spell, burn.",
+   "verbs": [
+    {
+     "v1": "dwell",
+     "v2": "dwelt/dwelled",
+     "v3": "dwelt/dwelled",
+     "ipa": [
+      "/dwel/",
+      "/dwelt/, /dweld/",
+      "/dwelt/, /dweld/"
+     ],
+     "meaning": "cư ngụ, sống",
+     "icon": "🏡",
+     "examples": [
+      "Many animals dwell in the forest.",
+      "A dragon dwelt in the cave.",
+      "People have dwelt in this valley for centuries."
+     ],
+     "examples_vi": [
+      "Nhiều loài vật sống trong rừng.",
+      "Một con rồng sống trong hang.",
+      "Con người đã sống ở thung lũng này hàng thế kỷ."
+     ]
+    },
+    {
+     "v1": "kneel",
+     "v2": "knelt/kneeled",
+     "v3": "knelt/kneeled",
+     "ipa": [
+      "/niːl/",
+      "/nelt/, /niːld/",
+      "/nelt/, /niːld/"
+     ],
+     "meaning": "quỳ",
+     "icon": "🧎",
+     "note": "Chữ k đầu không đọc.",
+     "examples": [
+      "Please kneel down to tie your shoe.",
+      "She knelt to pick up the kitten.",
+      "The knight has knelt before the queen."
+     ],
+     "examples_vi": [
+      "Hãy quỳ xuống buộc dây giày.",
+      "Cô ấy quỳ xuống bế mèo con.",
+      "Hiệp sĩ đã quỳ trước nữ hoàng."
+     ]
+    },
+    {
+     "v1": "lean",
+     "v2": "leant/leaned",
+     "v3": "leant/leaned",
+     "ipa": [
+      "/liːn/",
+      "/lent/, /liːnd/",
+      "/lent/, /liːnd/"
+     ],
+     "meaning": "dựa, nghiêng",
+     "icon": "🧍",
+     "note": "leant đọc là /lent/.",
+     "examples": [
+      "Don't lean on the wet wall.",
+      "He leaned against the tree.",
+      "The old tower has leant to one side."
+     ],
+     "examples_vi": [
+      "Đừng dựa vào bức tường ướt.",
+      "Anh ấy dựa vào gốc cây.",
+      "Tòa tháp cũ đã nghiêng sang một bên."
+     ]
+    },
+    {
+     "v1": "leap",
+     "v2": "leapt/leaped",
+     "v3": "leapt/leaped",
+     "ipa": [
+      "/liːp/",
+      "/lept/, /liːpt/",
+      "/lept/, /liːpt/"
+     ],
+     "meaning": "nhảy vọt",
+     "icon": "🐸",
+     "note": "leapt đọc là /lept/.",
+     "examples": [
+      "Frogs leap from leaf to leaf.",
+      "The cat leapt onto the wall.",
+      "The fish has leaped out of the water!"
+     ],
+     "examples_vi": [
+      "Ếch nhảy từ lá này sang lá khác.",
+      "Con mèo nhảy vọt lên tường.",
+      "Con cá đã nhảy khỏi mặt nước!"
+     ]
+    },
+    {
+     "v1": "relearn",
+     "v2": "relearnt/relearned",
+     "v3": "relearnt/relearned",
+     "ipa": [
+      "/ˌriːˈlɜːn/",
+      "/ˌriːˈlɜːnt/, /ˌriːˈlɜːnd/",
+      "/ˌriːˈlɜːnt/, /ˌriːˈlɜːnd/"
+     ],
+     "meaning": "học lại",
+     "icon": "📖",
+     "note": "Chia giống learn: learn – learnt / learned – learnt / learned.",
+     "examples": [
+      "I need to relearn my times tables.",
+      "She relearned how to ride a bike.",
+      "He has relearnt the piano."
+     ],
+     "examples_vi": [
+      "Tớ cần học lại bảng cửu chương.",
+      "Cô ấy học lại cách đi xe đạp.",
+      "Anh ấy đã học lại đàn piano."
+     ]
+    },
+    {
+     "v1": "unlearn",
+     "v2": "unlearnt/unlearned",
+     "v3": "unlearnt/unlearned",
+     "ipa": [
+      "/ʌnˈlɜːn/",
+      "/ʌnˈlɜːnt/, /ʌnˈlɜːnd/",
+      "/ʌnˈlɜːnt/, /ʌnˈlɜːnd/"
+     ],
+     "meaning": "bỏ (thói quen, điều học sai)",
+     "icon": "🚫",
+     "note": "Chia giống learn: learn – learnt / learned – learnt / learned.",
+     "examples": [
+      "It is hard to unlearn bad habits.",
+      "I unlearned my wrong way of holding a pen.",
+      "She has unlearnt her fear of water."
+     ],
+     "examples_vi": [
+      "Rất khó bỏ thói quen xấu.",
+      "Tớ đã bỏ được cách cầm bút sai.",
+      "Cô ấy đã bỏ được nỗi sợ nước."
+     ]
+    },
+    {
+     "v1": "misspell",
+     "v2": "misspelt/misspelled",
+     "v3": "misspelt/misspelled",
+     "ipa": [
+      "/ˌmɪsˈspel/",
+      "/ˌmɪsˈspelt/, /ˌmɪsˈspeld/",
+      "/ˌmɪsˈspelt/, /ˌmɪsˈspeld/"
+     ],
+     "meaning": "viết sai chính tả",
+     "icon": "❌",
+     "note": "Chia giống spell: spell – spelt / spelled – spelt / spelled.",
+     "examples": [
+      "Many people misspell \"necessary\".",
+      "I misspelled my teacher's name!",
+      "You have misspelt this word."
+     ],
+     "examples_vi": [
+      "Nhiều người viết sai chính tả từ \"necessary\".",
+      "Tớ viết sai tên cô giáo!",
+      "Cậu viết sai chính tả từ này rồi."
+     ]
+    },
+    {
+     "v1": "sunburn",
+     "v2": "sunburnt/sunburned",
+     "v3": "sunburnt/sunburned",
+     "ipa": [
+      "/ˈsʌnbɜːn/",
+      "/ˈsʌnbɜːnt/, /ˈsʌnbɜːnd/",
+      "/ˈsʌnbɜːnt/, /ˈsʌnbɜːnd/"
+     ],
+     "meaning": "bị cháy nắng",
+     "icon": "🌞",
+     "note": "Chia giống burn: burn – burnt / burned – burnt / burned.",
+     "examples": [
+      "You will sunburn without sun cream.",
+      "I sunburned my nose at the beach.",
+      "His back has been sunburnt."
+     ],
+     "examples_vi": [
+      "Không bôi kem chống nắng cậu sẽ bị cháy nắng.",
+      "Tớ bị cháy nắng mũi ở bãi biển.",
+      "Lưng anh ấy bị cháy nắng."
+     ]
+    },
+    {
+     "v1": "bless",
+     "v2": "blessed/blest",
+     "v3": "blessed/blest",
+     "ipa": [
+      "/bles/",
+      "/blest/",
+      "/blest/"
+     ],
+     "meaning": "chúc phúc, ban phước",
+     "icon": "🙏",
+     "note": "Người Anh nói \"Bless you!\" khi ai đó hắt hơi.",
+     "examples": [
+      "Bless you!",
+      "The old monk blessed the new house.",
+      "We have been blessed with good weather."
+     ],
+     "examples_vi": [
+      "Chúc cậu khỏe! (nói khi ai đó hắt hơi)",
+      "Nhà sư già cầu an cho ngôi nhà mới.",
+      "Chúng tớ được trời ban thời tiết đẹp."
+     ]
+    },
+    {
+     "v1": "pen",
+     "v2": "penned/pent",
+     "v3": "penned/pent",
+     "ipa": [
+      "/pen/",
+      "/pend/, /pent/",
+      "/pend/, /pent/"
+     ],
+     "meaning": "nhốt (gia súc)",
+     "icon": "🐑",
+     "note": "Nghĩa \"viết\" (pen – penned) là có quy tắc. pent hay gặp trong pent-up (dồn nén).",
+     "examples": [
+      "Farmers pen the sheep at night.",
+      "We penned the chickens before the storm.",
+      "The cows have been penned in the barn."
+     ],
+     "examples_vi": [
+      "Nông dân nhốt cừu vào ban đêm.",
+      "Chúng tớ nhốt gà trước cơn bão.",
+      "Đàn bò đã được nhốt trong chuồng."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 47: Giữ nguyên hoặc thêm -ed",
+   "level": 5,
+   "icon": "🔧",
+   "note": "Có thể giữ nguyên (V1 = V2 = V3) hoặc thêm -ed như động từ thường. Cả hai đều đúng.",
+   "verbs": [
+    {
+     "v1": "knit",
+     "v2": "knit/knitted",
+     "v3": "knit/knitted",
+     "ipa": [
+      "/nɪt/",
+      "/nɪt/, /ˈnɪtɪd/",
+      "/nɪt/, /ˈnɪtɪd/"
+     ],
+     "meaning": "đan (len)",
+     "icon": "🧶",
+     "note": "Chữ k đầu không đọc.",
+     "examples": [
+      "Grandma likes to knit scarves.",
+      "She knitted me a warm hat.",
+      "Grandma has knitted ten sweaters."
+     ],
+     "examples_vi": [
+      "Bà thích đan khăn.",
+      "Bà đan cho tớ một chiếc mũ ấm.",
+      "Bà đã đan mười chiếc áo len."
+     ]
+    },
+    {
+     "v1": "fit",
+     "v2": "fit/fitted",
+     "v3": "fit/fitted",
+     "ipa": [
+      "/fɪt/",
+      "/fɪt/, /ˈfɪtɪd/",
+      "/fɪt/, /ˈfɪtɪd/"
+     ],
+     "meaning": "vừa (kích cỡ); lắp",
+     "icon": "👟",
+     "note": "Anh–Anh thường dùng fitted, Anh–Mỹ thường dùng fit.",
+     "examples": [
+      "These shoes fit me well.",
+      "The dress fitted her perfectly.",
+      "Dad has fitted a new lock on the door."
+     ],
+     "examples_vi": [
+      "Đôi giày này vừa với tớ.",
+      "Chiếc váy vừa khít với cô ấy.",
+      "Bố đã lắp một ổ khóa mới vào cửa."
+     ]
+    },
+    {
+     "v1": "wet",
+     "v2": "wet/wetted",
+     "v3": "wet/wetted",
+     "ipa": [
+      "/wet/",
+      "/wet/, /ˈwetɪd/",
+      "/wet/, /ˈwetɪd/"
+     ],
+     "meaning": "làm ướt",
+     "icon": "💧",
+     "examples": [
+      "Wet the sponge before you clean.",
+      "The baby wet the bed last night.",
+      "Have you wetted the cloth?"
+     ],
+     "examples_vi": [
+      "Làm ướt miếng bọt biển trước khi lau.",
+      "Tối qua em bé tè dầm.",
+      "Cậu làm ướt khăn chưa?"
+     ]
+    },
+    {
+     "v1": "sweat",
+     "v2": "sweat/sweated",
+     "v3": "sweat/sweated",
+     "ipa": [
+      "/swet/",
+      "/swet/, /ˈswetɪd/",
+      "/swet/, /ˈswetɪd/"
+     ],
+     "meaning": "đổ mồ hôi",
+     "icon": "🥵",
+     "examples": [
+      "I always sweat when I run.",
+      "We sweated a lot in the hot sun.",
+      "The players have sweated all afternoon."
+     ],
+     "examples_vi": [
+      "Tớ luôn đổ mồ hôi khi chạy.",
+      "Chúng tớ đổ nhiều mồ hôi dưới nắng nóng.",
+      "Các cầu thủ đã đổ mồ hôi cả buổi chiều."
+     ]
+    },
+    {
+     "v1": "shred",
+     "v2": "shred/shredded",
+     "v3": "shred/shredded",
+     "ipa": [
+      "/ʃred/",
+      "/ʃred/, /ˈʃredɪd/",
+      "/ʃred/, /ˈʃredɪd/"
+     ],
+     "meaning": "xé nhỏ, thái nhỏ",
+     "icon": "🥬",
+     "examples": [
+      "Shred the cabbage for the salad.",
+      "The dog shredded my homework!",
+      "The old papers have been shredded."
+     ],
+     "examples_vi": [
+      "Thái nhỏ bắp cải cho món salad.",
+      "Con chó xé nát bài tập của tớ!",
+      "Giấy cũ đã được cắt vụn."
+     ]
+    },
+    {
+     "v1": "input",
+     "v2": "input/inputted",
+     "v3": "input/inputted",
+     "ipa": [
+      "/ˈɪnpʊt/",
+      "/ˈɪnpʊt/, /ˈɪnpʊtɪd/",
+      "/ˈɪnpʊt/, /ˈɪnpʊtɪd/"
+     ],
+     "meaning": "nhập (dữ liệu)",
+     "icon": "⌨️",
+     "examples": [
+      "Input your name here.",
+      "I input the numbers into the computer.",
+      "Have you inputted the password?"
+     ],
+     "examples_vi": [
+      "Nhập tên của cậu vào đây.",
+      "Tớ nhập các con số vào máy tính.",
+      "Cậu nhập mật khẩu chưa?"
+     ]
+    },
+    {
+     "v1": "output",
+     "v2": "output/outputted",
+     "v3": "output/outputted",
+     "ipa": [
+      "/ˈaʊtpʊt/",
+      "/ˈaʊtpʊt/, /ˈaʊtpʊtɪd/",
+      "/ˈaʊtpʊt/, /ˈaʊtpʊtɪd/"
+     ],
+     "meaning": "xuất ra (dữ liệu)",
+     "icon": "🖨️",
+     "examples": [
+      "Computers output information.",
+      "The printer output twenty pages.",
+      "The machine has outputted the results."
+     ],
+     "examples_vi": [
+      "Máy tính xuất thông tin ra.",
+      "Máy in đã in ra hai mươi trang.",
+      "Máy đã xuất ra kết quả."
+     ]
+    },
+    {
+     "v1": "speed",
+     "v2": "sped/speeded",
+     "v3": "sped/speeded",
+     "ipa": [
+      "/spiːd/",
+      "/sped/, /ˈspiːdɪd/",
+      "/sped/, /ˈspiːdɪd/"
+     ],
+     "meaning": "phóng nhanh",
+     "icon": "🏎️",
+     "examples": [
+      "Don't speed on this road.",
+      "The car sped down the hill.",
+      "Time has sped by so quickly!"
+     ],
+     "examples_vi": [
+      "Đừng phóng nhanh trên con đường này.",
+      "Chiếc xe lao nhanh xuống đồi.",
+      "Thời gian trôi nhanh quá!"
+     ]
+    },
+    {
+     "v1": "plead",
+     "v2": "pleaded/pled",
+     "v3": "pleaded/pled",
+     "ipa": [
+      "/pliːd/",
+      "/ˈpliːdɪd/, /pled/",
+      "/ˈpliːdɪd/, /pled/"
+     ],
+     "meaning": "năn nỉ; biện hộ",
+     "icon": "🥺",
+     "note": "pled là cách dùng của Anh–Mỹ.",
+     "examples": [
+      "Please don't plead for more sweets.",
+      "The boy pleaded with his mum to stay up late.",
+      "She has pleaded for help many times."
+     ],
+     "examples_vi": [
+      "Đừng năn nỉ thêm kẹo nữa.",
+      "Cậu bé năn nỉ mẹ cho thức khuya.",
+      "Cô ấy đã nhiều lần cầu xin giúp đỡ."
+     ]
+    },
+    {
+     "v1": "wed",
+     "v2": "wed/wedded",
+     "v3": "wed/wedded",
+     "ipa": [
+      "/wed/",
+      "/wed/, /ˈwedɪd/",
+      "/wed/, /ˈwedɪd/"
+     ],
+     "meaning": "cưới",
+     "icon": "💒",
+     "examples": [
+      "They will wed in the spring.",
+      "My aunt wed her best friend.",
+      "The couple have been wedded for fifty years."
+     ],
+     "examples_vi": [
+      "Họ sẽ cưới vào mùa xuân.",
+      "Dì tớ cưới người bạn thân nhất.",
+      "Cặp đôi đã cưới nhau năm mươi năm."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 48: V3 tận cùng -n hoặc -ed",
+   "level": 5,
+   "icon": "✂️",
+   "note": "V2 thêm -ed như động từ thường; V3 có thể tận cùng -n hoặc -ed: shave – shaved – shaved/shaven.",
+   "verbs": [
+    {
+     "v1": "shave",
+     "v2": "shaved",
+     "v3": "shaved/shaven",
+     "ipa": [
+      "/ʃeɪv/",
+      "/ʃeɪvd/",
+      "/ʃeɪvd/, /ˈʃeɪvn/"
+     ],
+     "meaning": "cạo (râu, tóc)",
+     "icon": "🪒",
+     "examples": [
+      "Dad needs to shave before work.",
+      "Grandpa shaved his beard for Tet.",
+      "He has shaved his head!"
+     ],
+     "examples_vi": [
+      "Bố cần cạo râu trước khi đi làm.",
+      "Ông cạo râu đón Tết.",
+      "Anh ấy cạo trọc đầu rồi!"
+     ]
+    },
+    {
+     "v1": "saw",
+     "v2": "sawed",
+     "v3": "sawn/sawed",
+     "ipa": [
+      "/sɔː/",
+      "/sɔːd/",
+      "/sɔːn/, /sɔːd/"
+     ],
+     "meaning": "cưa",
+     "icon": "🪚",
+     "note": "Đừng nhầm với saw là V2 của see.",
+     "examples": [
+      "Saw the wood into small pieces.",
+      "Dad sawed the old branch off the tree.",
+      "The log has been sawn in half."
+     ],
+     "examples_vi": [
+      "Cưa gỗ thành từng mảnh nhỏ.",
+      "Bố cưa cành cây khô.",
+      "Khúc gỗ đã được cưa đôi."
+     ]
+    },
+    {
+     "v1": "strew",
+     "v2": "strewed",
+     "v3": "strewn/strewed",
+     "ipa": [
+      "/struː/",
+      "/struːd/",
+      "/struːn/, /struːd/"
+     ],
+     "meaning": "rải, rắc",
+     "icon": "🌸",
+     "examples": [
+      "Children strew flowers at weddings.",
+      "The wind strewed leaves across the yard.",
+      "Toys were strewn all over the floor."
+     ],
+     "examples_vi": [
+      "Trẻ em rắc hoa trong đám cưới.",
+      "Gió rải lá khắp sân.",
+      "Đồ chơi bị vứt bừa khắp sàn."
+     ]
+    },
+    {
+     "v1": "hew",
+     "v2": "hewed",
+     "v3": "hewn/hewed",
+     "ipa": [
+      "/hjuː/",
+      "/hjuːd/",
+      "/hjuːn/, /hjuːd/"
+     ],
+     "meaning": "đẽo, chặt",
+     "icon": "🪓",
+     "examples": [
+      "Workers hew stone for the temple.",
+      "The woodcutter hewed down the tree.",
+      "The steps were hewn out of the rock."
+     ],
+     "examples_vi": [
+      "Thợ đẽo đá xây đền.",
+      "Bác tiều phu chặt cây.",
+      "Những bậc thang được đẽo từ đá."
+     ]
+    },
+    {
+     "v1": "shear",
+     "v2": "sheared",
+     "v3": "shorn/sheared",
+     "ipa": [
+      "/ʃɪə/",
+      "/ʃɪəd/",
+      "/ʃɔːn/, /ʃɪəd/"
+     ],
+     "meaning": "xén lông (cừu)",
+     "icon": "🐑",
+     "examples": [
+      "Farmers shear sheep in spring.",
+      "He sheared ten sheep yesterday.",
+      "The sheep have been shorn."
+     ],
+     "examples_vi": [
+      "Nông dân xén lông cừu vào mùa xuân.",
+      "Hôm qua anh ấy xén lông mười con cừu.",
+      "Đàn cừu đã được xén lông."
+     ]
+    },
+    {
+     "v1": "bestrew",
+     "v2": "bestrewed",
+     "v3": "bestrewn/bestrewed",
+     "ipa": [
+      "/bɪˈstruː/",
+      "/bɪˈstruːd/",
+      "/bɪˈstruːn/, /bɪˈstruːd/"
+     ],
+     "meaning": "rải khắp (văn chương)",
+     "icon": "🍂",
+     "note": "Chia giống strew: strew – strewed – strewn / strewed.",
+     "examples": [
+      "Autumn will bestrew the path with leaves.",
+      "Petals bestrewed the ground.",
+      "The field was bestrewn with flowers."
+     ],
+     "examples_vi": [
+      "Mùa thu sẽ rải lá khắp lối đi.",
+      "Cánh hoa rải khắp mặt đất.",
+      "Cánh đồng phủ đầy hoa."
+     ]
+    },
+    {
+     "v1": "lade",
+     "v2": "laded",
+     "v3": "laden/laded",
+     "ipa": [
+      "/leɪd/",
+      "/ˈleɪdɪd/",
+      "/ˈleɪdn/, /ˈleɪdɪd/"
+     ],
+     "meaning": "chất (hàng)",
+     "icon": "🚢",
+     "note": "laden hay dùng như tính từ: trĩu, chất đầy.",
+     "examples": [
+      "Workers lade the ship with rice.",
+      "They laded the cart with fruit.",
+      "The trees are laden with apples."
+     ],
+     "examples_vi": [
+      "Công nhân chất gạo lên tàu.",
+      "Họ chất đầy hoa quả lên xe.",
+      "Cây trĩu quả táo."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 49: Hai cách chia khác nhau",
+   "level": 5,
+   "icon": "🔀",
+   "note": "Mỗi động từ có hai cách chia đều đúng; một cách thường là cổ hoặc của Anh–Mỹ.",
+   "verbs": [
+    {
+     "v1": "dive",
+     "v2": "dived/dove",
+     "v3": "dived",
+     "ipa": [
+      "/daɪv/",
+      "/daɪvd/, /dəʊv/",
+      "/daɪvd/"
+     ],
+     "meaning": "lặn, nhảy cắm đầu",
+     "icon": "🤿",
+     "note": "dove là cách dùng của Anh–Mỹ.",
+     "examples": [
+      "Ducks dive for food.",
+      "She dived into the pool.",
+      "Have you ever dived in the sea?"
+     ],
+     "examples_vi": [
+      "Vịt lặn xuống kiếm ăn.",
+      "Cô ấy nhảy cắm đầu xuống bể bơi.",
+      "Cậu đã bao giờ lặn biển chưa?"
+     ]
+    },
+    {
+     "v1": "sneak",
+     "v2": "sneaked/snuck",
+     "v3": "sneaked/snuck",
+     "ipa": [
+      "/sniːk/",
+      "/sniːkt/, /snʌk/",
+      "/sniːkt/, /snʌk/"
+     ],
+     "meaning": "lẻn",
+     "icon": "🥷",
+     "note": "snuck là cách nói thân mật của Anh–Mỹ.",
+     "examples": [
+      "Let's sneak into the kitchen for a snack.",
+      "My brother sneaked a cookie from the jar.",
+      "The cat has snuck into my bed again."
+     ],
+     "examples_vi": [
+      "Lẻn vào bếp ăn vặt đi.",
+      "Em tớ lén lấy một cái bánh quy trong lọ.",
+      "Con mèo lại lẻn vào giường tớ."
+     ]
+    },
+    {
+     "v1": "thrive",
+     "v2": "thrived/throve",
+     "v3": "thrived/thriven",
+     "ipa": [
+      "/θraɪv/",
+      "/θraɪvd/, /θrəʊv/",
+      "/θraɪvd/, /ˈθrɪvn/"
+     ],
+     "meaning": "phát triển mạnh",
+     "icon": "🌻",
+     "examples": [
+      "Plants thrive in sunlight.",
+      "The puppy thrived on its new food.",
+      "Her small shop has thrived."
+     ],
+     "examples_vi": [
+      "Cây cối phát triển mạnh dưới ánh nắng.",
+      "Chú cún lớn nhanh nhờ thức ăn mới.",
+      "Cửa hàng nhỏ của cô ấy đã phát đạt."
+     ]
+    },
+    {
+     "v1": "strive",
+     "v2": "strove/strived",
+     "v3": "striven/strived",
+     "ipa": [
+      "/straɪv/",
+      "/strəʊv/, /straɪvd/",
+      "/ˈstrɪvn/, /straɪvd/"
+     ],
+     "meaning": "cố gắng, phấn đấu",
+     "icon": "🧗",
+     "examples": [
+      "We strive to do our best.",
+      "She strove to win the race.",
+      "He has striven hard all year."
+     ],
+     "examples_vi": [
+      "Chúng tớ cố gắng hết sức.",
+      "Cô ấy cố gắng giành chiến thắng.",
+      "Cậu ấy đã phấn đấu chăm chỉ cả năm."
+     ]
+    },
+    {
+     "v1": "abide",
+     "v2": "abided/abode",
+     "v3": "abided/abode",
+     "ipa": [
+      "/əˈbaɪd/",
+      "/əˈbaɪdɪd/, /əˈbəʊd/",
+      "/əˈbaɪdɪd/, /əˈbəʊd/"
+     ],
+     "meaning": "tuân theo; chịu đựng",
+     "icon": "📜",
+     "note": "Hay gặp: abide by the rules (tuân theo luật).",
+     "examples": [
+      "Everyone must abide by the rules.",
+      "The players abided by the referee's decision.",
+      "We have always abided by the law."
+     ],
+     "examples_vi": [
+      "Mọi người phải tuân theo luật.",
+      "Các cầu thủ tuân theo quyết định của trọng tài.",
+      "Chúng tôi luôn tuân thủ pháp luật."
+     ]
+    },
+    {
+     "v1": "heave",
+     "v2": "heaved/hove",
+     "v3": "heaved/hove",
+     "ipa": [
+      "/hiːv/",
+      "/hiːvd/, /həʊv/",
+      "/hiːvd/, /həʊv/"
+     ],
+     "meaning": "nhấc, kéo (vật nặng)",
+     "icon": "🏋️",
+     "note": "hove chỉ dùng trong ngành hàng hải.",
+     "examples": [
+      "Heave the box onto the truck.",
+      "We heaved a sigh of relief.",
+      "The sailors have heaved the anchor up."
+     ],
+     "examples_vi": [
+      "Nhấc cái thùng lên xe tải.",
+      "Chúng tớ thở phào nhẹ nhõm.",
+      "Các thủy thủ đã kéo neo lên."
+     ]
+    },
+    {
+     "v1": "crow",
+     "v2": "crowed/crew",
+     "v3": "crowed",
+     "ipa": [
+      "/krəʊ/",
+      "/krəʊd/, /kruː/",
+      "/krəʊd/"
+     ],
+     "meaning": "(gà) gáy",
+     "icon": "🐓",
+     "note": "crew là dạng cổ.",
+     "examples": [
+      "I hear the rooster crow every morning.",
+      "The rooster crowed three times.",
+      "The rooster has crowed; it's time to get up!"
+     ],
+     "examples_vi": [
+      "Sáng nào tớ cũng nghe gà gáy.",
+      "Con gà trống gáy ba lần.",
+      "Gà đã gáy rồi, dậy thôi!"
+     ]
+    },
+    {
+     "v1": "clothe",
+     "v2": "clothed/clad",
+     "v3": "clothed/clad",
+     "ipa": [
+      "/kləʊð/",
+      "/kləʊðd/, /klæd/",
+      "/kləʊðd/, /klæd/"
+     ],
+     "meaning": "cho mặc, che phủ",
+     "icon": "👘",
+     "note": "clad hay gặp trong văn viết: snow-clad (phủ tuyết).",
+     "examples": [
+      "Parents feed and clothe their children.",
+      "The village clothed the poor family.",
+      "The hills were clad in snow."
+     ],
+     "examples_vi": [
+      "Bố mẹ nuôi ăn và cho con mặc.",
+      "Ngôi làng góp quần áo cho gia đình nghèo.",
+      "Những ngọn đồi phủ tuyết."
+     ]
+    },
+    {
+     "v1": "work",
+     "v2": "worked/wrought",
+     "v3": "worked/wrought",
+     "ipa": [
+      "/wɜːk/",
+      "/wɜːkt/, /rɔːt/",
+      "/wɜːkt/, /rɔːt/"
+     ],
+     "meaning": "làm việc; (cổ) rèn, tạo ra",
+     "icon": "⚒️",
+     "note": "wrought là dạng cổ, gặp trong wrought iron (sắt rèn).",
+     "examples": [
+      "I work hard at school.",
+      "Mum worked late yesterday.",
+      "This gate was wrought by hand."
+     ],
+     "examples_vi": [
+      "Tớ học hành chăm chỉ ở trường.",
+      "Hôm qua mẹ làm việc muộn.",
+      "Chiếc cổng này được rèn bằng tay."
+     ]
+    },
+    {
+     "v1": "gild",
+     "v2": "gilded/gilt",
+     "v3": "gilded/gilt",
+     "ipa": [
+      "/ɡɪld/",
+      "/ˈɡɪldɪd/, /ɡɪlt/",
+      "/ˈɡɪldɪd/, /ɡɪlt/"
+     ],
+     "meaning": "mạ vàng",
+     "icon": "✨",
+     "examples": [
+      "Craftsmen gild the statues.",
+      "They gilded the temple roof.",
+      "The frame has been gilt."
+     ],
+     "examples_vi": [
+      "Thợ thủ công mạ vàng các bức tượng.",
+      "Họ dát vàng mái chùa.",
+      "Khung tranh đã được mạ vàng."
+     ]
+    },
+    {
+     "v1": "gird",
+     "v2": "girded/girt",
+     "v3": "girded/girt",
+     "ipa": [
+      "/ɡɜːd/",
+      "/ˈɡɜːdɪd/, /ɡɜːt/",
+      "/ˈɡɜːdɪd/, /ɡɜːt/"
+     ],
+     "meaning": "thắt (đai); chuẩn bị tinh thần",
+     "icon": "🥋",
+     "examples": [
+      "Soldiers gird their swords before a battle.",
+      "The team girded themselves for the big match.",
+      "The knight was girt with a golden belt."
+     ],
+     "examples_vi": [
+      "Người lính đeo kiếm trước trận đánh.",
+      "Cả đội chuẩn bị tinh thần cho trận đấu lớn.",
+      "Hiệp sĩ thắt đai vàng."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 50: Từ cổ (1)",
+   "level": 5,
+   "icon": "📜",
+   "note": "Động từ cổ, hay gặp trong truyện cổ tích, thơ và văn học.",
+   "verbs": [
+    {
+     "v1": "slay",
+     "v2": "slew",
+     "v3": "slain",
+     "ipa": [
+      "/sleɪ/",
+      "/sluː/",
+      "/sleɪn/"
+     ],
+     "meaning": "giết (cổ)",
+     "icon": "🐉",
+     "examples": [
+      "The knight wants to slay the dragon.",
+      "The prince slew the giant.",
+      "The monster has been slain!"
+     ],
+     "examples_vi": [
+      "Hiệp sĩ muốn giết con rồng.",
+      "Hoàng tử giết tên khổng lồ.",
+      "Con quái vật đã bị tiêu diệt!"
+     ]
+    },
+    {
+     "v1": "smite",
+     "v2": "smote",
+     "v3": "smitten",
+     "ipa": [
+      "/smaɪt/",
+      "/sməʊt/",
+      "/ˈsmɪtn/"
+     ],
+     "meaning": "đánh mạnh (cổ)",
+     "icon": "⚔️",
+     "note": "smitten còn có nghĩa \"say mê\" (be smitten with).",
+     "examples": [
+      "The hero will smite the evil king.",
+      "The giant smote the rock with his club.",
+      "She is smitten with her new puppy."
+     ],
+     "examples_vi": [
+      "Người anh hùng sẽ trừng trị ông vua độc ác.",
+      "Gã khổng lồ đập dùi cui vào tảng đá.",
+      "Cô ấy mê tít chú cún mới."
+     ]
+    },
+    {
+     "v1": "stave",
+     "v2": "staved/stove",
+     "v3": "staved/stove",
+     "ipa": [
+      "/steɪv/",
+      "/steɪvd/, /stəʊv/",
+      "/steɪvd/, /stəʊv/"
+     ],
+     "meaning": "đẩy lùi; đâm thủng",
+     "icon": "🛶",
+     "note": "stave off: ngăn chặn, đẩy lùi.",
+     "examples": [
+      "A snack will stave off hunger.",
+      "We staved off the cold with hot soup.",
+      "The rocks have stove in the boat."
+     ],
+     "examples_vi": [
+      "Một chút đồ ăn vặt sẽ đỡ đói.",
+      "Chúng tớ chống rét bằng bát canh nóng.",
+      "Những tảng đá đã đâm thủng con thuyền."
+     ]
+    },
+    {
+     "v1": "beseech",
+     "v2": "besought/beseeched",
+     "v3": "besought/beseeched",
+     "ipa": [
+      "/bɪˈsiːtʃ/",
+      "/bɪˈsɔːt/, /bɪˈsiːtʃt/",
+      "/bɪˈsɔːt/, /bɪˈsiːtʃt/"
+     ],
+     "meaning": "van nài",
+     "icon": "🙏",
+     "examples": [
+      "I beseech you to help us.",
+      "The villagers besought the king for food.",
+      "She has beseeched him to stay."
+     ],
+     "examples_vi": [
+      "Tôi van xin ngài giúp chúng tôi.",
+      "Dân làng van xin nhà vua cho lương thực.",
+      "Cô ấy đã van nài anh ở lại."
+     ]
+    },
+    {
+     "v1": "bereave",
+     "v2": "bereaved/bereft",
+     "v3": "bereaved/bereft",
+     "ipa": [
+      "/bɪˈriːv/",
+      "/bɪˈriːvd/, /bɪˈreft/",
+      "/bɪˈriːvd/, /bɪˈreft/"
+     ],
+     "meaning": "lấy mất, cướp đi",
+     "icon": "🖤",
+     "note": "bereft hay dùng như tính từ: bereft of (mất hết).",
+     "examples": [
+      "War can bereave many families.",
+      "The flood bereaved the village of its homes.",
+      "The trees were bereft of leaves."
+     ],
+     "examples_vi": [
+      "Chiến tranh có thể cướp đi người thân của nhiều gia đình.",
+      "Trận lũ đã cướp đi nhà cửa của ngôi làng.",
+      "Cây cối trơ trụi lá."
+     ]
+    },
+    {
+     "v1": "bespeak",
+     "v2": "bespoke",
+     "v3": "bespoken",
+     "ipa": [
+      "/bɪˈspiːk/",
+      "/bɪˈspəʊk/",
+      "/bɪˈspəʊkən/"
+     ],
+     "meaning": "cho thấy; đặt trước (cổ)",
+     "icon": "🔖",
+     "note": "Chia giống speak: speak – spoke – spoken. bespoke: may đo, làm theo yêu cầu (bespoke suit).",
+     "examples": [
+      "His kind words bespeak a good heart.",
+      "Her smile bespoke her joy.",
+      "The rooms had been bespoken for the king."
+     ],
+     "examples_vi": [
+      "Lời nói tử tế cho thấy một trái tim nhân hậu.",
+      "Nụ cười của cô ấy cho thấy niềm vui.",
+      "Các phòng đã được đặt trước cho nhà vua."
+     ]
+    },
+    {
+     "v1": "chide",
+     "v2": "chided/chid",
+     "v3": "chided/chidden",
+     "ipa": [
+      "/tʃaɪd/",
+      "/ˈtʃaɪdɪd/, /tʃɪd/",
+      "/ˈtʃaɪdɪd/, /ˈtʃɪdn/"
+     ],
+     "meaning": "quở trách",
+     "icon": "😤",
+     "examples": [
+      "Don't chide the little ones too much.",
+      "Mum chided me for being late.",
+      "The teacher has chided us for talking."
+     ],
+     "examples_vi": [
+      "Đừng quở trách các em nhỏ quá nhiều.",
+      "Mẹ trách tớ vì về muộn.",
+      "Cô giáo đã nhắc nhở chúng tớ vì nói chuyện."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 51: Từ cổ (2)",
+   "level": 5,
+   "icon": "🏰",
+   "note": "Thêm các động từ cổ: cleave, rend, rive, shrive, shoe, beget, forsake, forbear, forswear.",
+   "verbs": [
+    {
+     "v1": "cleave",
+     "v2": "cleaved/cleft/clove",
+     "v3": "cleaved/cleft/cloven",
+     "ipa": [
+      "/kliːv/",
+      "/kliːvd/, /kleft/, /kləʊv/",
+      "/kliːvd/, /kleft/, /ˈkləʊvn/"
+     ],
+     "meaning": "chẻ, bổ",
+     "icon": "🪵",
+     "note": "cloven hooves: móng chẻ (của dê, bò).",
+     "examples": [
+      "Use the axe to cleave the log.",
+      "The woodcutter cleaved the log in two.",
+      "Goats have cloven hooves."
+     ],
+     "examples_vi": [
+      "Dùng rìu để chẻ khúc gỗ.",
+      "Bác tiều phu chẻ khúc gỗ làm đôi.",
+      "Dê có móng chẻ."
+     ]
+    },
+    {
+     "v1": "rend",
+     "v2": "rent",
+     "v3": "rent",
+     "ipa": [
+      "/rend/",
+      "/rent/",
+      "/rent/"
+     ],
+     "meaning": "xé toạc (cổ)",
+     "icon": "🌩️",
+     "examples": [
+      "The storm may rend the sails.",
+      "Lightning rent the sky.",
+      "Her dress was rent in two."
+     ],
+     "examples_vi": [
+      "Cơn bão có thể xé toạc cánh buồm.",
+      "Tia chớp xé toạc bầu trời.",
+      "Chiếc váy của cô ấy bị xé làm đôi."
+     ]
+    },
+    {
+     "v1": "rive",
+     "v2": "rived",
+     "v3": "riven/rived",
+     "ipa": [
+      "/raɪv/",
+      "/raɪvd/",
+      "/ˈrɪvn/, /raɪvd/"
+     ],
+     "meaning": "chẻ, xé (cổ)",
+     "icon": "💔",
+     "examples": [
+      "Old woodcutters rive oak into planks.",
+      "Lightning rived the old tree.",
+      "The country was riven by war."
+     ],
+     "examples_vi": [
+      "Thợ đốn gỗ xưa chẻ gỗ sồi thành tấm.",
+      "Tia sét chẻ đôi cây cổ thụ.",
+      "Đất nước bị chiến tranh chia cắt."
+     ]
+    },
+    {
+     "v1": "shrive",
+     "v2": "shrove",
+     "v3": "shriven",
+     "ipa": [
+      "/ʃraɪv/",
+      "/ʃrəʊv/",
+      "/ˈʃrɪvn/"
+     ],
+     "meaning": "xá tội (cổ)",
+     "icon": "⛪",
+     "note": "Gặp trong Shrove Tuesday (ngày thứ Ba trước Mùa Chay).",
+     "examples": [
+      "In old stories, the priest would shrive the knight.",
+      "The priest shrove the old knight.",
+      "He had been shriven before the battle."
+     ],
+     "examples_vi": [
+      "Trong truyện xưa, linh mục xá tội cho hiệp sĩ.",
+      "Linh mục làm lễ xá tội cho lão hiệp sĩ.",
+      "Ông ấy đã được xá tội trước trận chiến."
+     ]
+    },
+    {
+     "v1": "shoe",
+     "v2": "shod",
+     "v3": "shod",
+     "ipa": [
+      "/ʃuː/",
+      "/ʃɒd/",
+      "/ʃɒd/"
+     ],
+     "meaning": "đóng móng (ngựa)",
+     "icon": "🐴",
+     "also": {
+      "v2": [
+       "shoed"
+      ],
+      "v3": [
+       "shoed"
+      ]
+     },
+     "examples": [
+      "The blacksmith will shoe the horse.",
+      "He shod three horses this morning.",
+      "The horse has been shod."
+     ],
+     "examples_vi": [
+      "Thợ rèn sẽ đóng móng cho ngựa.",
+      "Sáng nay ông ấy đóng móng cho ba con ngựa.",
+      "Con ngựa đã được đóng móng."
+     ]
+    },
+    {
+     "v1": "beget",
+     "v2": "begot/begat",
+     "v3": "begotten",
+     "ipa": [
+      "/bɪˈɡet/",
+      "/bɪˈɡɒt/, /bɪˈɡæt/",
+      "/bɪˈɡɒtn/"
+     ],
+     "meaning": "sinh ra; gây ra (cổ)",
+     "icon": "🌳",
+     "examples": [
+      "Hate will only beget more hate.",
+      "The old king begot three sons.",
+      "Their success has begotten new ideas."
+     ],
+     "examples_vi": [
+      "Hận thù chỉ sinh ra thêm hận thù.",
+      "Vị vua già sinh ba người con trai.",
+      "Thành công của họ đã sinh ra những ý tưởng mới."
+     ]
+    },
+    {
+     "v1": "forsake",
+     "v2": "forsook",
+     "v3": "forsaken",
+     "ipa": [
+      "/fəˈseɪk/",
+      "/fəˈsʊk/",
+      "/fəˈseɪkən/"
+     ],
+     "meaning": "từ bỏ, ruồng bỏ",
+     "icon": "🏚️",
+     "note": "Chia giống take.",
+     "examples": [
+      "Never forsake your friends.",
+      "The birds forsook their old nest.",
+      "The village was forsaken long ago."
+     ],
+     "examples_vi": [
+      "Đừng bao giờ bỏ rơi bạn bè.",
+      "Chim bỏ cái tổ cũ.",
+      "Ngôi làng đã bị bỏ hoang từ lâu."
+     ]
+    },
+    {
+     "v1": "forbear",
+     "v2": "forbore",
+     "v3": "forborne",
+     "ipa": [
+      "/fɔːˈbeə/",
+      "/fɔːˈbɔː/",
+      "/fɔːˈbɔːn/"
+     ],
+     "meaning": "nhịn, kiềm chế",
+     "icon": "🤐",
+     "note": "Chia giống bear (V3 dùng borne).",
+     "examples": [
+      "Please forbear from shouting.",
+      "He forbore to argue with his sister.",
+      "She has forborne from complaining."
+     ],
+     "examples_vi": [
+      "Xin hãy kiềm chế, đừng la hét.",
+      "Cậu ấy nhịn không cãi nhau với chị.",
+      "Cô ấy đã nhịn không phàn nàn."
+     ]
+    },
+    {
+     "v1": "forswear",
+     "v2": "forswore",
+     "v3": "forsworn",
+     "ipa": [
+      "/fəˈsweə/",
+      "/fəˈswɔː/",
+      "/fəˈswɔːn/"
+     ],
+     "meaning": "thề từ bỏ",
+     "icon": "✋",
+     "note": "Chia giống swear: swear – swore – sworn.",
+     "examples": [
+      "I forswear sweets for a month!",
+      "He forswore junk food after he got sick.",
+      "She has forsworn her bad habits."
+     ],
+     "examples_vi": [
+      "Tớ thề bỏ kẹo một tháng!",
+      "Cậu ấy thề bỏ đồ ăn vặt sau khi bị ốm.",
+      "Cô ấy đã thề từ bỏ thói xấu."
      ]
     }
    ]
