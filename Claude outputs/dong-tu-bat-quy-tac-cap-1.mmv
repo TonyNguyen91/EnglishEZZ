@@ -1,0 +1,2366 @@
+{
+ "format": "mmv",
+ "version": 1,
+ "id": "dong-tu-bqt",
+ "name": {
+  "vi": "600 động từ bất quy tắc",
+  "en": "600 Irregular Verbs"
+ },
+ "icon": "🔁",
+ "levels": [
+  {
+   "level": 1,
+   "vi": "Cấp 1 – Thiết yếu",
+   "en": "Level 1 – Essential"
+  },
+  {
+   "level": 2,
+   "vi": "Cấp 2 – Thông dụng",
+   "en": "Level 2 – Common"
+  },
+  {
+   "level": 3,
+   "vi": "Cấp 3 – Mở rộng",
+   "en": "Level 3 – Extended"
+  },
+  {
+   "level": 4,
+   "vi": "Cấp 4 – Có tiền tố",
+   "en": "Level 4 – Prefixed"
+  },
+  {
+   "level": 5,
+   "vi": "Cấp 5 – Hiếm, cổ & hai dạng",
+   "en": "Level 5 – Rare & variants"
+  }
+ ],
+ "units": [
+  {
+   "title": "Bài 1: Siêu đặc biệt",
+   "level": 1,
+   "icon": "⭐",
+   "note": "Những động từ quan trọng nhất, mỗi từ một kiểu riêng – học thuộc từng từ nhé!",
+   "verbs": [
+    {
+     "v1": "be",
+     "v2": "was/were",
+     "v3": "been",
+     "ipa": [
+      "/biː/",
+      "/wɒz/, /wɜː/",
+      "/biːn/"
+     ],
+     "meaning": "thì, là, ở",
+     "icon": "🙂",
+     "note": "was dùng với I/he/she/it; were dùng với you/we/they.",
+     "examples": [
+      "I want to be a doctor.",
+      "She was at home yesterday.",
+      "I have been to Ha Long Bay."
+     ],
+     "examples_vi": [
+      "Tớ muốn trở thành bác sĩ.",
+      "Hôm qua cô ấy ở nhà.",
+      "Tớ đã từng đến vịnh Hạ Long."
+     ]
+    },
+    {
+     "v1": "do",
+     "v2": "did",
+     "v3": "done",
+     "ipa": [
+      "/duː/",
+      "/dɪd/",
+      "/dʌn/"
+     ],
+     "meaning": "làm",
+     "icon": "✅",
+     "examples": [
+      "I do my homework after dinner.",
+      "We did a puzzle last night.",
+      "Have you done your homework?"
+     ],
+     "examples_vi": [
+      "Tớ làm bài tập sau bữa tối.",
+      "Tối qua chúng tớ chơi xếp hình.",
+      "Cậu làm bài tập xong chưa?"
+     ]
+    },
+    {
+     "v1": "go",
+     "v2": "went",
+     "v3": "gone",
+     "ipa": [
+      "/ɡəʊ/",
+      "/went/",
+      "/ɡɒn/"
+     ],
+     "meaning": "đi",
+     "icon": "🚶",
+     "examples": [
+      "We go to school by bus.",
+      "We went to the zoo last Sunday.",
+      "Dad has gone to work."
+     ],
+     "examples_vi": [
+      "Chúng tớ đi học bằng xe buýt.",
+      "Chủ nhật tuần trước chúng tớ đi sở thú.",
+      "Bố đã đi làm rồi."
+     ]
+    },
+    {
+     "v1": "see",
+     "v2": "saw",
+     "v3": "seen",
+     "ipa": [
+      "/siː/",
+      "/sɔː/",
+      "/siːn/"
+     ],
+     "meaning": "nhìn thấy",
+     "icon": "👀",
+     "examples": [
+      "I can see a rainbow!",
+      "I saw a big elephant at the zoo.",
+      "Have you ever seen snow?"
+     ],
+     "examples_vi": [
+      "Tớ nhìn thấy cầu vồng!",
+      "Tớ đã thấy một con voi to ở sở thú.",
+      "Cậu đã bao giờ thấy tuyết chưa?"
+     ]
+    },
+    {
+     "v1": "eat",
+     "v2": "ate",
+     "v3": "eaten",
+     "ipa": [
+      "/iːt/",
+      "/et/",
+      "/ˈiːtn/"
+     ],
+     "meaning": "ăn",
+     "icon": "🍽️",
+     "examples": [
+      "Cats eat fish.",
+      "I ate two bananas this morning.",
+      "I have never eaten durian."
+     ],
+     "examples_vi": [
+      "Mèo ăn cá.",
+      "Sáng nay tớ ăn hai quả chuối.",
+      "Tớ chưa bao giờ ăn sầu riêng."
+     ]
+    },
+    {
+     "v1": "fall",
+     "v2": "fell",
+     "v3": "fallen",
+     "ipa": [
+      "/fɔːl/",
+      "/fel/",
+      "/ˈfɔːlən/"
+     ],
+     "meaning": "ngã, rơi",
+     "icon": "🍂",
+     "examples": [
+      "Leaves fall in autumn.",
+      "He fell off his bike yesterday.",
+      "The vase has fallen off the table."
+     ],
+     "examples_vi": [
+      "Lá rụng vào mùa thu.",
+      "Hôm qua cậu ấy bị ngã xe đạp.",
+      "Cái bình đã rơi khỏi bàn."
+     ]
+    },
+    {
+     "v1": "beat",
+     "v2": "beat",
+     "v3": "beaten",
+     "ipa": [
+      "/biːt/",
+      "/biːt/",
+      "/ˈbiːtn/"
+     ],
+     "meaning": "đánh bại, đập",
+     "icon": "🥁",
+     "examples": [
+      "I can beat you in this race!",
+      "Our team beat them 3–1 last week.",
+      "Nobody has beaten her at chess."
+     ],
+     "examples_vi": [
+      "Tớ có thể thắng cậu trong cuộc đua này!",
+      "Tuần trước đội tớ thắng họ 3–1.",
+      "Chưa ai thắng được cô ấy môn cờ vua."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 2: Ba dạng giống nhau (1)",
+   "level": 1,
+   "icon": "🟰",
+   "note": "V1 = V2 = V3 – dễ nhất! Thường là từ ngắn, tận cùng bằng -t hoặc -d.",
+   "verbs": [
+    {
+     "v1": "cut",
+     "v2": "cut",
+     "v3": "cut",
+     "ipa": [
+      "/kʌt/",
+      "/kʌt/",
+      "/kʌt/"
+     ],
+     "meaning": "cắt",
+     "icon": "✂️",
+     "examples": [
+      "Please cut the cake into eight pieces.",
+      "Mum cut my hair last night.",
+      "I have cut my finger!"
+     ],
+     "examples_vi": [
+      "Hãy cắt bánh thành tám miếng nhé.",
+      "Tối qua mẹ cắt tóc cho tớ.",
+      "Tớ bị đứt tay rồi!"
+     ]
+    },
+    {
+     "v1": "put",
+     "v2": "put",
+     "v3": "put",
+     "ipa": [
+      "/pʊt/",
+      "/pʊt/",
+      "/pʊt/"
+     ],
+     "meaning": "đặt, để",
+     "icon": "📦",
+     "examples": [
+      "Put your shoes here, please.",
+      "I put my bag on the chair an hour ago.",
+      "Who has put salt in my tea?"
+     ],
+     "examples_vi": [
+      "Để giày ở đây nhé.",
+      "Tớ để cặp lên ghế một tiếng trước.",
+      "Ai đã bỏ muối vào trà của tớ thế?"
+     ]
+    },
+    {
+     "v1": "hit",
+     "v2": "hit",
+     "v3": "hit",
+     "ipa": [
+      "/hɪt/",
+      "/hɪt/",
+      "/hɪt/"
+     ],
+     "meaning": "đánh, va vào",
+     "icon": "🏏",
+     "examples": [
+      "Hit the ball hard!",
+      "The ball hit the window yesterday.",
+      "He has never hit anyone."
+     ],
+     "examples_vi": [
+      "Đánh bóng thật mạnh vào!",
+      "Hôm qua quả bóng đập vào cửa sổ.",
+      "Cậu ấy chưa bao giờ đánh ai."
+     ]
+    },
+    {
+     "v1": "let",
+     "v2": "let",
+     "v3": "let",
+     "ipa": [
+      "/let/",
+      "/let/",
+      "/let/"
+     ],
+     "meaning": "để cho, cho phép",
+     "icon": "🙆",
+     "examples": [
+      "Let me help you.",
+      "Mum let us watch TV last night.",
+      "Dad has let me keep the puppy!"
+     ],
+     "examples_vi": [
+      "Để tớ giúp cậu.",
+      "Tối qua mẹ cho chúng tớ xem TV.",
+      "Bố đã cho tớ nuôi chú cún rồi!"
+     ]
+    },
+    {
+     "v1": "set",
+     "v2": "set",
+     "v3": "set",
+     "ipa": [
+      "/set/",
+      "/set/",
+      "/set/"
+     ],
+     "meaning": "đặt, cài; (mặt trời) lặn",
+     "icon": "🌅",
+     "examples": [
+      "Please set the table for dinner.",
+      "I set my alarm for six o'clock yesterday.",
+      "The sun has set."
+     ],
+     "examples_vi": [
+      "Con dọn bàn ăn tối nhé.",
+      "Hôm qua tớ đặt báo thức lúc sáu giờ.",
+      "Mặt trời đã lặn."
+     ]
+    },
+    {
+     "v1": "shut",
+     "v2": "shut",
+     "v3": "shut",
+     "ipa": [
+      "/ʃʌt/",
+      "/ʃʌt/",
+      "/ʃʌt/"
+     ],
+     "meaning": "đóng (cửa)",
+     "icon": "🚪",
+     "examples": [
+      "Shut the door, please.",
+      "She shut the window because it was cold.",
+      "Have you shut the gate?"
+     ],
+     "examples_vi": [
+      "Đóng cửa lại nhé.",
+      "Cô ấy đóng cửa sổ vì trời lạnh.",
+      "Cậu đóng cổng chưa?"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 3: Ba dạng giống nhau (2)",
+   "level": 1,
+   "icon": "🟰",
+   "note": "V1 = V2 = V3. Chú ý read: viết giống nhau nhưng V2, V3 đọc là /red/.",
+   "verbs": [
+    {
+     "v1": "cost",
+     "v2": "cost",
+     "v3": "cost",
+     "ipa": [
+      "/kɒst/",
+      "/kɒst/",
+      "/kɒst/"
+     ],
+     "meaning": "có giá, tốn",
+     "icon": "💰",
+     "examples": [
+      "How much does this toy cost?",
+      "My new bike cost two million dong.",
+      "The trip has cost us a lot of money."
+     ],
+     "examples_vi": [
+      "Món đồ chơi này giá bao nhiêu?",
+      "Xe đạp mới của tớ giá hai triệu đồng.",
+      "Chuyến đi đã tốn của chúng tớ nhiều tiền."
+     ]
+    },
+    {
+     "v1": "hurt",
+     "v2": "hurt",
+     "v3": "hurt",
+     "ipa": [
+      "/hɜːt/",
+      "/hɜːt/",
+      "/hɜːt/"
+     ],
+     "meaning": "làm đau, bị đau",
+     "icon": "🤕",
+     "examples": [
+      "My legs hurt after the long walk.",
+      "I hurt my knee when I fell.",
+      "Have you hurt yourself?"
+     ],
+     "examples_vi": [
+      "Chân tớ đau sau chuyến đi bộ dài.",
+      "Tớ bị đau đầu gối khi ngã.",
+      "Cậu có bị đau không?"
+     ]
+    },
+    {
+     "v1": "read",
+     "v2": "read",
+     "v3": "read",
+     "ipa": [
+      "/riːd/",
+      "/red/",
+      "/red/"
+     ],
+     "meaning": "đọc",
+     "icon": "📖",
+     "note": "Viết giống nhau nhưng V2, V3 đọc là /red/ (giống red – màu đỏ).",
+     "examples": [
+      "I read a story every night.",
+      "I read that book last summer.",
+      "Have you read Doraemon?"
+     ],
+     "examples_vi": [
+      "Tối nào tớ cũng đọc một câu chuyện.",
+      "Tớ đã đọc cuốn sách đó hè năm ngoái.",
+      "Cậu đọc Doraemon chưa?"
+     ]
+    },
+    {
+     "v1": "spread",
+     "v2": "spread",
+     "v3": "spread",
+     "ipa": [
+      "/spred/",
+      "/spred/",
+      "/spred/"
+     ],
+     "meaning": "phết, trải, lan ra",
+     "icon": "🧈",
+     "examples": [
+      "Spread some butter on the bread.",
+      "The news spread quickly around the school.",
+      "The cold has spread to the whole class."
+     ],
+     "examples_vi": [
+      "Phết ít bơ lên bánh mì.",
+      "Tin tức lan nhanh khắp trường.",
+      "Cảm lạnh đã lây ra cả lớp."
+     ]
+    },
+    {
+     "v1": "bet",
+     "v2": "bet",
+     "v3": "bet",
+     "ipa": [
+      "/bet/",
+      "/bet/",
+      "/bet/"
+     ],
+     "meaning": "cá, đánh cược",
+     "icon": "🤞",
+     "examples": [
+      "I bet you can't catch me!",
+      "He bet me a candy that it would rain.",
+      "I have never bet any money."
+     ],
+     "examples_vi": [
+      "Tớ cá là cậu không bắt được tớ!",
+      "Cậu ấy cá với tớ một cái kẹo là trời sẽ mưa.",
+      "Tớ chưa bao giờ cá cược tiền."
+     ]
+    },
+    {
+     "v1": "quit",
+     "v2": "quit",
+     "v3": "quit",
+     "ipa": [
+      "/kwɪt/",
+      "/kwɪt/",
+      "/kwɪt/"
+     ],
+     "meaning": "bỏ, từ bỏ, thoát",
+     "icon": "🛑",
+     "examples": [
+      "Don't quit – keep trying!",
+      "My uncle quit smoking last year.",
+      "She has quit the game."
+     ],
+     "examples_vi": [
+      "Đừng bỏ cuộc – cố lên!",
+      "Chú tớ bỏ thuốc lá năm ngoái.",
+      "Cô ấy đã thoát trò chơi."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 4: Đuôi -ought / -aught",
+   "level": 1,
+   "icon": "🎯",
+   "note": "V2 = V3, tận cùng bằng -ought hoặc -aught. Hai đuôi này đọc giống nhau: /ɔːt/.",
+   "verbs": [
+    {
+     "v1": "buy",
+     "v2": "bought",
+     "v3": "bought",
+     "ipa": [
+      "/baɪ/",
+      "/bɔːt/",
+      "/bɔːt/"
+     ],
+     "meaning": "mua",
+     "icon": "🛒",
+     "examples": [
+      "I want to buy a new pencil case.",
+      "Mum bought me a new dress yesterday.",
+      "Have you bought the tickets?"
+     ],
+     "examples_vi": [
+      "Tớ muốn mua một hộp bút mới.",
+      "Hôm qua mẹ mua cho tớ một chiếc váy mới.",
+      "Cậu mua vé chưa?"
+     ]
+    },
+    {
+     "v1": "bring",
+     "v2": "brought",
+     "v3": "brought",
+     "ipa": [
+      "/brɪŋ/",
+      "/brɔːt/",
+      "/brɔːt/"
+     ],
+     "meaning": "mang đến",
+     "icon": "🎒",
+     "examples": [
+      "Bring your raincoat tomorrow.",
+      "She brought a cake to the party.",
+      "I have brought you a present."
+     ],
+     "examples_vi": [
+      "Ngày mai mang áo mưa nhé.",
+      "Cô ấy mang một chiếc bánh đến bữa tiệc.",
+      "Tớ mang quà đến cho cậu này."
+     ]
+    },
+    {
+     "v1": "think",
+     "v2": "thought",
+     "v3": "thought",
+     "ipa": [
+      "/θɪŋk/",
+      "/θɔːt/",
+      "/θɔːt/"
+     ],
+     "meaning": "nghĩ",
+     "icon": "🤔",
+     "examples": [
+      "I think it will rain today.",
+      "I thought the test was easy.",
+      "Have you thought about your summer plans?"
+     ],
+     "examples_vi": [
+      "Tớ nghĩ hôm nay trời sẽ mưa.",
+      "Tớ đã nghĩ bài kiểm tra dễ.",
+      "Cậu đã nghĩ về kế hoạch mùa hè chưa?"
+     ]
+    },
+    {
+     "v1": "fight",
+     "v2": "fought",
+     "v3": "fought",
+     "ipa": [
+      "/faɪt/",
+      "/fɔːt/",
+      "/fɔːt/"
+     ],
+     "meaning": "đánh nhau, chiến đấu",
+     "icon": "🥊",
+     "examples": [
+      "Don't fight with your brother!",
+      "The two cats fought in the garden.",
+      "The soldiers have fought bravely."
+     ],
+     "examples_vi": [
+      "Đừng đánh nhau với em trai!",
+      "Hai con mèo đánh nhau trong vườn.",
+      "Những người lính đã chiến đấu dũng cảm."
+     ]
+    },
+    {
+     "v1": "catch",
+     "v2": "caught",
+     "v3": "caught",
+     "ipa": [
+      "/kætʃ/",
+      "/kɔːt/",
+      "/kɔːt/"
+     ],
+     "meaning": "bắt, chụp",
+     "icon": "🎣",
+     "examples": [
+      "Can you catch the ball?",
+      "Grandpa caught a big fish yesterday.",
+      "I have caught a cold."
+     ],
+     "examples_vi": [
+      "Cậu bắt được bóng không?",
+      "Hôm qua ông câu được một con cá to.",
+      "Tớ bị cảm lạnh rồi."
+     ]
+    },
+    {
+     "v1": "teach",
+     "v2": "taught",
+     "v3": "taught",
+     "ipa": [
+      "/tiːtʃ/",
+      "/tɔːt/",
+      "/tɔːt/"
+     ],
+     "meaning": "dạy",
+     "icon": "👩‍🏫",
+     "examples": [
+      "Can you teach me to draw?",
+      "My dad taught me to swim.",
+      "She has taught at this school for ten years."
+     ],
+     "examples_vi": [
+      "Cậu dạy tớ vẽ được không?",
+      "Bố đã dạy tớ bơi.",
+      "Cô ấy đã dạy ở trường này mười năm."
+     ]
+    },
+    {
+     "v1": "seek",
+     "v2": "sought",
+     "v3": "sought",
+     "ipa": [
+      "/siːk/",
+      "/sɔːt/",
+      "/sɔːt/"
+     ],
+     "meaning": "tìm kiếm",
+     "icon": "🔍",
+     "examples": [
+      "Let's play hide and seek!",
+      "They sought help from the police.",
+      "Scientists have sought a cure for years."
+     ],
+     "examples_vi": [
+      "Chơi trốn tìm đi!",
+      "Họ đã tìm sự giúp đỡ từ cảnh sát.",
+      "Các nhà khoa học đã tìm thuốc chữa nhiều năm nay."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 5: Âm dài thành âm ngắn (1)",
+   "level": 1,
+   "icon": "🔉",
+   "note": "V2 = V3. Âm dài /iː/ đổi thành âm ngắn /e/: sleep → slept, meet → met.",
+   "verbs": [
+    {
+     "v1": "sleep",
+     "v2": "slept",
+     "v3": "slept",
+     "ipa": [
+      "/sliːp/",
+      "/slept/",
+      "/slept/"
+     ],
+     "meaning": "ngủ",
+     "icon": "😴",
+     "examples": [
+      "Babies sleep a lot.",
+      "I slept for ten hours last night.",
+      "Have you slept well?"
+     ],
+     "examples_vi": [
+      "Em bé ngủ rất nhiều.",
+      "Tối qua tớ ngủ mười tiếng.",
+      "Cậu ngủ ngon không?"
+     ]
+    },
+    {
+     "v1": "keep",
+     "v2": "kept",
+     "v3": "kept",
+     "ipa": [
+      "/kiːp/",
+      "/kept/",
+      "/kept/"
+     ],
+     "meaning": "giữ",
+     "icon": "🔐",
+     "examples": [
+      "Keep your room clean.",
+      "She kept the secret for a week.",
+      "I have kept all your letters."
+     ],
+     "examples_vi": [
+      "Giữ phòng sạch sẽ nhé.",
+      "Cô ấy giữ bí mật suốt một tuần.",
+      "Tớ vẫn giữ tất cả thư của cậu."
+     ]
+    },
+    {
+     "v1": "feel",
+     "v2": "felt",
+     "v3": "felt",
+     "ipa": [
+      "/fiːl/",
+      "/felt/",
+      "/felt/"
+     ],
+     "meaning": "cảm thấy",
+     "icon": "💗",
+     "examples": [
+      "I feel happy today.",
+      "I felt tired after the race.",
+      "I have never felt so cold!"
+     ],
+     "examples_vi": [
+      "Hôm nay tớ thấy vui.",
+      "Tớ thấy mệt sau cuộc đua.",
+      "Tớ chưa bao giờ thấy lạnh như thế!"
+     ]
+    },
+    {
+     "v1": "sweep",
+     "v2": "swept",
+     "v3": "swept",
+     "ipa": [
+      "/swiːp/",
+      "/swept/",
+      "/swept/"
+     ],
+     "meaning": "quét",
+     "icon": "🧹",
+     "examples": [
+      "Can you sweep the floor?",
+      "We swept the classroom after school.",
+      "Have you swept the yard?"
+     ],
+     "examples_vi": [
+      "Cậu quét nhà được không?",
+      "Chúng tớ quét lớp sau giờ học.",
+      "Cậu quét sân chưa?"
+     ]
+    },
+    {
+     "v1": "meet",
+     "v2": "met",
+     "v3": "met",
+     "ipa": [
+      "/miːt/",
+      "/met/",
+      "/met/"
+     ],
+     "meaning": "gặp",
+     "icon": "🤝",
+     "examples": [
+      "Nice to meet you!",
+      "I met my best friend at kindergarten.",
+      "Have you met our new teacher?"
+     ],
+     "examples_vi": [
+      "Rất vui được gặp cậu!",
+      "Tớ gặp bạn thân ở trường mẫu giáo.",
+      "Cậu gặp cô giáo mới chưa?"
+     ]
+    },
+    {
+     "v1": "feed",
+     "v2": "fed",
+     "v3": "fed",
+     "ipa": [
+      "/fiːd/",
+      "/fed/",
+      "/fed/"
+     ],
+     "meaning": "cho ăn",
+     "icon": "🐟",
+     "examples": [
+      "Don't forget to feed the fish.",
+      "I fed the cat this morning.",
+      "Have you fed the dog?"
+     ],
+     "examples_vi": [
+      "Đừng quên cho cá ăn nhé.",
+      "Sáng nay tớ cho mèo ăn rồi.",
+      "Cậu cho chó ăn chưa?"
+     ]
+    },
+    {
+     "v1": "lead",
+     "v2": "led",
+     "v3": "led",
+     "ipa": [
+      "/liːd/",
+      "/led/",
+      "/led/"
+     ],
+     "meaning": "dẫn đường, dẫn dắt",
+     "icon": "🧭",
+     "examples": [
+      "This road will lead you to the beach.",
+      "Our teacher led us to the museum.",
+      "She has led the team for two years."
+     ],
+     "examples_vi": [
+      "Con đường này sẽ dẫn cậu ra biển.",
+      "Cô giáo dẫn chúng tớ đến bảo tàng.",
+      "Cô ấy đã dẫn dắt đội hai năm nay."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 6: Âm dài thành âm ngắn (2) & d đổi thành t",
+   "level": 1,
+   "icon": "🔉",
+   "note": "V2 = V3. leave, mean, lose: rút ngắn âm và thêm -t. Từ tận cùng -end, -ild: đổi d thành t (send → sent).",
+   "verbs": [
+    {
+     "v1": "leave",
+     "v2": "left",
+     "v3": "left",
+     "ipa": [
+      "/liːv/",
+      "/left/",
+      "/left/"
+     ],
+     "meaning": "rời đi, để quên",
+     "icon": "👋",
+     "examples": [
+      "We leave home at seven.",
+      "The train left at nine o'clock.",
+      "Oh no, I have left my bag at school!"
+     ],
+     "examples_vi": [
+      "Chúng tớ rời nhà lúc bảy giờ.",
+      "Tàu đã rời ga lúc chín giờ.",
+      "Ôi không, tớ để quên cặp ở trường rồi!"
+     ]
+    },
+    {
+     "v1": "mean",
+     "v2": "meant",
+     "v3": "meant",
+     "ipa": [
+      "/miːn/",
+      "/ment/",
+      "/ment/"
+     ],
+     "meaning": "có nghĩa là, ý là",
+     "icon": "💬",
+     "note": "meant đọc là /ment/.",
+     "examples": [
+      "What does this word mean?",
+      "Sorry, I meant Tuesday, not Thursday.",
+      "I have always meant to learn the piano."
+     ],
+     "examples_vi": [
+      "Từ này nghĩa là gì?",
+      "Xin lỗi, ý tớ là thứ Ba, không phải thứ Năm.",
+      "Tớ vẫn luôn định học đàn piano."
+     ]
+    },
+    {
+     "v1": "lose",
+     "v2": "lost",
+     "v3": "lost",
+     "ipa": [
+      "/luːz/",
+      "/lɒst/",
+      "/lɒst/"
+     ],
+     "meaning": "làm mất, thua",
+     "icon": "😢",
+     "examples": [
+      "Don't lose your keys.",
+      "We lost the football match.",
+      "I have lost my pencil."
+     ],
+     "examples_vi": [
+      "Đừng làm mất chìa khóa nhé.",
+      "Chúng tớ thua trận bóng đá.",
+      "Tớ làm mất bút chì rồi."
+     ]
+    },
+    {
+     "v1": "send",
+     "v2": "sent",
+     "v3": "sent",
+     "ipa": [
+      "/send/",
+      "/sent/",
+      "/sent/"
+     ],
+     "meaning": "gửi",
+     "icon": "📨",
+     "examples": [
+      "Please send me a photo.",
+      "Grandma sent me a postcard.",
+      "Have you sent the email?"
+     ],
+     "examples_vi": [
+      "Gửi cho tớ một tấm ảnh nhé.",
+      "Bà gửi cho tớ một tấm bưu thiếp.",
+      "Cậu gửi email chưa?"
+     ]
+    },
+    {
+     "v1": "spend",
+     "v2": "spent",
+     "v3": "spent",
+     "ipa": [
+      "/spend/",
+      "/spent/",
+      "/spent/"
+     ],
+     "meaning": "tiêu (tiền), dành (thời gian)",
+     "icon": "💸",
+     "examples": [
+      "I spend an hour on homework every day.",
+      "We spent the summer at the beach.",
+      "I have spent all my pocket money."
+     ],
+     "examples_vi": [
+      "Mỗi ngày tớ dành một tiếng làm bài tập.",
+      "Chúng tớ đã nghỉ hè ở bãi biển.",
+      "Tớ tiêu hết tiền tiêu vặt rồi."
+     ]
+    },
+    {
+     "v1": "lend",
+     "v2": "lent",
+     "v3": "lent",
+     "ipa": [
+      "/lend/",
+      "/lent/",
+      "/lent/"
+     ],
+     "meaning": "cho mượn",
+     "icon": "🤲",
+     "examples": [
+      "Can you lend me your eraser?",
+      "Minh lent me his comic book.",
+      "I have lent my bike to Nam."
+     ],
+     "examples_vi": [
+      "Cậu cho tớ mượn tẩy được không?",
+      "Minh cho tớ mượn truyện tranh.",
+      "Tớ đã cho Nam mượn xe đạp."
+     ]
+    },
+    {
+     "v1": "build",
+     "v2": "built",
+     "v3": "built",
+     "ipa": [
+      "/bɪld/",
+      "/bɪlt/",
+      "/bɪlt/"
+     ],
+     "meaning": "xây",
+     "icon": "🏗️",
+     "examples": [
+      "Birds build nests in spring.",
+      "We built a sandcastle on the beach.",
+      "They have built a new school."
+     ],
+     "examples_vi": [
+      "Chim làm tổ vào mùa xuân.",
+      "Chúng tớ xây lâu đài cát trên bãi biển.",
+      "Họ đã xây một ngôi trường mới."
+     ]
+    },
+    {
+     "v1": "bend",
+     "v2": "bent",
+     "v3": "bent",
+     "ipa": [
+      "/bend/",
+      "/bent/",
+      "/bent/"
+     ],
+     "meaning": "uốn cong, cúi xuống",
+     "icon": "🙇",
+     "examples": [
+      "Bend your knees.",
+      "He bent down to tie his shoes.",
+      "Someone has bent my ruler!"
+     ],
+     "examples_vi": [
+      "Hãy co đầu gối lại.",
+      "Cậu ấy cúi xuống buộc dây giày.",
+      "Ai đã làm cong thước của tớ!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 7: Đuôi -old / -aid / -ade",
+   "level": 1,
+   "icon": "🗝️",
+   "note": "V2 = V3. tell, sell → told, sold. say, pay, lay → said, paid, laid. make → made, have → had, hear → heard.",
+   "verbs": [
+    {
+     "v1": "tell",
+     "v2": "told",
+     "v3": "told",
+     "ipa": [
+      "/tel/",
+      "/təʊld/",
+      "/təʊld/"
+     ],
+     "meaning": "kể, bảo",
+     "icon": "🗣️",
+     "examples": [
+      "Tell me a story, please.",
+      "Grandma told us a funny story.",
+      "I have told you three times!"
+     ],
+     "examples_vi": [
+      "Kể cho tớ một câu chuyện đi.",
+      "Bà kể cho chúng tớ một câu chuyện vui.",
+      "Tớ đã bảo cậu ba lần rồi!"
+     ]
+    },
+    {
+     "v1": "sell",
+     "v2": "sold",
+     "v3": "sold",
+     "ipa": [
+      "/sel/",
+      "/səʊld/",
+      "/səʊld/"
+     ],
+     "meaning": "bán",
+     "icon": "🏪",
+     "examples": [
+      "They sell fruit at the market.",
+      "We sold our old car last month.",
+      "The shop has sold all the ice cream."
+     ],
+     "examples_vi": [
+      "Họ bán hoa quả ở chợ.",
+      "Tháng trước nhà tớ bán chiếc ô tô cũ.",
+      "Cửa hàng đã bán hết kem."
+     ]
+    },
+    {
+     "v1": "hold",
+     "v2": "held",
+     "v3": "held",
+     "ipa": [
+      "/həʊld/",
+      "/held/",
+      "/held/"
+     ],
+     "meaning": "cầm, nắm; tổ chức",
+     "icon": "✊",
+     "examples": [
+      "Hold my hand when we cross the road.",
+      "The school held a sports day last week.",
+      "She has held the baby for an hour."
+     ],
+     "examples_vi": [
+      "Nắm tay tớ khi qua đường nhé.",
+      "Tuần trước trường tổ chức ngày hội thể thao.",
+      "Cô ấy đã bế em bé một tiếng rồi."
+     ]
+    },
+    {
+     "v1": "say",
+     "v2": "said",
+     "v3": "said",
+     "ipa": [
+      "/seɪ/",
+      "/sed/",
+      "/sed/"
+     ],
+     "meaning": "nói",
+     "icon": "💭",
+     "note": "said đọc là /sed/, không phải /seɪd/.",
+     "examples": [
+      "What did you say?",
+      "She said hello to me.",
+      "Have you said thank you?"
+     ],
+     "examples_vi": [
+      "Cậu vừa nói gì?",
+      "Cô ấy chào tớ.",
+      "Con đã nói cảm ơn chưa?"
+     ]
+    },
+    {
+     "v1": "pay",
+     "v2": "paid",
+     "v3": "paid",
+     "ipa": [
+      "/peɪ/",
+      "/peɪd/",
+      "/peɪd/"
+     ],
+     "meaning": "trả tiền",
+     "icon": "💳",
+     "examples": [
+      "I will pay for the drinks.",
+      "Dad paid for our tickets.",
+      "Have you paid for that book?"
+     ],
+     "examples_vi": [
+      "Tớ sẽ trả tiền nước.",
+      "Bố trả tiền vé cho chúng tớ.",
+      "Cậu trả tiền cuốn sách đó chưa?"
+     ]
+    },
+    {
+     "v1": "lay",
+     "v2": "laid",
+     "v3": "laid",
+     "ipa": [
+      "/leɪ/",
+      "/leɪd/",
+      "/leɪd/"
+     ],
+     "meaning": "đặt nằm xuống; đẻ (trứng)",
+     "icon": "🥚",
+     "examples": [
+      "Hens lay eggs.",
+      "She laid the baby on the bed.",
+      "Our hen has laid five eggs this week."
+     ],
+     "examples_vi": [
+      "Gà mái đẻ trứng.",
+      "Cô ấy đặt em bé nằm xuống giường.",
+      "Tuần này gà nhà tớ đã đẻ năm quả trứng."
+     ]
+    },
+    {
+     "v1": "make",
+     "v2": "made",
+     "v3": "made",
+     "ipa": [
+      "/meɪk/",
+      "/meɪd/",
+      "/meɪd/"
+     ],
+     "meaning": "làm, chế tạo",
+     "icon": "🧁",
+     "examples": [
+      "Let's make a cake!",
+      "I made a card for Mum.",
+      "We have made a paper boat."
+     ],
+     "examples_vi": [
+      "Cùng làm bánh nào!",
+      "Tớ làm một tấm thiệp tặng mẹ.",
+      "Chúng tớ đã gấp được một chiếc thuyền giấy."
+     ]
+    },
+    {
+     "v1": "have",
+     "v2": "had",
+     "v3": "had",
+     "ipa": [
+      "/hæv/",
+      "/hæd/",
+      "/hæd/"
+     ],
+     "meaning": "có; ăn, uống",
+     "icon": "🍱",
+     "examples": [
+      "I have a little sister.",
+      "We had pizza for dinner.",
+      "I have had this teddy bear since I was three."
+     ],
+     "examples_vi": [
+      "Tớ có một em gái.",
+      "Bữa tối chúng tớ ăn pizza.",
+      "Tớ có chú gấu bông này từ hồi ba tuổi."
+     ]
+    },
+    {
+     "v1": "hear",
+     "v2": "heard",
+     "v3": "heard",
+     "ipa": [
+      "/hɪə/",
+      "/hɜːd/",
+      "/hɜːd/"
+     ],
+     "meaning": "nghe thấy",
+     "icon": "👂",
+     "note": "heard đọc là /hɜːd/.",
+     "examples": [
+      "Can you hear the birds?",
+      "I heard a strange noise last night.",
+      "Have you heard the news?"
+     ],
+     "examples_vi": [
+      "Cậu có nghe thấy tiếng chim không?",
+      "Tối qua tớ nghe thấy một tiếng động lạ.",
+      "Cậu nghe tin chưa?"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 8: Nguyên âm đổi thành u",
+   "level": 1,
+   "icon": "🌀",
+   "note": "V2 = V3, nguyên âm đổi thành u /ʌ/: stick → stuck, swing → swung, dig → dug. win → won cũng đọc /wʌn/.",
+   "verbs": [
+    {
+     "v1": "stick",
+     "v2": "stuck",
+     "v3": "stuck",
+     "ipa": [
+      "/stɪk/",
+      "/stʌk/",
+      "/stʌk/"
+     ],
+     "meaning": "dán; mắc kẹt",
+     "icon": "🩹",
+     "examples": [
+      "Stick the stamp on the envelope.",
+      "I stuck a sticker on my notebook.",
+      "Someone has stuck gum under the desk!"
+     ],
+     "examples_vi": [
+      "Dán tem lên phong bì.",
+      "Tớ dán một hình dán lên vở.",
+      "Ai đã dính kẹo cao su dưới bàn thế!"
+     ]
+    },
+    {
+     "v1": "swing",
+     "v2": "swung",
+     "v3": "swung",
+     "ipa": [
+      "/swɪŋ/",
+      "/swʌŋ/",
+      "/swʌŋ/"
+     ],
+     "meaning": "đu, đung đưa",
+     "icon": "🐒",
+     "examples": [
+      "Monkeys swing from tree to tree.",
+      "The children swung on the swings.",
+      "The door has swung open."
+     ],
+     "examples_vi": [
+      "Khỉ đu từ cây này sang cây khác.",
+      "Lũ trẻ chơi xích đu.",
+      "Cánh cửa đã bật mở."
+     ]
+    },
+    {
+     "v1": "spin",
+     "v2": "spun",
+     "v3": "spun",
+     "ipa": [
+      "/spɪn/",
+      "/spʌn/",
+      "/spʌn/"
+     ],
+     "meaning": "quay tròn; giăng (tơ)",
+     "icon": "🕸️",
+     "examples": [
+      "Watch the top spin!",
+      "The dancer spun around.",
+      "The spider has spun a web."
+     ],
+     "examples_vi": [
+      "Xem con quay quay này!",
+      "Cô vũ công xoay một vòng.",
+      "Con nhện đã giăng tơ."
+     ]
+    },
+    {
+     "v1": "hang",
+     "v2": "hung",
+     "v3": "hung",
+     "ipa": [
+      "/hæŋ/",
+      "/hʌŋ/",
+      "/hʌŋ/"
+     ],
+     "meaning": "treo",
+     "icon": "🏮",
+     "examples": [
+      "Hang your coat on the hook.",
+      "We hung lanterns for the Mid-Autumn Festival.",
+      "Mum has hung the washing outside."
+     ],
+     "examples_vi": [
+      "Treo áo khoác lên móc nhé.",
+      "Chúng tớ treo đèn lồng đón Trung thu.",
+      "Mẹ đã phơi quần áo ngoài sân."
+     ]
+    },
+    {
+     "v1": "sting",
+     "v2": "stung",
+     "v3": "stung",
+     "ipa": [
+      "/stɪŋ/",
+      "/stʌŋ/",
+      "/stʌŋ/"
+     ],
+     "meaning": "(ong) đốt, chích",
+     "icon": "🐝",
+     "examples": [
+      "Bees sting when they are scared.",
+      "A bee stung me on the arm.",
+      "Have you ever been stung by a jellyfish?"
+     ],
+     "examples_vi": [
+      "Ong đốt khi chúng sợ hãi.",
+      "Một con ong đốt vào tay tớ.",
+      "Cậu đã bao giờ bị sứa đốt chưa?"
+     ]
+    },
+    {
+     "v1": "dig",
+     "v2": "dug",
+     "v3": "dug",
+     "ipa": [
+      "/dɪɡ/",
+      "/dʌɡ/",
+      "/dʌɡ/"
+     ],
+     "meaning": "đào",
+     "icon": "🕳️",
+     "examples": [
+      "Dogs love to dig holes.",
+      "We dug a hole to plant a tree.",
+      "The workers have dug a deep well."
+     ],
+     "examples_vi": [
+      "Chó rất thích đào hố.",
+      "Chúng tớ đào một cái hố để trồng cây.",
+      "Các chú công nhân đã đào một cái giếng sâu."
+     ]
+    },
+    {
+     "v1": "win",
+     "v2": "won",
+     "v3": "won",
+     "ipa": [
+      "/wɪn/",
+      "/wʌn/",
+      "/wʌn/"
+     ],
+     "meaning": "thắng",
+     "icon": "🏆",
+     "note": "won đọc là /wʌn/ (giống one).",
+     "examples": [
+      "I hope our team will win.",
+      "She won first prize in the drawing contest.",
+      "Vietnam has won the match!"
+     ],
+     "examples_vi": [
+      "Tớ mong đội mình sẽ thắng.",
+      "Cô ấy đạt giải nhất cuộc thi vẽ.",
+      "Việt Nam đã thắng trận!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 9: V2 = V3 – mỗi từ một kiểu",
+   "level": 1,
+   "icon": "🔀",
+   "note": "V2 = V3 nhưng mỗi từ đổi một kiểu: find → found, stand → stood, sit → sat, get → got, slide → slid.",
+   "verbs": [
+    {
+     "v1": "find",
+     "v2": "found",
+     "v3": "found",
+     "ipa": [
+      "/faɪnd/",
+      "/faʊnd/",
+      "/faʊnd/"
+     ],
+     "meaning": "tìm thấy",
+     "icon": "🔎",
+     "examples": [
+      "I can't find my socks.",
+      "I found a coin under the sofa.",
+      "Have you found your cat?"
+     ],
+     "examples_vi": [
+      "Tớ không tìm thấy tất đâu cả.",
+      "Tớ tìm thấy một đồng xu dưới ghế sofa.",
+      "Cậu tìm thấy mèo chưa?"
+     ]
+    },
+    {
+     "v1": "stand",
+     "v2": "stood",
+     "v3": "stood",
+     "ipa": [
+      "/stænd/",
+      "/stʊd/",
+      "/stʊd/"
+     ],
+     "meaning": "đứng",
+     "icon": "🧍",
+     "examples": [
+      "Please stand in line.",
+      "We stood in the rain for an hour.",
+      "He has stood there all morning."
+     ],
+     "examples_vi": [
+      "Hãy xếp hàng nhé.",
+      "Chúng tớ đứng dưới mưa một tiếng.",
+      "Cậu ấy đứng đó cả buổi sáng."
+     ]
+    },
+    {
+     "v1": "understand",
+     "v2": "understood",
+     "v3": "understood",
+     "ipa": [
+      "/ˌʌndəˈstænd/",
+      "/ˌʌndəˈstʊd/",
+      "/ˌʌndəˈstʊd/"
+     ],
+     "meaning": "hiểu",
+     "icon": "💡",
+     "note": "Chia giống stand.",
+     "examples": [
+      "I don't understand this question.",
+      "I understood the lesson very well.",
+      "Have you understood the rules?"
+     ],
+     "examples_vi": [
+      "Tớ không hiểu câu hỏi này.",
+      "Tớ hiểu bài rất rõ.",
+      "Cậu hiểu luật chơi chưa?"
+     ]
+    },
+    {
+     "v1": "sit",
+     "v2": "sat",
+     "v3": "sat",
+     "ipa": [
+      "/sɪt/",
+      "/sæt/",
+      "/sæt/"
+     ],
+     "meaning": "ngồi",
+     "icon": "🪑",
+     "examples": [
+      "Sit down, please.",
+      "I sat next to Lan in class.",
+      "I have sat here for an hour."
+     ],
+     "examples_vi": [
+      "Mời ngồi.",
+      "Tớ ngồi cạnh Lan trong lớp.",
+      "Tớ ngồi đây một tiếng rồi."
+     ]
+    },
+    {
+     "v1": "get",
+     "v2": "got",
+     "v3": "got",
+     "ipa": [
+      "/ɡet/",
+      "/ɡɒt/",
+      "/ɡɒt/"
+     ],
+     "meaning": "nhận được; trở nên",
+     "icon": "📬",
+     "note": "Tiếng Anh–Mỹ dùng V3 là gotten.",
+     "examples": [
+      "I get up at six o'clock.",
+      "I got a lot of presents on my birthday.",
+      "The weather has got colder."
+     ],
+     "examples_vi": [
+      "Tớ dậy lúc sáu giờ.",
+      "Sinh nhật tớ nhận được rất nhiều quà.",
+      "Thời tiết đã lạnh hơn."
+     ]
+    },
+    {
+     "v1": "shoot",
+     "v2": "shot",
+     "v3": "shot",
+     "ipa": [
+      "/ʃuːt/",
+      "/ʃɒt/",
+      "/ʃɒt/"
+     ],
+     "meaning": "bắn; sút bóng",
+     "icon": "⚽",
+     "examples": [
+      "Shoot the ball into the goal!",
+      "He shot the ball and scored.",
+      "She has shot three arrows at the target."
+     ],
+     "examples_vi": [
+      "Sút bóng vào khung thành đi!",
+      "Cậu ấy sút bóng và ghi bàn.",
+      "Cô ấy đã bắn ba mũi tên vào bia."
+     ]
+    },
+    {
+     "v1": "shine",
+     "v2": "shone",
+     "v3": "shone",
+     "ipa": [
+      "/ʃaɪn/",
+      "/ʃɒn/",
+      "/ʃɒn/"
+     ],
+     "meaning": "chiếu sáng",
+     "icon": "☀️",
+     "examples": [
+      "The stars shine at night.",
+      "The sun shone all day yesterday.",
+      "The moon has shone brightly all night."
+     ],
+     "examples_vi": [
+      "Các vì sao tỏa sáng vào ban đêm.",
+      "Hôm qua mặt trời chiếu sáng cả ngày.",
+      "Mặt trăng đã sáng rực suốt đêm."
+     ]
+    },
+    {
+     "v1": "slide",
+     "v2": "slid",
+     "v3": "slid",
+     "ipa": [
+      "/slaɪd/",
+      "/slɪd/",
+      "/slɪd/"
+     ],
+     "meaning": "trượt",
+     "icon": "🛝",
+     "examples": [
+      "Let's slide down the slide!",
+      "The book slid off the table.",
+      "The penguin has slid into the water."
+     ],
+     "examples_vi": [
+      "Cùng trượt cầu trượt nào!",
+      "Cuốn sách trượt khỏi bàn.",
+      "Chú chim cánh cụt đã trượt xuống nước."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 10: V3 giống V1 & nhóm i – a – u",
+   "level": 1,
+   "icon": "🎵",
+   "note": "come, become, run: V3 giống V1 (come – came – come). sing, drink, swim, begin, ring, sink: nguyên âm đổi i → a → u.",
+   "verbs": [
+    {
+     "v1": "come",
+     "v2": "came",
+     "v3": "come",
+     "ipa": [
+      "/kʌm/",
+      "/keɪm/",
+      "/kʌm/"
+     ],
+     "meaning": "đến",
+     "icon": "🏠",
+     "examples": [
+      "Come here, please!",
+      "My cousin came to visit us last week.",
+      "Spring has come!"
+     ],
+     "examples_vi": [
+      "Lại đây nào!",
+      "Tuần trước em họ tớ đến chơi.",
+      "Mùa xuân đã đến!"
+     ]
+    },
+    {
+     "v1": "become",
+     "v2": "became",
+     "v3": "become",
+     "ipa": [
+      "/bɪˈkʌm/",
+      "/bɪˈkeɪm/",
+      "/bɪˈkʌm/"
+     ],
+     "meaning": "trở thành",
+     "icon": "🦋",
+     "note": "Chia giống come.",
+     "examples": [
+      "I want to become a pilot.",
+      "The caterpillar became a butterfly.",
+      "She has become a famous singer."
+     ],
+     "examples_vi": [
+      "Tớ muốn trở thành phi công.",
+      "Con sâu đã trở thành con bướm.",
+      "Cô ấy đã trở thành ca sĩ nổi tiếng."
+     ]
+    },
+    {
+     "v1": "run",
+     "v2": "ran",
+     "v3": "run",
+     "ipa": [
+      "/rʌn/",
+      "/ræn/",
+      "/rʌn/"
+     ],
+     "meaning": "chạy",
+     "icon": "🏃",
+     "examples": [
+      "I run in the park every morning.",
+      "The dog ran after the ball.",
+      "I have never run so fast!"
+     ],
+     "examples_vi": [
+      "Sáng nào tớ cũng chạy trong công viên.",
+      "Chú chó chạy theo quả bóng.",
+      "Tớ chưa bao giờ chạy nhanh như thế!"
+     ]
+    },
+    {
+     "v1": "sing",
+     "v2": "sang",
+     "v3": "sung",
+     "ipa": [
+      "/sɪŋ/",
+      "/sæŋ/",
+      "/sʌŋ/"
+     ],
+     "meaning": "hát",
+     "icon": "🎤",
+     "examples": [
+      "Let's sing a song!",
+      "We sang Happy Birthday to Mai.",
+      "Have you ever sung on stage?"
+     ],
+     "examples_vi": [
+      "Cùng hát một bài nào!",
+      "Chúng tớ hát mừng sinh nhật Mai.",
+      "Cậu đã bao giờ hát trên sân khấu chưa?"
+     ]
+    },
+    {
+     "v1": "drink",
+     "v2": "drank",
+     "v3": "drunk",
+     "ipa": [
+      "/drɪŋk/",
+      "/dræŋk/",
+      "/drʌŋk/"
+     ],
+     "meaning": "uống",
+     "icon": "🥤",
+     "examples": [
+      "Drink some water, please.",
+      "I drank a glass of milk this morning.",
+      "Have you drunk your milk?"
+     ],
+     "examples_vi": [
+      "Uống chút nước đi.",
+      "Sáng nay tớ uống một cốc sữa.",
+      "Con uống sữa chưa?"
+     ]
+    },
+    {
+     "v1": "swim",
+     "v2": "swam",
+     "v3": "swum",
+     "ipa": [
+      "/swɪm/",
+      "/swæm/",
+      "/swʌm/"
+     ],
+     "meaning": "bơi",
+     "icon": "🏊",
+     "examples": [
+      "Fish swim in the sea.",
+      "I swam in the sea last summer.",
+      "I have never swum in a river."
+     ],
+     "examples_vi": [
+      "Cá bơi dưới biển.",
+      "Hè năm ngoái tớ bơi ở biển.",
+      "Tớ chưa bao giờ bơi ở sông."
+     ]
+    },
+    {
+     "v1": "begin",
+     "v2": "began",
+     "v3": "begun",
+     "ipa": [
+      "/bɪˈɡɪn/",
+      "/bɪˈɡæn/",
+      "/bɪˈɡʌn/"
+     ],
+     "meaning": "bắt đầu",
+     "icon": "🏁",
+     "examples": [
+      "The lesson will begin at eight.",
+      "It began to rain after lunch.",
+      "The film has already begun."
+     ],
+     "examples_vi": [
+      "Buổi học sẽ bắt đầu lúc tám giờ.",
+      "Trời bắt đầu mưa sau bữa trưa.",
+      "Bộ phim đã bắt đầu rồi."
+     ]
+    },
+    {
+     "v1": "ring",
+     "v2": "rang",
+     "v3": "rung",
+     "ipa": [
+      "/rɪŋ/",
+      "/ræŋ/",
+      "/rʌŋ/"
+     ],
+     "meaning": "reo, rung chuông",
+     "icon": "🔔",
+     "examples": [
+      "Ring the bell, please.",
+      "The phone rang twice.",
+      "Has the school bell rung yet?"
+     ],
+     "examples_vi": [
+      "Hãy rung chuông nhé.",
+      "Điện thoại reo hai lần.",
+      "Chuông trường reo chưa?"
+     ]
+    },
+    {
+     "v1": "sink",
+     "v2": "sank",
+     "v3": "sunk",
+     "ipa": [
+      "/sɪŋk/",
+      "/sæŋk/",
+      "/sʌŋk/"
+     ],
+     "meaning": "chìm",
+     "icon": "🚢",
+     "examples": [
+      "Stones sink in water.",
+      "The Titanic sank in 1912.",
+      "The paper boat has sunk."
+     ],
+     "examples_vi": [
+      "Đá chìm trong nước.",
+      "Tàu Titanic chìm năm 1912.",
+      "Chiếc thuyền giấy đã chìm."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 11: Nhóm -ow / -ew / -own",
+   "level": 1,
+   "icon": "🌬️",
+   "note": "V2 tận cùng -ew /uː/, V3 tận cùng -own hoặc -awn: grow – grew – grown, draw – drew – drawn. Riêng show: V2 có quy tắc (showed).",
+   "verbs": [
+    {
+     "v1": "grow",
+     "v2": "grew",
+     "v3": "grown",
+     "ipa": [
+      "/ɡrəʊ/",
+      "/ɡruː/",
+      "/ɡrəʊn/"
+     ],
+     "meaning": "lớn lên; trồng",
+     "icon": "🌱",
+     "examples": [
+      "Plants need water to grow.",
+      "We grew tomatoes in the garden.",
+      "Wow, you have grown so tall!"
+     ],
+     "examples_vi": [
+      "Cây cần nước để lớn.",
+      "Chúng tớ trồng cà chua trong vườn.",
+      "Ồ, cháu lớn cao quá!"
+     ]
+    },
+    {
+     "v1": "know",
+     "v2": "knew",
+     "v3": "known",
+     "ipa": [
+      "/nəʊ/",
+      "/njuː/",
+      "/nəʊn/"
+     ],
+     "meaning": "biết",
+     "icon": "🧠",
+     "note": "Chữ k đứng đầu không đọc.",
+     "examples": [
+      "I know the answer!",
+      "I knew you would come.",
+      "I have known Lan since we were five."
+     ],
+     "examples_vi": [
+      "Tớ biết đáp án!",
+      "Tớ biết cậu sẽ đến mà.",
+      "Tớ quen Lan từ hồi năm tuổi."
+     ]
+    },
+    {
+     "v1": "throw",
+     "v2": "threw",
+     "v3": "thrown",
+     "ipa": [
+      "/θrəʊ/",
+      "/θruː/",
+      "/θrəʊn/"
+     ],
+     "meaning": "ném",
+     "icon": "🥏",
+     "examples": [
+      "Throw the ball to me!",
+      "He threw the paper into the bin.",
+      "Someone has thrown a stone at the window."
+     ],
+     "examples_vi": [
+      "Ném bóng cho tớ!",
+      "Cậu ấy ném giấy vào thùng rác.",
+      "Ai đó đã ném đá vào cửa sổ."
+     ]
+    },
+    {
+     "v1": "blow",
+     "v2": "blew",
+     "v3": "blown",
+     "ipa": [
+      "/bləʊ/",
+      "/bluː/",
+      "/bləʊn/"
+     ],
+     "meaning": "thổi",
+     "icon": "🎂",
+     "examples": [
+      "Blow out the candles!",
+      "The wind blew my hat away.",
+      "The storm has blown down a big tree."
+     ],
+     "examples_vi": [
+      "Thổi nến đi!",
+      "Gió thổi bay mũ của tớ.",
+      "Cơn bão đã quật đổ một cây to."
+     ]
+    },
+    {
+     "v1": "fly",
+     "v2": "flew",
+     "v3": "flown",
+     "ipa": [
+      "/flaɪ/",
+      "/fluː/",
+      "/fləʊn/"
+     ],
+     "meaning": "bay",
+     "icon": "✈️",
+     "examples": [
+      "Birds fly south in winter.",
+      "We flew to Da Nang last summer.",
+      "Have you ever flown in a plane?"
+     ],
+     "examples_vi": [
+      "Chim bay về phương nam vào mùa đông.",
+      "Hè năm ngoái nhà tớ bay vào Đà Nẵng.",
+      "Cậu đã bao giờ đi máy bay chưa?"
+     ]
+    },
+    {
+     "v1": "draw",
+     "v2": "drew",
+     "v3": "drawn",
+     "ipa": [
+      "/drɔː/",
+      "/druː/",
+      "/drɔːn/"
+     ],
+     "meaning": "vẽ",
+     "icon": "🖍️",
+     "examples": [
+      "Can you draw a cat?",
+      "I drew a picture of my family.",
+      "She has drawn a beautiful flower."
+     ],
+     "examples_vi": [
+      "Cậu vẽ được con mèo không?",
+      "Tớ vẽ một bức tranh về gia đình.",
+      "Cô ấy đã vẽ một bông hoa rất đẹp."
+     ]
+    },
+    {
+     "v1": "show",
+     "v2": "showed",
+     "v3": "shown",
+     "ipa": [
+      "/ʃəʊ/",
+      "/ʃəʊd/",
+      "/ʃəʊn/"
+     ],
+     "meaning": "cho xem, chỉ",
+     "icon": "👉",
+     "note": "V2 có quy tắc (showed), chỉ V3 bất quy tắc (shown).",
+     "examples": [
+      "Show me your new toy!",
+      "She showed me her photos.",
+      "Has he shown you the way?"
+     ],
+     "examples_vi": [
+      "Cho tớ xem đồ chơi mới của cậu!",
+      "Cô ấy cho tớ xem ảnh của cô ấy.",
+      "Cậu ấy chỉ đường cho cậu chưa?"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 12: V2 có o, V3 thêm -en",
+   "level": 1,
+   "icon": "🅾️",
+   "note": "V2 có nguyên âm o, V3 thêm -en: speak – spoke – spoken, forget – forgot – forgotten. wear, tear: V2 tận cùng -ore, V3 tận cùng -orn.",
+   "verbs": [
+    {
+     "v1": "speak",
+     "v2": "spoke",
+     "v3": "spoken",
+     "ipa": [
+      "/spiːk/",
+      "/spəʊk/",
+      "/ˈspəʊkən/"
+     ],
+     "meaning": "nói",
+     "icon": "🗨️",
+     "examples": [
+      "Can you speak English?",
+      "The teacher spoke to my mum.",
+      "I have spoken to him on the phone."
+     ],
+     "examples_vi": [
+      "Cậu nói được tiếng Anh không?",
+      "Cô giáo đã nói chuyện với mẹ tớ.",
+      "Tớ đã nói chuyện điện thoại với cậu ấy."
+     ]
+    },
+    {
+     "v1": "break",
+     "v2": "broke",
+     "v3": "broken",
+     "ipa": [
+      "/breɪk/",
+      "/brəʊk/",
+      "/ˈbrəʊkən/"
+     ],
+     "meaning": "làm vỡ, làm gãy",
+     "icon": "💔",
+     "examples": [
+      "Be careful, don't break the glass!",
+      "I broke my mum's favourite cup.",
+      "Who has broken the window?"
+     ],
+     "examples_vi": [
+      "Cẩn thận, đừng làm vỡ cốc!",
+      "Tớ làm vỡ chiếc cốc mẹ thích nhất.",
+      "Ai làm vỡ cửa sổ thế?"
+     ]
+    },
+    {
+     "v1": "choose",
+     "v2": "chose",
+     "v3": "chosen",
+     "ipa": [
+      "/tʃuːz/",
+      "/tʃəʊz/",
+      "/ˈtʃəʊzn/"
+     ],
+     "meaning": "chọn",
+     "icon": "👆",
+     "examples": [
+      "Choose one card.",
+      "I chose the red balloon.",
+      "Have you chosen a book?"
+     ],
+     "examples_vi": [
+      "Chọn một lá bài đi.",
+      "Tớ chọn quả bóng bay màu đỏ.",
+      "Cậu chọn được sách chưa?"
+     ]
+    },
+    {
+     "v1": "wake",
+     "v2": "woke",
+     "v3": "woken",
+     "ipa": [
+      "/weɪk/",
+      "/wəʊk/",
+      "/ˈwəʊkən/"
+     ],
+     "meaning": "thức dậy, đánh thức",
+     "icon": "⏰",
+     "examples": [
+      "Wake up! It's seven o'clock.",
+      "I woke up early this morning.",
+      "The noise has woken the baby."
+     ],
+     "examples_vi": [
+      "Dậy đi! Bảy giờ rồi.",
+      "Sáng nay tớ dậy sớm.",
+      "Tiếng ồn đã đánh thức em bé."
+     ]
+    },
+    {
+     "v1": "steal",
+     "v2": "stole",
+     "v3": "stolen",
+     "ipa": [
+      "/stiːl/",
+      "/stəʊl/",
+      "/ˈstəʊlən/"
+     ],
+     "meaning": "lấy trộm",
+     "icon": "🦹",
+     "examples": [
+      "It is wrong to steal.",
+      "A monkey stole my banana!",
+      "Someone has stolen my bike."
+     ],
+     "examples_vi": [
+      "Ăn trộm là sai.",
+      "Một con khỉ lấy trộm quả chuối của tớ!",
+      "Ai đó đã lấy trộm xe đạp của tớ."
+     ]
+    },
+    {
+     "v1": "freeze",
+     "v2": "froze",
+     "v3": "frozen",
+     "ipa": [
+      "/friːz/",
+      "/frəʊz/",
+      "/ˈfrəʊzn/"
+     ],
+     "meaning": "đóng băng",
+     "icon": "❄️",
+     "examples": [
+      "Water will freeze at zero degrees.",
+      "The lake froze last winter.",
+      "The ice cream has frozen."
+     ],
+     "examples_vi": [
+      "Nước sẽ đóng băng ở không độ.",
+      "Mùa đông năm ngoái mặt hồ đóng băng.",
+      "Kem đã đông lại rồi."
+     ]
+    },
+    {
+     "v1": "forget",
+     "v2": "forgot",
+     "v3": "forgotten",
+     "ipa": [
+      "/fəˈɡet/",
+      "/fəˈɡɒt/",
+      "/fəˈɡɒtn/"
+     ],
+     "meaning": "quên",
+     "icon": "🤦",
+     "examples": [
+      "Don't forget your homework!",
+      "I forgot my umbrella yesterday.",
+      "I have forgotten her name."
+     ],
+     "examples_vi": [
+      "Đừng quên bài tập nhé!",
+      "Hôm qua tớ quên ô.",
+      "Tớ quên tên cô ấy rồi."
+     ]
+    },
+    {
+     "v1": "wear",
+     "v2": "wore",
+     "v3": "worn",
+     "ipa": [
+      "/weə/",
+      "/wɔː/",
+      "/wɔːn/"
+     ],
+     "meaning": "mặc, đội, đeo",
+     "icon": "👕",
+     "examples": [
+      "I wear a uniform to school.",
+      "She wore a pink dress to the party.",
+      "I have never worn glasses."
+     ],
+     "examples_vi": [
+      "Tớ mặc đồng phục đi học.",
+      "Cô ấy mặc váy hồng đến bữa tiệc.",
+      "Tớ chưa bao giờ đeo kính."
+     ]
+    },
+    {
+     "v1": "tear",
+     "v2": "tore",
+     "v3": "torn",
+     "ipa": [
+      "/teə/",
+      "/tɔː/",
+      "/tɔːn/"
+     ],
+     "meaning": "xé, làm rách",
+     "icon": "📄",
+     "examples": [
+      "Don't tear the page!",
+      "My little brother tore my drawing.",
+      "Oh no, I have torn my jeans."
+     ],
+     "examples_vi": [
+      "Đừng xé trang sách!",
+      "Em trai tớ xé bức tranh của tớ.",
+      "Ôi không, tớ làm rách quần bò rồi."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 13: Nhóm i – o – i…en",
+   "level": 1,
+   "icon": "🚲",
+   "note": "V1 có i + e câm, V2 đổi i thành o, V3 thêm -en (thường gấp đôi phụ âm): ride – rode – ridden, write – wrote – written. Riêng hide, bite: V2 là hid, bit.",
+   "verbs": [
+    {
+     "v1": "ride",
+     "v2": "rode",
+     "v3": "ridden",
+     "ipa": [
+      "/raɪd/",
+      "/rəʊd/",
+      "/ˈrɪdn/"
+     ],
+     "meaning": "đạp (xe), cưỡi",
+     "icon": "🚲",
+     "examples": [
+      "I ride my bike to school.",
+      "We rode horses at the farm.",
+      "Have you ever ridden an elephant?"
+     ],
+     "examples_vi": [
+      "Tớ đạp xe đi học.",
+      "Chúng tớ cưỡi ngựa ở trang trại.",
+      "Cậu đã bao giờ cưỡi voi chưa?"
+     ]
+    },
+    {
+     "v1": "write",
+     "v2": "wrote",
+     "v3": "written",
+     "ipa": [
+      "/raɪt/",
+      "/rəʊt/",
+      "/ˈrɪtn/"
+     ],
+     "meaning": "viết",
+     "icon": "✏️",
+     "note": "Chữ w đứng đầu không đọc.",
+     "examples": [
+      "Write your name here.",
+      "I wrote a letter to Grandma.",
+      "She has written three stories."
+     ],
+     "examples_vi": [
+      "Viết tên con vào đây.",
+      "Tớ viết thư cho bà.",
+      "Cô ấy đã viết ba câu chuyện."
+     ]
+    },
+    {
+     "v1": "drive",
+     "v2": "drove",
+     "v3": "driven",
+     "ipa": [
+      "/draɪv/",
+      "/drəʊv/",
+      "/ˈdrɪvn/"
+     ],
+     "meaning": "lái xe",
+     "icon": "🚗",
+     "examples": [
+      "Can your mum drive a car?",
+      "Dad drove us to the beach.",
+      "He has driven a taxi for twenty years."
+     ],
+     "examples_vi": [
+      "Mẹ cậu có lái ô tô được không?",
+      "Bố lái xe chở chúng tớ ra biển.",
+      "Chú ấy đã lái taxi hai mươi năm."
+     ]
+    },
+    {
+     "v1": "rise",
+     "v2": "rose",
+     "v3": "risen",
+     "ipa": [
+      "/raɪz/",
+      "/rəʊz/",
+      "/ˈrɪzn/"
+     ],
+     "meaning": "mọc lên, dâng lên",
+     "icon": "🌄",
+     "examples": [
+      "The sun will rise at six.",
+      "The sun rose over the mountains.",
+      "The river has risen after the rain."
+     ],
+     "examples_vi": [
+      "Mặt trời sẽ mọc lúc sáu giờ.",
+      "Mặt trời mọc trên những ngọn núi.",
+      "Nước sông đã dâng lên sau cơn mưa."
+     ]
+    },
+    {
+     "v1": "hide",
+     "v2": "hid",
+     "v3": "hidden",
+     "ipa": [
+      "/haɪd/",
+      "/hɪd/",
+      "/ˈhɪdn/"
+     ],
+     "meaning": "trốn, giấu",
+     "icon": "🙈",
+     "note": "V2 là hid (không phải hode).",
+     "examples": [
+      "Let's hide behind the tree!",
+      "The cat hid under the bed.",
+      "I have hidden the present in my room."
+     ],
+     "examples_vi": [
+      "Trốn sau cái cây đi!",
+      "Con mèo trốn dưới gầm giường.",
+      "Tớ đã giấu món quà trong phòng."
+     ]
+    },
+    {
+     "v1": "bite",
+     "v2": "bit",
+     "v3": "bitten",
+     "ipa": [
+      "/baɪt/",
+      "/bɪt/",
+      "/ˈbɪtn/"
+     ],
+     "meaning": "cắn",
+     "icon": "🦷",
+     "note": "V2 là bit (không phải bote).",
+     "examples": [
+      "Does your dog bite?",
+      "A mosquito bit me last night.",
+      "The puppy has bitten my shoe!"
+     ],
+     "examples_vi": [
+      "Chó nhà cậu có cắn không?",
+      "Tối qua một con muỗi đốt tớ.",
+      "Chú cún đã cắn giày của tớ!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bài 14: Nhóm -ake / -ook & -ive / -ave",
+   "level": 1,
+   "icon": "🎁",
+   "note": "take, shake: a → oo → aken (take – took – taken). give, forgive: i → a → iven (give – gave – given).",
+   "verbs": [
+    {
+     "v1": "take",
+     "v2": "took",
+     "v3": "taken",
+     "ipa": [
+      "/teɪk/",
+      "/tʊk/",
+      "/ˈteɪkən/"
+     ],
+     "meaning": "lấy, cầm theo; chụp (ảnh)",
+     "icon": "📸",
+     "examples": [
+      "Take an umbrella with you.",
+      "We took a lot of photos at the zoo.",
+      "Who has taken my pen?"
+     ],
+     "examples_vi": [
+      "Mang theo ô nhé.",
+      "Chúng tớ chụp rất nhiều ảnh ở sở thú.",
+      "Ai lấy bút của tớ thế?"
+     ]
+    },
+    {
+     "v1": "shake",
+     "v2": "shook",
+     "v3": "shaken",
+     "ipa": [
+      "/ʃeɪk/",
+      "/ʃʊk/",
+      "/ˈʃeɪkən/"
+     ],
+     "meaning": "lắc, bắt (tay)",
+     "icon": "🤝",
+     "examples": [
+      "Shake the bottle before you drink.",
+      "The dog shook the water off its body.",
+      "She has shaken hands with everyone."
+     ],
+     "examples_vi": [
+      "Lắc chai trước khi uống.",
+      "Chú chó lắc mình cho ráo nước.",
+      "Cô ấy đã bắt tay mọi người."
+     ]
+    },
+    {
+     "v1": "give",
+     "v2": "gave",
+     "v3": "given",
+     "ipa": [
+      "/ɡɪv/",
+      "/ɡeɪv/",
+      "/ˈɡɪvn/"
+     ],
+     "meaning": "cho, tặng",
+     "icon": "🎁",
+     "examples": [
+      "Give me a hug!",
+      "Grandpa gave me a toy car.",
+      "Mum has given me some pocket money."
+     ],
+     "examples_vi": [
+      "Ôm tớ một cái nào!",
+      "Ông tặng tớ một chiếc ô tô đồ chơi.",
+      "Mẹ đã cho tớ ít tiền tiêu vặt."
+     ]
+    },
+    {
+     "v1": "forgive",
+     "v2": "forgave",
+     "v3": "forgiven",
+     "ipa": [
+      "/fəˈɡɪv/",
+      "/fəˈɡeɪv/",
+      "/fəˈɡɪvn/"
+     ],
+     "meaning": "tha thứ",
+     "icon": "🫶",
+     "note": "Chia giống give.",
+     "examples": [
+      "Please forgive me.",
+      "She forgave her brother.",
+      "I have forgiven you."
+     ],
+     "examples_vi": [
+      "Hãy tha lỗi cho tớ.",
+      "Cô ấy đã tha thứ cho em trai.",
+      "Tớ đã tha thứ cho cậu rồi."
+     ]
+    }
+   ]
+  }
+ ]
+}
