@@ -530,6 +530,11 @@ html[data-theme="dark"] .vnote{background:#3a3524}
   .vmrow b{font-size:18px}
   .vslot,.vchip{font-size:16px}
 }
+.wweb{display:block;font-size:13px;color:#a06a00;background:#fff6d8;border-radius:10px;padding:6px 10px;margin:8px 0}
+.wvin{display:block;width:100%;box-sizing:border-box;font:inherit;font-size:20px;padding:10px 14px;border-radius:14px;border:2px solid var(--line);background:var(--field);color:var(--ink);outline:none}
+.wvin:focus{border-color:var(--main)}
+.wdef{font-size:14px;color:var(--muted);margin:8px 0 2px;overflow-wrap:anywhere}
+html[data-theme="dark"] .wweb{background:#3a3524;color:#f3d38a}
 </style>
 </head>
 <body>
@@ -1334,7 +1339,9 @@ function renderRes(){
   if(!fold(LK.q)){ el.innerHTML = `<p class="tag center">${esc(t('lk_hint'))}</p>`; return; }
   const list = searchWords(LK.q), vl = vSearch(LK.q), vh = vl.length ? vLookupHTML(vl) : '';
   LK.items = list;
-  if(!list.length){ el.innerHTML = vh || `<p class="tag center">${esc(t('lk_empty'))}</p>`; return; }
+  const canWeb = LK.dir === 'en-vi' && /^[a-z][a-z' -]{0,40}$/i.test(LK.q.trim());
+  const webBtn = canWeb ? `<button class="cta" style="margin:14px auto" onclick="lkOnline()">🌐 ${esc(bi(`Tra “${LK.q.trim()}” trên mạng`, `Look up “${LK.q.trim()}” online`))}</button>` : '';
+  if(!list.length){ el.innerHTML = vh || `<p class="tag center">${esc(t('lk_empty'))}</p>${webBtn}`; return; }
   el.innerHTML = vh + `<p class="tag" style="margin:0 4px 10px">${esc(t('lk_count', list.length))}</p>` + list.map((wd, i) => {
     const saved = !!P[wd.k];
     const where = wd.custom ? t('tab_book') : modName(wd.m) + (wd.unit ? ' · ' + wd.unit : '');
@@ -1466,6 +1473,8 @@ function wpView(){
     return {w: vb.v1, ipa: vb.ipa[0] || '', pos: 'verb', vi: vb.vi, ex: vb.ex[fi], exVi: vb.exVi[fi],
       hw: (vb.ex[fi].match(vRe(vb.f[fi])) || [])[1], src: '🔁 ' + modName(vb.m) + ' · ' + vb.unit};
   }
+  if(WP.d && WP.st === 'web') return {w: WP.d.word, ipa: WP.d.ipa, pos: WP.d.pos, vi: WP.d.vi, ex: WP.d.ex, exVi: WP.d.exVi,
+    src: bi('🌐 Tra trên mạng – nghĩa dịch tự động, có thể chưa chuẩn', '🌐 Looked up online – automatic translation, may be inexact')};
   return {w: WP.forms[0], ipa: '', pos: '', vi: '', ex: '', exVi: '', src: ''};
 }
 function renderWP(){
@@ -1475,9 +1484,25 @@ function renderWP(){
     ? `<div class="wform">${esc(WP.tap)} → <b>${esc(v.w)}</b></div>` : '';
   const vtri = WP.vb ? `<div class="wform">🔁 <b lang="en">${esc(vTri(WP.vb))}</b></div>` : '';
   let bodyHTML;
-  if(WP.st === 'none') bodyHTML = `
-    <p class="wload" style="padding:10px 0">${esc(bi(`Từ này chưa có trong ${MODULES.length} module trên máy. Có thể nhập thêm module .mmc trong Cài đặt, hoặc tự nhập nghĩa:`, `This word is not in the ${MODULES.length} courses on this device. Import more .mmc courses in Settings, or type the meaning:`))}</p>
-    <div class="wman"><input id="wpman" placeholder="${esc(bi('Hoặc tự nhập nghĩa tiếng Việt…', 'Or type the Vietnamese meaning…'))}" autocomplete="off">
+  const manual = `<div class="wman">`;
+  if(WP.st === 'net') bodyHTML = `<p class="wload" style="padding:14px 0">🌐 ${esc(bi('Đang tra trên mạng…', 'Looking it up online…'))}</p>`;
+  else if(WP.st === 'web'){
+    const d = WP.d;
+    bodyHTML = `
+    <label class="wweb" for="wpvi">🌐 ${esc(bi('Nghĩa dịch tự động – sửa lại nếu chưa đúng rồi bấm Thêm', 'Automatic translation – fix it if needed, then Add'))}</label>
+    <input id="wpvi" class="wvin" lang="vi" value="${esc(d.vi)}" placeholder="${esc(bi('Nhập nghĩa tiếng Việt…', 'Type the Vietnamese meaning…'))}" autocomplete="off">
+    ${d.def ? `<div class="wdef" lang="en">📖 ${esc(d.def)}</div>` : ''}
+    ${d.ex ? `<div class="wex"><span lang="en">${hl(d.ex, d.word)}</span>${d.exVi ? `<small lang="vi">${esc(d.exVi)}</small>` : ''}</div>` : ''}
+    ${d.audio ? `<button class="btn ghost" style="margin-top:8px" data-src="${esc(d.audio)}" onclick="playUrl(this.dataset.src)">🗣️ ${esc(bi('Nghe giọng người thật', 'Hear a real voice'))}</button>` : ''}
+    <div class="wsrc">${esc(v.src)}</div>
+    <div class="wbtns"><button class="cta" onclick="wpWebAdd()">➕ ${esc(bi('Thêm vào Sổ tay (cấp 1)', 'Add to notebook (level 1)'))}</button></div>`;
+  }
+  else if(WP.st === 'none' || WP.st === 'neterr') bodyHTML = `
+    <p class="wload" style="padding:10px 0 4px">${esc(WP.st === 'neterr'
+      ? bi('Không tra được trên mạng (mất mạng hoặc từ không có trong từ điển). Có thể thử lại hoặc tự nhập nghĩa:', 'Could not look it up online (no connection or word not found). Try again or type the meaning:')
+      : bi(`Từ này chưa có trong ${MODULES.length} module trên máy.`, `This word is not in the ${MODULES.length} courses on this device.`))}</p>
+    <button class="cta" style="margin:10px auto 14px" onclick="wpOnline()">🌐 ${esc(bi(WP.st === 'neterr' ? 'Thử tra lại' : 'Tra trên mạng', WP.st === 'neterr' ? 'Try again' : 'Look it up online'))}</button>
+    ${manual}<input id="wpman" placeholder="${esc(bi('Hoặc tự nhập nghĩa tiếng Việt…', 'Or type the Vietnamese meaning…'))}" autocomplete="off">
       <button class="mini" onclick="wpManual()">${esc(bi('Lưu', 'Save'))}</button></div>`;
   else bodyHTML = `
     <div class="wvi" lang="vi">${esc(v.vi)}</div>
@@ -1524,7 +1549,7 @@ function wpAdd(){
     }
     wd = ALL.find(x => x.k === 'custom:' + c.w);
     if(!wd){ wd = mkCustom(c); ALL.push(wd); }
-    WP.wd = wd;
+    WP.wd = wd; WP.st = 'ok';
   }
   const fresh = !P[wd.k];
   P[wd.k] = {box:1, next: Date.now() + INTERVALS[1]};
@@ -1534,6 +1559,65 @@ function wpAdd(){
   renderWP();
   if(!Q && S.tab === 'book' && document.getElementById('rows')) updateBook();
   if(!Q && S.tab === 'lookup' && document.getElementById('lres')) renderRes();
+}
+/* ---------- Tra trên mạng (chỉ khi bé tự bấm nút) ----------
+   Free Dictionary API (dictionaryapi.dev): phiên âm, từ loại, định nghĩa, câu ví dụ, file đọc giọng người thật.
+   MyMemory (api.mymemory.translated.net): dịch nghĩa sang tiếng Việt. Chỉ gửi đúng từ/câu cần tra. */
+async function fetchT(url, ms){
+  const ac = new AbortController(), tm = setTimeout(() => ac.abort(), ms || 8000);
+  try{ return await fetch(url, {signal: ac.signal}); } finally { clearTimeout(tm); }
+}
+async function mmTrans(q){
+  const r = await fetchT('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(q) + '&langpair=' + encodeURIComponent('en|vi'));
+  if(!r.ok) return '';
+  const j = await r.json(), out = str(j && j.responseData && j.responseData.translatedText);
+  if(!out || /MYMEMORY WARNING|QUERY LENGTH LIMIT|INVALID/i.test(out) || out.toLowerCase() === q.toLowerCase()) return '';
+  return q === q.toLowerCase() && out[0] ? out[0].toLowerCase() + out.slice(1) : out;
+}
+async function wpOnline(){
+  if(!WP || WP.st === 'net') return;
+  if(navigator.onLine === false){ toast(bi('📵 iPad đang không có mạng.', '📵 You are offline.')); return; }
+  const w0 = WP;
+  WP.st = 'net'; renderWP();
+  let dict = null, word = WP.forms[0];
+  for(const f of WP.forms.slice(0, 4)){
+    try{ const r = await fetchT('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(f)); if(r.ok){ dict = (await r.json())[0]; word = (dict && dict.word) || f; break; } }catch(e){}
+    if(WP !== w0) return;
+  }
+  let vi = '';
+  try{ vi = await mmTrans(word); }catch(e){}
+  if(WP !== w0) return;
+  if(!dict && !vi){ WP.st = 'neterr'; renderWP(); return; }
+  const ph = dict && Array.isArray(dict.phonetics) ? dict.phonetics : [];
+  const ipa = str(dict && dict.phonetic) || str((ph.find(p => p && p.text) || {}).text);
+  const audio = str((ph.find(p => p && /^https:\/\/.+\.mp3$/i.test(p.audio || '')) || {}).audio);
+  const ms = dict && Array.isArray(dict.meanings) ? dict.meanings : [];
+  let ex = '';
+  ms.forEach(m => (m.definitions || []).forEach(d => { if(!ex && d.example && reW(word).test(d.example) && d.example.length < 140) ex = d.example; }));
+  if(!ex && WP.ctx && reW(word).test(WP.ctx) && WP.ctx.length < 160) ex = WP.ctx;
+  let exVi = '';
+  if(ex){ try{ exVi = await mmTrans(ex); }catch(e){} }
+  if(WP !== w0) return;
+  WP.d = {word, ipa, pos: str(ms[0] && ms[0].partOfSpeech), vi, ex, exVi, audio,
+    def: str(ms[0] && ms[0].definitions && ms[0].definitions[0] && ms[0].definitions[0].definition).slice(0, 160)};
+  WP.st = 'web'; renderWP();
+}
+function wpWebAdd(){
+  const el = document.getElementById('wpvi'), vi = el && el.value.trim();
+  if(!WP || !WP.d) return;
+  if(!vi){ toast(bi('Nhập nghĩa tiếng Việt trước nhé.', 'Type the Vietnamese meaning first.')); if(el) el.focus(); return; }
+  WP.d.vi = vi.slice(0, 120);
+  wpAdd();
+}
+let AUD = null;
+function playUrl(src){
+  try{ if(AUD) AUD.pause(); AUD = new Audio(src); AUD.volume = (SET.vol ?? 80) / 100; AUD.play().catch(() => toast(bi('Không phát được âm thanh.', 'Could not play the audio.'))); }catch(e){}
+}
+function lkOnline(){
+  const q = LK.q.trim();
+  if(!q) return;
+  openWP(q, '');
+  wpOnline();
 }
 function wpManual(){
   const el = document.getElementById('wpman'), vi = el && el.value.trim();
